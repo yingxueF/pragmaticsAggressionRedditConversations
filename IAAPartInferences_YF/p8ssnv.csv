@@ -1,0 +1,36 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+worldpolitics,,p8ssnv,Ariege123,"""post_title"": And there I was...........thinking.
+
+""post_content"": No US president in history could be worse than Trump.  Shit! You've excelled yourselves USA.",,"{""content"":""The OP expresses an extremely low opinion of Trump."", ""type"":""expressives""} ",The OP expresses an extremely low opinion of Trump.,expressives,no,IMP,OAG,
+worldpolitics,8/21/2021 17:09,h9soe04,SpaceManWP,"Apologies, but this is no longer a dedicated world politics sub. If you’re looking for actual world politics, it’s over at r/anime_titties and r/worldpolitics2",p8ssnv,"{""content"":""The speaker reminds the OP that the post is not suitable for the subreddit."", ""type"":""directives""} ",The speaker reminds the OP that the post is not suitable for the subreddit.,directives,no,IMP,NAG,
+worldpolitics,8/21/2021 17:12,h9sor7i,Ariege123,Funny.,h9soe04,"{""content"":""The OP finds the suggestion absurd."", ""type"":""expressives""}",The OP finds the suggestion absurd.,expressives,no,IMP,OAG,
+worldpolitics,8/21/2021 17:20,h9sptfv,Ariege123,Are anime titties worth a look?,h9soe04,"{""content"":""The OP is dismissive of the subreddit."", ""type"":""expressives""} ",The OP is dismissive of the subreddit.,expressives,no,IMP,OAG,
+worldpolitics,8/21/2021 17:21,h9spvgm,SpaceManWP,Go to the sub and find out,h9sptfv,"{""content"":""The speaker ignores the OP's provocative remarks and tells him/her to check the subreddit directly."", ""type"":""directives""}",The speaker ignores the OP's provocative remarks and tells him/her to check the subreddit directly.,directives,no,IMP,NAG,
+worldpolitics,8/21/2021 17:25,h9sqemq,Ariege123,"Oh! 
+Was not expecting that.
+Thanks for the tip ( genuinely).
+
+Will look for  outrageous cartoon breasts elsewhere.
+
+Reddit always surprises.",h9spvgm,"{""content"":""The OP thinks that anime titties are for outrageous cartoon breasts."", ""type"":""representatives""},{""content"":""The OP expresses confusion about Reddit's organization of subreddits."", ""type"":""expressives""},{""content"":""The OP is sarcastic about the mismatch between topics and subreddits on the platform."", ""type"":""expressives""}",The OP is sarcastic about the mismatch between topics and subreddits on the platform.,expressives,no,IMP,CAG,
+worldpolitics,8/21/2021 17:25,h9sqgfe,SpaceManWP,Happy to help,h9sqemq,literal,,,uncertain,,NAG,
+worldpolitics,8/22/2021 17:00,h9wzb4y,DarthDonnytheWise,"Were you born yesterday? Or just never payed attention in history class?
+
+Woodrow Wilson, Warren G Harding, Richard Nixon, HW Bush, W Bush, Trump, Biden. This ain't a new thing really.",p8ssnv,"{""content"":""The speaker thinks that the OP is ignorant of history."", ""type"":""expressives""},{""content"":""The speaker thinks that bad presidents are not rare in history."", ""type"":""representatives""}",The speaker thinks that the OP is ignorant of history.,expressives,no,IMP,OAG,
+worldpolitics,8/22/2021 20:15,h9xqffb,Ariege123,"Okay, calm down pilgrim.  
+
+Wilson / Harding no idea , I'm a Brit. The rest I have lived through ... You missed Clinton  and the prick after JFK.
+
+My point is exactly what I said, I refer you back to that.",h9wzb4y,"{""content"":""The OP thinks that the hearer is pedantic."", ""type"":""expressives""},{""content"":""The OP shows that he/she knows history but as a foreigner, he/she may miss some figures. "", ""type"":""representatives""}","The OP shows that he/she knows history but as a foreigner, he/she may miss some figures.",representatives,no,IMP,CAG,pilgrim
+worldpolitics,8/23/2021 4:21,h9zh7ef,DarthDonnytheWise,"Lyndon Johnson was after JFK and he didn't handle the war in vietnam well at all, but he gave black people in the US civil rights. Woodrow Wilson was the president that said the US wouldn't be involed in world war 1, then when he got elected he got into the war anyway.  
+
+
+Harding l stated: : ""I suppose so, but I am not fit for this office and should never have been here.""
+
+
+
+If your point was to say Biden is the worst the US can make president, then pick up a history book. And spoiler warning: it's just going to keep getting worse lol",h9xqffb,"{""content"":""The speaker thinks that there are reasons to call each of them bad presidents."", ""type"":""representatives""},{""content"":""The speaker does not think Biden is a bad president."", ""type"":""representatives""}, {""content"":""The speaker thinks that the future presidents might be even worse."", ""type"":""expressives""}",The speaker thinks that the future presidents might be even worse.,expressives,no,IMP,NAG,
+worldpolitics,8/23/2021 21:29,ha2il0j,Ariege123,"Goodbye now , you're quite tedious and missing the point. If he hasn't resigned by the end of the year , come back and mock me.",h9zh7ef,"{""content"":""The OP thinks that the hearer's reply is irrelevant to his/her post."", ""type"":""expressives""},{""content"":""The OP thinks that Trump is the worst and will resign by the end of the year."", ""type"":""commissives""}",The OP thinks that Trump is the worst and will resign by the end of the year.,commissives,no,IMP,OAG,
+worldpolitics,8/23/2021 21:32,ha2izpc,DarthDonnytheWise,"Ok just keep being ignorant of history. There's youtube too if you have some reading impairment. I'm not disagreeing that Biden shouldn't be left to take care of a pet rock, but *so far* he's not the worst president the USA has to offer (yet)",ha2il0j,"{""content"":""The speaker thinks that the OP is ignorant of history and probably reads too little."", ""type"":""expressives""}",The speaker thinks that the OP is ignorant of history and probably reads too little.,expressives,no,IMP,OAG,
+worldpolitics,8/23/2021 22:00,ha2n3by,Ariege123,It's not January yet.,ha2izpc,"{""content"":""The OP insists on waiting for Trump to resign by the end of the year."", ""type"":""commissives""}",The OP insists on waiting for Trump to resign by the end of the year.,commissives,no,IMP,NAG,resign
+worldpolitics,8/23/2021 22:01,ha2nb3k,DarthDonnytheWise,I for one welcome our Taliban overlords!,ha2n3by,"{""content"":""The speaker expresses pessimism toward future presidents of the US."", ""type"":""expressives""}",The speaker expresses pessimism toward future presidents of the US.,expressives,uncertain,IMP,NAG,future worse president

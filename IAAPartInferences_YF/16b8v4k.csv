@@ -1,0 +1,52 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskAGerman,,16b8v4k,Significant-Taro-940,"""post_title"": Why are German state officials tend to behave friendly to uneducated/unlawful immigrants while being hostile against people who visit the country for business purposes?…
+
+""post_content"": I am not saying that they should behave hostile against “the immigrants” but I wonder why they are so hostile against the second group?",,"{""content"":""The OP thinks that people who visit the country for business purposes are generally educated and lawful, and should be treated with friendliness."", ""type"":""representatives""},{""content"":""The OP finds it strange that the German state officials adopt differing attitudes towards the immigrants and visitors."", ""type"":""expressives""},{""content"":""The OP might have an experience of being treated with hostility by the German state officials or know some cases."", ""type"":""representatives""} ",The OP finds it strange that the German state officials adopt differing attitudes towards the immigrants and visitors.,expressives,no,IMP,NAG,
+AskAGerman,9/6/2023 5:12,jzbx0gu,HoJSimpson953,"Who are they?
+How often did it happen?
+How many people where involved?
+Are you sure this wasn't a singular incident?
+Did you ask yourself if you might have done something wrong?
+
+There are a fuck ton of reasons for this.
+
+Racism is probably the last one...",16b8v4k,"{""content"":""The speaker thinks the OP does not give enough details of the encounter with German state officials."", ""type"":""representatives""},{""content"":""The speaker thinks that the OP wants to attribute the differing treatments by the German state officials to racism."", ""type"":""expressives""}",The speaker thinks that the OP wants to attribute the differing treatments by the German state officials to racism.,expressives,no,IMP,OAG,
+AskAGerman,9/6/2023 5:14,jzbxal9,h00man8008,He sounds exactly like a german himself..,16b8v4k,"{""content"":""The speaker criticizes the OP of using German stereotypes."", ""type"":""expressives""}",The speaker criticizes the OP of using German stereotypes.,expressives,no,IMP,CAG,
+AskAGerman,9/6/2023 5:28,jzbz0je,Significant-Taro-940,"Who said anything about racism? 😄 and why this is the first thing came over your head?
+
+Maybe it is a singular event, I do not know.
+
+Wrong? If I did something “wrong” after such an invasive process, do you really belive they would let me go?",jzbx0gu,"{""content"":""The OP does not think the post implies anything related to racism and it is strange that the hearer thought of racism."",""type"":""expressives""},{""content"":"" The OP admits that there is a possibility that the experience is not generalizable."", ""type"":""representatives""},{""content"":""The OP might have experienced an invasive process without being given a fair reason."", ""type"":""representatives""}",The OP does not think the post implies anything related to racism and it is strange that the hearer thought of racism.,expressives,no,IMP,CAG,"""why this is the first thing came over your head"""
+AskAGerman,9/6/2023 5:32,jzbzicy,Significant-Taro-940,"Yeah I like German people, my question was mostly about the state, not the people…",jzbxal9,"{""content"":""The OP might have misunderstood the hearer's comments and thought the hearer related to his experience."", ""type"":""representatives""},{""content"":""The OP clarifies his/her question to reduce possible aggression from German people."", ""type"":""representatives""} ",The OP might have misunderstood the hearer's comments and thought the hearer related to his experience.,representatives,no,IMP,NAG,
+AskAGerman,9/6/2023 5:39,jzc0ehe,h00man8008,What did they do to you and why do you think poor people are treated better here? I thought u were a right wing german coming up with old cliches.,jzbzicy,"{""content"":""The speaker asks for more information from the OP, implying that the OP does not give sufficient details."", ""type"":""directives""},{""content"":""The speaker thinks that the immigrants are poor, indicating disagreement with the OP's accusation."", ""type"":""representatives""},{""content"":""The speaker clarifies his/her previous statement as a criticism rather than support of the OP."", ""type"":""representatives""}","The speaker asks for more information from the OP, implying that the OP does not give sufficient details.",directives,yes,IMP,CAG,
+AskAGerman,9/6/2023 5:44,jzc0vdw,Significant-Taro-940,"Nope, I am foreigner, 40 years old, first time in Germany… 
+
+Poor is a wrong term. Correct term would be “illegally enter Germany”
+
+I wrote what happened.",jzc0ehe,"{""content"":""The OP thinks that the hearer has misconception about the immigrants mentioned in the post."", ""type"":""representatives""},{""content"":""The OP stresses legal status of immigrants and tourists, indicating the preassumption that people who entered the country legally should receive better treatments."", ""type"":""representatives""},{""content"":""The OP thinks sufficient details have been given."", ""type"":""representatives""}","The OP stresses legal status of immigrants and tourists, indicating the preassumption that people who entered the country legally should receive better treatments.",representatives,uncertain,IMP,NAG,
+AskAGerman,9/6/2023 5:47,jzc18fs,HoJSimpson953,"Then stop beeing a vague fuck and tell us what happened instead of trying to throw shade at other people.
+
+And why did I think you where implying racism?
+Look at your post.
+You literally claim to be treated worse because you are a foreigner, while other lesser valuable people( according to your skewed ranking system) are treated better by state officials.
+Don't play dumb..you came here to cry us a river.
+
+If you really want an opinion, tell us what the fuck happened...",jzbz0je,"{""content"":""The speaker thinks that the OP wants to blame the others implicitly by hiding details."", ""type"":""representatives""},{""content"":""The speaker thinks that the OP discriminates against immigrants."", ""type"":""representatives""}",The speaker thinks that the OP wants to blame the others implicitly by hiding details.,representatives,no,IMP,OAG,
+AskAGerman,9/6/2023 5:50,jzc1n0b,Significant-Taro-940,"Maybe you should read again, everything you asked is written down there. 
+
+And be polite please, why are you so angry and disrespectful?",jzc18fs,"{""content"":""The OP thinks that it is unfair to accuse him/her of hiding details."", ""type"":""expressives""},{""content"":""The OP thinks that the hearer is unexpectedly angry and disrespectful."", ""type"":""directives""}",The OP thinks that it is unfair to accuse him/her of hiding details.,expressives,no,IMP,NAG,
+AskAGerman,9/6/2023 5:56,jzc2bxn,HoJSimpson953,"You ask a German if it is normal that ""state officials"" treat people you consider unlawfully better than you have been treated as a business Traveller.
+
+And again you never told us which officials did this.
+You didn't tell us where it happened.
+You didn't tell us what exactly happened.
+
+How are we supposed to give you an honest answer without all these informations. Because yes maybe you did something wrong or suspicious?
+Something you weren't aware of? Something someone could answer if you actually would tell us the INFORMATION.
+
+This is AskAGerman.
+And not the "" I had a shitty day at the airport let's complain to Germans"" sub reddit.",jzc1n0b,"{""content"":""The speaker thinks only when sufficient details are given, can they provide the OP an honest answer."", ""type"":""representatives""},{""content"":""In the speaker's opinion, the situation could be complicated, and it is not fair to simply blame the German state officials."", ""type"":""expressives""},{""content"":""The speaker thinks that the OP is only complaining, rather than asking the Germans for information."", ""type"":""expressives""} ","The speaker thinks only when sufficient details are given, can they provide the OP an honest answer.",representatives,no,IMP,OAG,
+AskAGerman,9/6/2023 5:58,jzc2mj2,Significant-Taro-940,"Ok, thank you",jzc2bxn,"{""content"":""The OP wants to end the conversation."", ""type"":""directives""}",The OP wants to end the conversation.,directives,no,IMP,NAG,"“OK, thank you” (in this context) is a politeness-masked directive — using an expressive form to indirectly issue a closing directive."
+AskAGerman,9/6/2023 6:00,jzc2si0,HoJSimpson953,"Ok. You don't want answers then.
+Have a good day sir.",jzc2mj2,"{""content"":""The speaker gets the OP's intention of closing the conversation."", ""type"":""representatives""},{""content"":""The speaker tries to show he/she is sincere in trying to give the OP answers. "", ""type"":""commissives""}",The speaker tries to show he/she is sincere in trying to give the OP answers. ,commissives,uncertain,IMP,CAG,"Representative:  stating a belief or understanding about the other's intention; The speaker (speaker) is committing to a cooperative or helpful stance — showing sincerity in the act of giving answers implies a willingness to engage or help.
+"
