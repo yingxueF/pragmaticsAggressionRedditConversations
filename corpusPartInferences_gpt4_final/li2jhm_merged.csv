@@ -1,0 +1,65 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+AusLegal,,li2jhm,MoveToAlternate,"""post_title"": Requirements to use text messages in court?
+
+""post_content"": I would like to use text messages and also messages sent over fb messenger as evidence in court and during mediation. 
+
+I have seen a Justice of the Peace signing print outs of text messages before. Is that required? Do I keep the persons name as contact, as displayed at the top on iPhone or do I have just their phone number?
+
+Related to child custody.",,"{""1"": {""content"": ""The author assumes that text and messenger messages can be used as legal evidence in child custody cases."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author is uncertain about the formal requirements for submitting digital messages as evidence (e.g., needing a Justice of the Peace to sign, how to display sender information)."", ""type"": ""expressives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author is preparing for a legal or mediation process and is seeking to maximize the admissibility of their evidence."", ""type"": ""directives"", ""confidence"": 0.85}}",1,representatives,yes,PRE,NAG
+AusLegal,2021-02-12 06:02:47,gn0zop7,GL1001,"If its child custody then im guessing its the Federal Circuit Court or Family Court.
+
+Any material relied upon in court needs to be annexed to an affidavit which would then be witnessed by a JP or lawyer.
+
+Name or number at the top wont make a difference since you're asserting that the otherside sent it and that issue will only need to be ventilated if the otherside denies sending it.
+
+Dont take a screenshot to mediation or court and expect it to carry any weight. It's only useful once it has been annexed to an affidavit and provided to the otherside to allow them to respond to any assertion that you are making.",li2jhm,"{""1"": {""content"": ""Legal procedure requires evidence to be annexed to an affidavit and witnessed by a JP or lawyer for it to be considered in court."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The form in which contact information is displayed (name or number) is not crucial unless the authenticity of the sender is challenged."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""Screenshots alone are insufficient for legal proceedings; proper legal process must be followed."", ""type"": ""directives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-02-12 07:11:59,gn15ws9,HoboNutz,"This is almost a ‘how long is a piece of string’ question. There’s about a million potential issues with such evidence, depending on what it is, what it apparently proves, and where you’re trying to use it.
+
+At a base level, to physically present it just requires a hard copy printout to bring along from the person who wrote it or received it.
+
+But you probably need legal advice for something like this since it’s intrinsically linked to the case.",li2jhm,"{""1"": {""content"": ""The admissibility and usefulness of digital message evidence is highly context-dependent and complex."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""At a basic level, a hard copy printout is needed to physically present such evidence."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author recommends seeking legal advice due to the complexity and case-specific nature of evidence requirements."", ""type"": ""directives"", ""confidence"": 0.93}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-02-12 07:33:40,gn17mni,GL1001,"&gt; At a base level, to physically present it just requires a hard copy printout to bring along from the person who wrote it or received it.
+
+Wtf...
+
+He's asking how to rely on material at Court and you're suggesting he needs to print it out and bring it along with the person who wrote it or received it?
+
+You're fucked lol.
+
+*ExperiencedFamilyLawyer*",gn15ws9,"{""1"": {""content"": ""The author strongly disagrees with the previous advice and considers it incorrect and impractical for court proceedings."", ""type"": ""expressives"", ""confidence"": 0.98}, ""2"": {""content"": ""The author positions themselves as an experienced family lawyer, implying authority and expertise."", ""type"": ""representatives"", ""confidence"": 0.95}, ""3"": {""content"": ""The author uses aggressive language to discredit the previous poster's advice."", ""type"": ""expressives"", ""confidence"": 0.97}}",1,expressives,yes,IMP,OAG
+AusLegal,2021-02-12 08:40:27,gn1cfly,HoboNutz,"Oh its you again. The “lawyer” who is often technically correct but in a way that’s completely useless to answering most questions.
+
+Yes I stand by my answer. I’m willing to bet money that the OP isn’t even in court proceedings yet and so your response about annexing it to an affidavit is mostly pointless (as usual).",gn17mni,"{""1"": {""content"": ""The author believes the previous poster is technically correct but practically unhelpful."", ""type"": ""expressives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author assumes the original poster is not yet in court proceedings, making some legal advice premature."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author is willing to defend their advice and challenges the relevance of the other poster's input."", ""type"": ""commissives"", ""confidence"": 0.88}}",1,expressives,yes,IMP,CAG
+AusLegal,2021-02-12 10:28:32,gn1jjmz,GL1001,"So you're recommending that he invite a third party to court or mediation with a print out of a Facebook message?
+
+Moron lol",gn1cfly,"{""1"": {""content"": ""The author finds the suggestion to bring a third party to court with a printout of a message to be absurd and insulting."", ""type"": ""expressives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author uses derogatory language to express disagreement and ridicule the previous advice."", ""type"": ""expressives"", ""confidence"": 0.98}}",1,expressives,yes,IMP,OAG
+AusLegal,2021-02-12 10:51:55,gn1l0jg,HoboNutz,"Yes I'm sure you interpret what I said that way, but maybe when you get some actual client experience you'll understand.",gn1jjmz,"{""1"": {""content"": ""The author implies the other party lacks practical experience and misinterprets their advice."", ""type"": ""expressives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author maintains a defensive stance, suggesting their advice is valid with more experience."", ""type"": ""commissives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,CAG
+AusLegal,2021-02-12 11:38:17,gn1nyg3,GL1001,"&gt;At a base level, to physically present it just requires a hard copy printout to bring along from the person who wrote it or received it.",gn1l0jg,"{""1"": {""content"": ""The author is quoting a previous statement, possibly to challenge or highlight its content."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,uncertain,IMP,NAG
+AusLegal,2021-02-12 12:06:55,gn1pqv9,HoboNutz,I mean I’ve always presumed you’re a law student or something - but have you not studied evidence? Surely you know why I said that and what it means?,gn1nyg3,"{""1"": {""content"": ""The author questions the other party's legal knowledge, implying they are inexperienced or a student."", ""type"": ""expressives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author expects the other party to understand the reasoning behind their advice if they have studied evidence law."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,expressives,uncertain,IMP,CAG
+AusLegal,2021-02-12 12:08:34,gn1puq1,MoveToAlternate,"Thank you to u/GL1001 and u/HoboNutz. 
+
+ Both answers have helped me out a great deal. 
+
+I haven’t had legal council for a while and I’m getting swamped and out of my depth. I have booked to see a new lawyer who I will likely stay with for the remainder of proceedings. I wanted to have as much ready when I have my appointment to best utilise our time efficiently. 
+
+Currently in mediation but it’s not going very well so I may seek advice if I should go to trial. 
+
+For my appointment I will take in hard copies of the messages I would like used and if the lawyer advises to use them then I know I can then move to the JP and appendix thereafter. 
+
+Thank you for the advice, you have helped me a bunch. Sorry it got you into an argument with each other.",gn0zop7,"{""1"": {""content"": ""The author is grateful for the advice and feels more prepared to consult with a lawyer."", ""type"": ""expressives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author is overwhelmed by the legal process and values efficiency in their upcoming legal consultation."", ""type"": ""expressives"", ""confidence"": 0.95}, ""3"": {""content"": ""The author intends to follow the advice by preparing hard copies of messages and seeking legal guidance on their use."", ""type"": ""commissives"", ""confidence"": 0.93}}",3,commissives,yes,IMP,NAG
+AusLegal,2021-02-12 12:08:57,gn1pvl2,MoveToAlternate,"Thank you to u/GL1001 and u/HoboNutz. 
+
+ Both answers have helped me out a great deal. 
+
+I haven’t had legal council for a while and I’m getting swamped and out of my depth. I have booked to see a new lawyer who I will likely stay with for the remainder of proceedings. I wanted to have as much ready when I have my appointment to best utilise our time efficiently. 
+
+Currently in mediation but it’s not going very well so I may seek advice if I should go to trial. 
+
+For my appointment I will take in hard copies of the messages I would like used and if the lawyer advises to use them then I know I can then move to the JP and appendix thereafter. 
+
+Thank you for the advice, you have helped me a bunch. Sorry it got you into an argument with each other.",gn15ws9,"{""1"": {""content"": ""The author is grateful for the advice and feels more prepared to consult with a lawyer."", ""type"": ""expressives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author is overwhelmed by the legal process and values efficiency in their upcoming legal consultation."", ""type"": ""expressives"", ""confidence"": 0.95}, ""3"": {""content"": ""The author intends to follow the advice by preparing hard copies of messages and seeking legal guidance on their use."", ""type"": ""commissives"", ""confidence"": 0.93}}",3,commissives,yes,IMP,NAG
+AusLegal,2021-02-12 12:16:46,gn1qdta,GL1001,"No worries. For the purposes of pre-litigation mediation, don't expect that the messages will have any weight or assist you in reaching an amicable resolution. 
+
+Also remember that the aim should be to promote the best interests of the child so any evidence that suggests otherwise or indicates that you're preoccupied with hostility towards your ex-spouse has the potential to derail any progress that could be made. 
+
+Good luck",gn1pvl2,"{""1"": {""content"": ""The author warns that digital messages are unlikely to influence mediation outcomes."", ""type"": ""directives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author emphasizes that the best interests of the child should be the primary concern in custody disputes."", ""type"": ""directives"", ""confidence"": 0.97}, ""3"": {""content"": ""The author cautions against displaying hostility towards the ex-spouse, as it could harm the case."", ""type"": ""directives"", ""confidence"": 0.96}}",2,directives,yes,IMP,NAG

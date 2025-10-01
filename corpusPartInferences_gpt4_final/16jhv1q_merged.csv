@@ -1,0 +1,48 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+Drizzy,,16jhv1q,Any_Being_5320,"""post_title"": You can't please everyone 😂😂😂
+
+""post_content"": That's it that's the message",,"{""1"": {""content"": ""It is impossible to satisfy everyone\u2019s preferences or opinions."", ""type"": ""representatives"", ""confidence"": 0.98}, ""2"": {""content"": ""People often have conflicting tastes, especially in music."", ""type"": ""representatives"", ""confidence"": 0.92}, ""3"": {""content"": ""The author is resigned or amused by the futility of trying to please everyone."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,representatives,yes,PRE,NAG
+Drizzy,9/15/2023 18:28,k0pthy6,Ok-Contract4383,"A lot of people love Drake for rap lmao, they missing out",16jhv1q,"{""1"": {""content"": ""There is a group of people who only appreciate Drake for his rap music, missing out on his other musical styles."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author believes that enjoying only one aspect of an artist\u2019s work is limiting."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,CAG
+Drizzy,9/15/2023 18:32,k0pu5k4,Any_Being_5320,Mann 😂😂😂 it hits different when you like them both it becomes a buffet the rap only fans only get about 2-4 songs sometimes must be a sad life,k0pthy6,"{""1"": {""content"": ""Fans who appreciate both rap and other genres from Drake have a richer experience."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""Limiting oneself to only rap songs is seen as a less fulfilling or 'sad' way to enjoy music."", ""type"": ""expressives"", ""confidence"": 0.88}, ""3"": {""content"": ""There is a subtle mockery of 'rap only' fans."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,CAG
+Drizzy,9/15/2023 18:34,k0pud5h,Ok-Contract4383,"Fr, we can indulge in every possible song whilst these bozos can only listen to 2-3",k0pu5k4,"{""1"": {""content"": ""People who enjoy all of Drake\u2019s music have more options and a better experience."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""Those who only like a subset of his music are missing out."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The term 'bozos' is used to belittle those with limited musical taste."", ""type"": ""expressives"", ""confidence"": 0.87}}",1,representatives,yes,IMP,CAG
+Drizzy,9/15/2023 18:34,k0pudba,EndoveProduct,"“Sliming you out” is weird choice of words
+
+SZA is the best part of the tune",16jhv1q,"{""1"": {""content"": ""The phrase 'sliming you out' is considered odd or off-putting by the author."", ""type"": ""expressives"", ""confidence"": 0.93}, ""2"": {""content"": ""SZA\u2019s contribution is viewed as the highlight of the song."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
+Drizzy,9/15/2023 18:37,k0puwvy,Any_Being_5320,Do you know what sliming you out even means? 😂,k0pudba,"{""1"": {""content"": ""The author questions whether the previous poster understands the meaning of 'sliming you out', implying possible ignorance."", ""type"": ""directives"", ""confidence"": 0.92}, ""2"": {""content"": ""The use of humor suggests the author finds the phrase amusing or odd."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,directives,yes,IMP,CAG
+Drizzy,9/15/2023 18:39,k0pv727,EndoveProduct,Sure do doesnt mean it sounds good now does it 😂,k0puwvy,"{""1"": {""content"": ""Understanding the meaning of a phrase does not necessarily make it sound good."", ""type"": ""representatives"", ""confidence"": 0.94}, ""2"": {""content"": ""The author maintains their negative opinion about the phrase despite knowing its meaning."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:39,k0pv9aa,Any_Being_5320,😂😂😂 mannn that's exactly what I be saying they're still waiting for a timestamp track,k0pud5h,"{
+      ""1"": {
+        ""content"": ""Some fans are still waiting for a specific type of song from Drake, such as a 'timestamp track'."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+      },
+      ""2"": {
+        ""content"": ""The author finds it amusing or frustrating that these fans are not satisfied."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.87
+      }
+    }",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:40,k0pvc2c,Any_Being_5320,But it did sound good 😂,k0pv727,"{""1"": {""content"": ""The author disagrees and believes the phrase did sound good."", ""type"": ""representatives"", ""confidence"": 0.93}}",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:40,k0pvdpu,Ok-Contract4383,They had her loss that should have satisfied them but nah they want more can’t blame them 🤣,k0pv9aa,"{
+      ""1"": {
+        ""content"": ""Even after receiving an album ('Her Loss'), some fans remain unsatisfied and continue to want more."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+      },
+      ""2"": {
+        ""content"": ""The author empathizes with the desire for more music, suggesting it is understandable."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.86
+      }
+    }",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:41,k0pvkzl,EndoveProduct,I disagree. It’s not a bad song but you’re glaaaaazing it.,k0pvc2c,"{""1"": {""content"": ""The author thinks the other person is exaggerating their praise for the song."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author does not consider the song bad, but feels the other is overhyping it."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,CAG
+Drizzy,9/15/2023 18:42,k0pvnvf,Any_Being_5320,You can't satisfy people that feels like a artist should only make songs they like despite the thousands of people at these shows that love everything he perform showing otherwise 😂😂,k0pvdpu,"{""1"": {""content"": ""Some fans expect artists to cater only to their personal tastes, ignoring broader appeal."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""Large concert audiences demonstrate that many people enjoy the artist\u2019s diverse output."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:42,k0pvqpd,Ok-Contract4383,Fr,k0pvnvf,"{""1"": {""content"": ""The author strongly agrees with the previous message."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
+Drizzy,9/15/2023 18:42,k0pvtmt,Any_Being_5320,Or maybe I just like it or am I glazing just because you don't like it I'm pretty sure it's a Drake song you like that I hate as well 😂,k0pvkzl,"{""1"": {""content"": ""The author challenges the accusation of 'glazing' and suggests musical taste is subjective."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author implies that everyone has different likes and dislikes, even within the same artist\u2019s discography."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+Drizzy,9/15/2023 18:44,k0pw1eh,EndoveProduct,That goes without saying. This is entirely just opinions hence me sharing mine lol ain’t need explaining,k0pvtmt,"{""1"": {""content"": ""The author asserts that musical preferences are subjective and do not require justification."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author is slightly dismissive, indicating the discussion is unnecessary."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,CAG
+Drizzy,9/15/2023 18:45,k0pwb62,Any_Being_5320,My opinion was "you can't please everyone" which is a universal fact no opinion was needed I spoke a fact and technically never mentioned that song anyway,k0pw1eh,"{""1"": {""content"": ""The author claims their statement was a factual observation, not an opinion."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author distances themselves from the specific song discussion."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,no,IMP,CAG
+Drizzy,9/15/2023 18:48,k0pwpoc,EndoveProduct,"Oh you weren’t referring to the new track making this post? Cmon now lol I gave my opinion that didn’t sit right with you. Immediately jumped to laughing at me and now taking some high road lmao
+
+Fuck right off",k0pwb62,"{""1"": {""content"": ""The author feels personally attacked or dismissed in the conversation."", ""type"": ""expressives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author perceives the other as being condescending or insincere."", ""type"": ""expressives"", ""confidence"": 0.92}, ""3"": {""content"": ""The use of profanity indicates overt aggression and frustration."", ""type"": ""expressives"", ""confidence"": 0.98}}",3,expressives,no,IMP,OAG
+Drizzy,9/15/2023 18:50,k0pwzsh,Any_Being_5320,😂😂 you ever heard vital?,k0pwpoc,"{""1"": {""content"": ""The author attempts to redirect the conversation, possibly to defuse tension."", ""type"": ""directives"", ""confidence"": 0.9}}",1,directives,yes,IMP,NAG
+Drizzy,9/15/2023 18:51,k0px6x1,EndoveProduct,Boy this has been a waste of time lol,k0pwzsh,"{""1"": {""content"": ""The author expresses regret or frustration about the conversation being unproductive."", ""type"": ""expressives"", ""confidence"": 0.95}}",1,expressives,uncertain,IMP,NAG

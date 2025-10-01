@@ -1,0 +1,77 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+AusLegal,,pzfm7p,VJ4rawr2,"""post_title"": When does a contract end and a new contract begins?
+
+""post_content"": Here is the scenario. 
+
+Tim runs a landscaping business and Kate pays him $1000 to build a patio. 
+
+Tim is unable to perform the task. He offers Kate a partial refund or $1000 credit towards a future project. 
+
+Kate accepts the credit. 
+
+Is that contract now complete?
+
+If Kate then hires Tim to paint the house and uses that credit to pay him, is that considered a new contract? 
+
+Victoria here.",,"{""1"": {""content"": ""The author is seeking to clarify the legal distinction between the end of one contract and the beginning of another, especially in cases involving credits instead of refunds."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The scenario is a hypothetical designed to generalize a legal principle, not to resolve a specific personal dispute."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author assumes that the use of credit in place of cash may have different legal implications for contract completion."", ""type"": ""representatives"", ""confidence"": 0.88}}",1,representatives,no,IMP,NAG
+AusLegal,2021-10-02 02:24:07,hf1ft2m,HoboNutz,This is like terribly written homework.,pzfm7p,"{""1"": {""content"": ""The responder is dismissive of the scenario, implying it lacks clarity or seriousness, possibly undermining the author's intent."", ""type"": ""expressives"", ""confidence"": 0.93}, ""2"": {""content"": ""There is an implicit assumption that the post is an assignment rather than a genuine inquiry."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,expressives,no,IMP,CAG
+AusLegal,2021-10-02 02:30:40,hf1glt0,VJ4rawr2,Not homework. I have no legal knowledge. I’m looking to apply this same scenario to travel providers issuing credit instead of refunds during the pandemic.  I thought the concept would be easier explained this way than to detail my personal story.,hf1ft2m,"{""1"": {""content"": ""The author clarifies their intent is to understand a legal principle for broader application, not to complete homework."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author believes that using a hypothetical scenario is a more effective way to discuss general legal concepts than sharing personal details."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,no,IMP,NAG
+AusLegal,2021-10-02 02:33:04,hf1gwbo,HoboNutz,No it’s a good way to get a worse and less reliable answer for your own problem.,hf1glt0,"{""1"": {""content"": ""The responder believes that using hypotheticals leads to less useful or less accurate advice than sharing the actual problem."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""There is an implicit criticism of the author's approach, suggesting it is counterproductive."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,CAG
+AusLegal,2021-10-02 02:34:07,hf1h0r7,VJ4rawr2,The core question is “when does a contract end.  After the issuance of credit?  Or after the use of that credit?”,hf1gwbo,"{""1"": {""content"": ""The author is refocusing the discussion on the core legal question about when a contract ends in the context of credit issuance."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author seeks a clear, principle-based answer rather than anecdotal or case-specific advice."", ""type"": ""directives"", ""confidence"": 0.85}}",1,representatives,no,IMP,NAG
+AusLegal,2021-10-02 02:37:26,hf1hfeu,HoboNutz,"“It depends”.
+
+How does that theoretical answer even help you? Just post your problem and the hopeful goal/outcome and leave the theory to the lawyers.",hf1h0r7,"{""1"": {""content"": ""The responder is skeptical about the usefulness of theoretical answers and prefers practical, case-specific questions."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""The responder advises the author to present their actual problem and desired outcome for more effective help."", ""type"": ""directives"", ""confidence"": 0.92}}",2,directives,no,IMP,CAG
+AusLegal,2021-10-02 02:39:19,hf1hnjj,VJ4rawr2,"Because concepts in law are applied across a range of situations.  I’m interested in the underlying principle.
+
+If you don’t have an answer then thanks for the conversation.",hf1hfeu,"{""1"": {""content"": ""The author values understanding general legal principles that can be applied to various situations."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author is politely ending the conversation if the responder cannot provide a substantive answer."", ""type"": ""commissives"", ""confidence"": 0.88}}",1,representatives,no,IMP,NAG
+AusLegal,2021-10-02 02:42:37,hf1i1tx,HoboNutz,Lol if you don’t have any legal training so how would you understand how to apply the underlying principle?,hf1hnjj,"{""1"": {""content"": ""The responder questions the author's ability to understand legal principles without formal training, implying skepticism or condescension."", ""type"": ""expressives"", ""confidence"": 0.92}}",1,expressives,no,IMP,CAG
+AusLegal,2021-10-02 02:43:42,hf1i6kb,VJ4rawr2,Thanks for the conversation.,hf1i1tx,"{""1"": {""content"": ""The author is disengaging from the conversation, possibly due to frustration or feeling dismissed."", ""type"": ""commissives"", ""confidence"": 0.9}}",1,commissives,no,IMP,NAG
+AusLegal,2021-10-02 02:50:14,hf1iyz0,HoboNutz,Eh reported for pointless hypothetical. Post the actual problem and don’t waste the time of the lawyers on here.,hf1i6kb,"{""1"": {""content"": ""The responder is frustrated by hypothetical questions and believes they waste experts' time."", ""type"": ""expressives"", ""confidence"": 0.93}, ""2"": {""content"": ""The responder is taking action by reporting the post, indicating a belief that such questions are inappropriate for the forum."", ""type"": ""commissives"", ""confidence"": 0.9}}",1,expressives,no,IMP,OAG
+AusLegal,2021-10-02 02:53:15,hf1jc4d,VJ4rawr2,"Hypothetical questions are permitted.  
+
+Again, I’m interested in the fundamental principle re: what constitutes the completion of a contract. 
+
+Thanks",hf1iyz0,"{""1"": {""content"": ""The author asserts that hypothetical questions are allowed and reiterates their interest in legal principles."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,no,IMP,NAG
+AusLegal,2021-10-02 02:58:45,hf1k0hm,HoboNutz,Then go to law school or buy a contract textbook.,hf1jc4d,"{""1"": {""content"": ""The responder is dismissive, suggesting the author should seek formal legal education or resources instead of asking on the forum."", ""type"": ""directives"", ""confidence"": 0.93}}",1,directives,no,IMP,CAG
+AusLegal,2021-10-02 04:26:46,hf1udnt,flidge,"There are threads responding to that precise question. The answer as with a lot of the law, is “it depends”.",hf1glt0,"{""1"": {""content"": ""The responder indicates that the question has been answered elsewhere and that legal answers often depend on specific circumstances."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 04:33:14,hf1v46o,VJ4rawr2,"Thanks. What are some of the variables that might be relevant ?
+
+From my understanding a contract involves offer, consideration and acceptance. 
+
+In the above example, if the consumer had accepted a partial refund (as cash) in lieu of the contract being fulfilled, the acceptance of compensation (cash) would have ended the contract. 
+
+If they used that cash to pay to have their house painted, that would then be a new contract (offer, consideration and acceptance). 
+
+I’m just interested to know whether credit is treated differently to cash when accepting a refund. 
+
+Hopefully you understand the core of what I’m asking. Thanks",hf1udnt,"{""1"": {""content"": ""The author is seeking clarification on whether credit and cash are treated differently in contract law regarding contract completion."", ""type"": ""representatives"", ""confidence"": 0.94}, ""2"": {""content"": ""The author demonstrates some understanding of contract law concepts (offer, consideration, acceptance)."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 04:35:45,hf1ver5,flidge,Well the short answer is read some of the other threads but the reality is that you could have various contracts for various things in one engagement. The question is what does one desire out of any of this?,hf1v46o,"{""1"": {""content"": ""The responder suggests that multiple contracts can exist within one engagement and that the desired outcome shapes the legal interpretation."", ""type"": ""representatives"", ""confidence"": 0.91}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 04:40:24,hf1vxt7,VJ4rawr2,"I just want to know if the acceptance of credit ends the contract in the same way acceptance of cash would. 
+
+This is important because the terms and conditions of the first contract might be different to the terms and conditions relevant at the time the second contract is created (or not created). 
+
+I’ve read other threads but haven’t really seen this answered succinctly. Hence why I asked it here. 
+
+Thanks.",hf1ver5,"{""1"": {""content"": ""The author is seeking a clear distinction between the legal effects of accepting credit versus cash in contract rescission."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author is dissatisfied with previous answers and is seeking a more direct response."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 04:43:55,hf1wc8q,flidge,I would say cash ends any contract cos it’s effectively a rescission. Credit creates another contract,hf1vxt7,"{""1"": {""content"": ""The responder asserts that cash ends a contract via rescission, while credit creates a new contract."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 04:49:05,hf1wx6x,VJ4rawr2,"Ok thanks. Yes I agree cash does end the contract.  So would bartering of goods or services upon transference/completion. 
+
+That would also end the contract. 
+
+Is there any reason why (in your opinion) credit would be treated differently?  The act of issuing credit is effectively rescission is it not?
+
+It’s not dependent on the consumer using credit. 
+
+At least that’s what I would assume.",hf1wc8q,"{""1"": {""content"": ""The author agrees that cash or barter ends a contract and questions whether credit should be treated the same way."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author is seeking further clarification on the legal treatment of credit in contract rescission."", ""type"": ""directives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 05:12:09,hf1zgxr,flidge,"Depends whether there is any provision for this in the original contract. There could be provision for it in the originals T&amp;Cs. On the other hand, cash is cash",hf1wx6x,"{""1"": {""content"": ""The responder suggests that the original contract's terms and conditions may determine how credit is treated, but cash is straightforward."", ""type"": ""representatives"", ""confidence"": 0.91}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 05:29:00,hf219as,VJ4rawr2,"There are no provisions for credit in the T&amp;C’s
+
+I was just curious how the issuance of credit was treated in general principal in relation to rescission of a contract. 
+
+Essentially my issue is I signed a contract pre covid, the other party failed to deliver on the contract, they issued credit as a refund.  I then used that credit to purchase a new product and they’re trying to retroactively apply the terms and conditions of contract 1, despite them having a different set of terms and conditions at time I paid (using credit) for the second product.
+
+I was hoping for some clarity on general principals rather than dealing with semantics.",hf1zgxr,"{""1"": {""content"": ""The author reveals their personal situation, indicating a real-world dispute about the application of contract terms after a credit refund."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author is frustrated by the lack of clear legal principles and is seeking general guidance rather than case-specific semantics."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 05:30:49,hf21g4n,flidge,"To answer that question, you’d need to provide someone with the original contract, the terms of the credit/refund and the new contract. No principles here it’s all dependent on agreements",hf219as,"{""1"": {""content"": ""The responder asserts that the answer depends entirely on the specific agreements and documents, not on general legal principles."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,NAG
+AusLegal,2021-10-02 05:41:40,hf22kqw,VJ4rawr2,"No reference in the terms and conditions to specific stipulations on refunds.
+
+Really appreciate your comments. Very helpful. Thanks.",hf21g4n,"{""1"": {""content"": ""The author confirms there are no specific refund stipulations in the contract and expresses gratitude for the advice received."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""The author is satisfied with the assistance and is closing the discussion politely."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,uncertain,IMP,NAG

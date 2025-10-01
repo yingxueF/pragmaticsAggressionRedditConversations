@@ -1,0 +1,96 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+Buddhism,,1bnzex2,Lonelygayinillinois,"""post_title"": Vision Half a Year Ago-Does anyone know what this was?
+
+""post_content"": Around half a year ago, while contemplating rebirth, I had an intense vision. In this vision, I saw fleas, mice and a dog and thought ""this is me"". I realized everything was pushed into form through causation. I also saw bright lights throughout the vision. I felt like I had seen my connectedness to everything. ",,"{""1"": {""content"": ""The author believes that intense meditative or contemplative experiences can reveal profound truths about self and interconnectedness."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author presupposes that visions during meditation may have significant meaning or insight into personal identity and causation."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author is seeking external validation or interpretation of their experience, implying uncertainty or curiosity about its meaning."", ""type"": ""directives"", ""confidence"": 0.85}}",3,directives,yes,IMP,NAG
+Buddhism,2024-03-26 06:42:25,kwlrfb4,Tongman108,"I Personally don't know exactly what it was or what form of contemplation you where doing (chilling on the bed, or deep meditation etc etc).
+
+Who taught you this contemplation? (How to do it)
+
+Do you have a teacher?
+
+During process of cultivation myriad phenomena can arise hence it's advisable to practice under a qualified teacher with attainments in the practices your interested in...
+
+Having a good teacher could save you from wasting months/years on wrong views/practices or simply not knowing how to proceed to the next ...
+
+Trying to figure it out on your own invariably involves exploring numerous dead ends & potentially dangerous paths..
+
+
+Best wishes & safe journey 
+
+
+🙏🏻🙏🏻🙏🏻",1bnzex2,"{""1"": {""content"": ""The author assumes that guidance from a qualified teacher is essential for safe and effective spiritual or meditative practice."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author implies that self-guided exploration in spiritual matters can be risky and inefficient."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author is advising the original poster to seek or continue with qualified instruction to avoid potential pitfalls."", ""type"": ""directives"", ""confidence"": 0.92}}",3,directives,yes,IMP,NAG
+Buddhism,2024-03-26 07:27:06,kwlvakb,Lonelygayinillinois,"I have a teacher now.  
+
+
+ I had been doing vipassana meditation frequently (which I learned from an online meditation guide) and reading suttas and the Abhidhamma a lot during the lead up. I started contemplating, and that developed into walking meditation which is when the vision occurred.",kwlrfb4,"{""1"": {""content"": ""The author clarifies that they now have a teacher, addressing concerns about lack of guidance."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author implies that their previous experiences were self-guided, but they have since sought formal instruction."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author values structured learning and acknowledges the influence of traditional Buddhist texts and practices."", ""type"": ""representatives"", ""confidence"": 0.88}}",1,representatives,yes,IMP,NAG
+Buddhism,2024-03-26 07:45:09,kwlwrch,Tongman108,">I have a teacher now.  
+
+Great 👏🏻 
+
+So what's your Teacher/Guru's perspective on the matter? 
+
+Did you not like his/her answer ? 🤣 (excuse my playfulness)
+
+Or are you seeking a second opinion to verify your Guru's/Teachers opinion?
+
+Or have you not asked you teacher yet?
+
+
+It's certainly an interesting experience , the answer you get might depend on the goals of the tradition you follow...
+
+Same with the answers you'll get here..
+
+Some may go into analysis of the vision & its symbolic meaning 
+
+Some may advise to ignore it & continue with the original practice that let to the vision (staying focused on your objective).
+
+
+All depends 🙏🏻
+
+Great sign of encouragement regardless so keep up with your practice but remember that its very important not to become overly attached to any phenomena that arises or secretly wish in ones heart that the phenomena will repeat.
+
+Best wishes 
+
+
+🙏🏻🙏🏻🙏🏻",kwlvakb,"{""1"": {""content"": ""The author presupposes that the teacher's perspective is important and possibly more authoritative than online opinions."", ""type"": ""representatives"", ""confidence"": 0.91}, ""2"": {""content"": ""The author warns against becoming attached to spiritual phenomena, suggesting detachment is a key practice."", ""type"": ""directives"", ""confidence"": 0.92}, ""3"": {""content"": ""The author implies that interpretations of spiritual experiences are subjective and tradition-dependent."", ""type"": ""representatives"", ""confidence"": 0.89}}",2,directives,yes,IMP,NAG
+Buddhism,2024-03-26 23:19:24,kwpmwav,Playful-Independent4,"""I had a vision"". You have your answer. Your imagination summoned feelings and images. What it was is nothing more than what you described it as. 
+
+Plus, the ""this is me"" part seems a little off in terms of buddhist teachings. 
+
+Does that answer your question? A vision is a vision, like a dream is a dream, a thought is a thought, a feeling is a feeling, and so on. Our senses and imaginations bombard us with information all the time. There is no special meaning behind it. There is only the meaning you decide to give it. It's entirely internal (as much as we can distinguish internal and external causes). You read about interconnectedness, and eventually you imagined that you were dogs and mice. What else could there possibly be to it, and how would strangers on the internet know for you?",1bnzex2,"{""1"": {""content"": ""The author is skeptical of attributing special meaning to visions, viewing them as products of imagination rather than spiritual insight."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author challenges the alignment of the vision with Buddhist teachings, implying the original poster may misunderstand doctrine."", ""type"": ""representatives"", ""confidence"": 0.92}, ""3"": {""content"": ""The author discourages seeking external validation for subjective experiences, suggesting meaning is self-assigned."", ""type"": ""directives"", ""confidence"": 0.9}}",1,representatives,no,IMP,CAG
+Buddhism,2024-03-26 23:47:44,kwprqac,Lonelygayinillinois,"Buddhism isn't a materialist belief system, and I'm not a materialist. You have to remember that not everyone shares your view of reality.   
+
+
+ You should look up the mind-body problem.",kwpmwav,"{""1"": {""content"": ""The author rejects materialist interpretations of Buddhist experiences and asserts the legitimacy of non-materialist perspectives."", ""type"": ""representatives"", ""confidence"": 0.94}, ""2"": {""content"": ""The author implies that the previous message imposes a narrow worldview and lacks philosophical openness."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,no,IMP,CAG
+Buddhism,2024-03-26 23:59:47,kwptqyp,Playful-Independent4,"I am well-aware of the mind-body problem. There is no way of considering it a problem outside of ""we have no clear/complete model for the material explanation"" and ""there is no non-material explanation that doesn't rely on make-believe"". 
+
+Maybe look of information theory? There is no reasonable way of claiming that any information (minds, memories, digital information, and anything else) is somehow ""non-material"". Information is always stored in matter, and matter is pretty much defined as things that exist and interact. If your mind were not material, it would, by definition, not exist and not interact with your body.",kwprqac,"{""1"": {""content"": ""The author asserts that all information, including minds and memories, is material and dismisses non-material explanations as unfounded."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author implies that non-materialist views are equivalent to 'make-believe' and lack scientific credibility."", ""type"": ""representatives"", ""confidence"": 0.91}}",1,representatives,no,IMP,CAG
+Buddhism,2024-03-27 00:09:46,kwpvdu8,Lonelygayinillinois,"Light isn't matter yet transmits information. You're misinformed, and you come across as very arrogant because you don't know that you're not very well informed.   
+
+
+There are many ways to consider non-materialist perspectives philosophically. Just because you haven't observed non-matter (to your knowledge) doesn't mean that non-matter doesn't exist.   
+
+
+And there are absolutely ways of considering it a problem outside of ""We have no clear/complete model"", even if we had a clear/complete model it would still be a problem because our perceptions and intellect are not infallible.   
+
+
+  
+I recommend ""Invitation to Physics"" by Ken Greider and ""Metaphysics"" by W.H Walsh so you can become better informed. I think any scientifically minded person should have an education in metaphysics. I'm telling you, are making very silly claims about topics you very obviously don't know very much about.",kwptqyp,"{""1"": {""content"": ""The author challenges the materialist view by providing counterexamples (light) and accuses the other of arrogance and misinformation."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author recommends philosophical education, implying the other lacks sufficient knowledge in metaphysics."", ""type"": ""directives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author expresses frustration with the other's perceived close-mindedness and lack of understanding."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,no,IMP,CAG
+Buddhism,2024-03-27 00:16:21,kwpwgt2,Playful-Independent4,"At the risk of confirming accusations of arrogance, I have to say your reply makes me feel even more firm in my position. You claim I am misinformed, yet you claim that ""light is not matter"", which is completely false and completely ignores the main point I made about information theory. I guess there is value in ignoring my point, since it has a high risk of becoming a debate of semantics, but still. I really can't engage with this approach. You've ignored everything I said just so you can feel comfortable with believing in reality-breaking stuff and avoid having to phrase your initial question less ambiguously. I'll be moving on, because I doubt making you share pseudoscience like ""light isn't matter"" is constructive, both for science and for buddhism. Have a good day, and I hope you get educated in physics a little better if you want to.",kwpvdu8,"{""1"": {""content"": ""The author feels their arguments have been ignored and expresses frustration with the perceived derailment of the discussion."", ""type"": ""expressives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author accuses the other of promoting pseudoscience and being unwilling to engage in meaningful debate."", ""type"": ""representatives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author signals intent to disengage from the conversation due to perceived futility."", ""type"": ""commissives"", ""confidence"": 0.93}}",3,commissives,yes,IMP,CAG
+Buddhism,2024-03-27 00:26:01,kwpy24r,Lonelygayinillinois,"Dude light is not matter, check any source you want:   
+
+
+[http://scienceline.ucsb.edu/getkey.php?key=51](http://scienceline.ucsb.edu/getkey.php?key=512)   
+[https://byjus.com/question-answer/why-is-light-not-considered-a-matter/#:\~:text=Light%20exists%20in%20tiny%20packets,is%20the%20radiation%20of%20energy](https://byjus.com/question-answer/why-is-light-not-considered-a-matter/#:~:text=Light%20exists%20in%20tiny%20packets,is%20the%20radiation%20of%20energy).  
+
+
+""Matter is defined as anything that has mass and occupies volume. Visible light (or simply light) is an electromagnetic radiation. It has the wavelength ranges from 380 nm-780 nm. Light exists in tiny packets called photons. Photons have no rest mass and they do not occupy any volume. So light is not matter. It is the radiation of energy.""  
+
+
+You are arrogant, and you do not have even a basic understanding of physics or philosophy. Before you accuse someone of making ""reality-breaking claims"", you should at least get a basic understanding of how you interact with reality and what you can really claim about reality. Please read ""Metaphysics"" by W.H Walsh. I swear to God, I will buy it for you if you promise you will read it. It's a really great book that goes over many great philosophers and their views on reality and what we can and can't claim in those philosophers' perspectives.   
+
+
+You live a much more limited life perceptually and conceptually than you would believe. And that's not an insult at all.",kwpwgt2,"{""1"": {""content"": ""The author provides scientific sources to refute the claim that light is matter, asserting their own knowledge and correcting the other."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author accuses the other of arrogance and ignorance, but frames it as a non-insult."", ""type"": ""expressives"", ""confidence"": 0.9}, ""3"": {""content"": ""The author offers to buy a philosophy book for the other, implying a strong desire for them to become better informed."", ""type"": ""commissives"", ""confidence"": 0.88}}",1,representatives,no,IMP,CAG
+Buddhism,2024-03-27 00:36:45,kwpzsdk,Playful-Independent4,"Should've blocked you right away. You decide to reply anyways, and for what? To get into the semantics of matter? While ignoring EVERYTHING else I said? To push a book on me without giving ANY acknowledgements to the theories I brought up? 
+
+You can call me names if you want, it will never insult me as much as this kind of purposeful derailment that only serves to dodge everything else. I am not in the mood for this nonsense. Good luck with whatever else you got going on. Bye bye.",kwpy24r,"{""1"": {""content"": ""The author expresses frustration and signals intent to disengage from the conversation due to perceived derailment and lack of meaningful engagement."", ""type"": ""commissives"", ""confidence"": 0.94}, ""2"": {""content"": ""The author feels personally attacked or insulted by the other's approach, but claims not to be affected by name-calling."", ""type"": ""expressives"", ""confidence"": 0.89}}",1,commissives,yes,IMP,CAG

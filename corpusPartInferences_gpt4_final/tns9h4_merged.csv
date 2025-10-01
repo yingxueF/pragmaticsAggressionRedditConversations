@@ -1,0 +1,72 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+confessions,,tns9h4,SignorTeddyRose,"""post_title"": I'm fucking useless.
+
+""post_content"": I can't even do dishes without freaking the fuck out and I am just a fucking embarrassment. I shouldn't be here. Nothing fucking helps anymore, the problems only get worse and no one fucking cares.
+
+If I were a dog I'd be put down. Sometimes I wish someone finally would. I try to be positive, I try to keep a smile on my face, I try so hard to mask everything and I'm a failure at that and everything else I try.
+
+I just wish I were useful but I'm the most useless person on the entire planet.",,"{""1"": {""content"": ""The author is experiencing severe depression and suicidal ideation."", ""type"": ""expressives"", ""confidence"": 0.99}, ""2"": {""content"": ""The author feels fundamentally worthless and believes their existence is a burden to others."", ""type"": ""representatives"", ""confidence"": 0.98}, ""3"": {""content"": ""The author perceives a lack of support or care from others, contributing to their hopelessness."", ""type"": ""representatives"", ""confidence"": 0.95}}",1,expressives,yes,IMP,NAG
+confessions,2022-03-25 21:14:42,i23y3oz,Brief_Hour_4690,"Very sorry to hear all that you are going through, but please keep your head high. I know it is easier said than done, but please take care of your mental health and maybe start seeing a therapist as they are the most qualified to assist you and will help you work through the immense mental pressure on you. You are not selfish for seeing a therapist, you are taking care of yourself.
+
+No one is useless. Try finding anything at all you enjoy and pursue it.
+
+There are happier days ahead. Please reach out if you need to get anything off your chest or need someone to talk to!",tns9h4,"{""1"": {""content"": ""The responder believes professional help (therapy) is effective and not shameful."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The responder rejects the notion that anyone is inherently useless."", ""type"": ""representatives"", ""confidence"": 0.93}, ""3"": {""content"": ""The responder is offering emotional support and encouragement to the author."", ""type"": ""expressives"", ""confidence"": 0.92}}",2,representatives,no,IMP,NAG
+confessions,2022-03-26 02:45:24,i2566ll,pistolpete827,"It will pass in time, everything is going to be ok. Try making small changes - I recently realized I take shallow breaths when I’m stressed so simple breathing techniques have had a huge impact. Same with exercise. For years I had no faith in things like this, thinking it wasn’t connected, but I’m finally feeling like I’ve turned a corner.",tns9h4,"{""1"": {""content"": ""The responder believes that small lifestyle changes (like breathing techniques and exercise) can significantly improve mental health."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The responder is sharing personal experience to encourage the author to try similar methods."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,no,IMP,NAG
+confessions,2022-03-26 15:36:56,i272xnd,SignorTeddyRose,"I already see a therapist.
+
+Nothing makes me happy anymore, and the things that used to I suck too bad at to even think of picking up again.
+
+It's just a fact of life: I am useless.",i23y3oz,"{""1"": {""content"": ""The author feels hopeless and believes that therapy and previous sources of happiness are ineffective."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author is rejecting the encouragement and advice given, reinforcing their negative self-perception."", ""type"": ""expressives"", ""confidence"": 0.93}}",1,representatives,yes,IMP,NAG
+confessions,2022-03-26 15:39:54,i273bks,SignorTeddyRose,"&gt;breathing techniques
+
+Literally has never once fucking worked for me. All it does is take me from panic attack to deep depression. Good for you, glad it fucking worked for you, but I really wish people would stop saying what effectively boils down to: breathe better silly billy!! Like it actually fucking is universal and helps everyone.",i2566ll,"{""1"": {""content"": ""The author is frustrated by generic advice and feels invalidated by suggestions that do not work for them."", ""type"": ""expressives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author believes that mental health solutions are not universal and resents being told otherwise."", ""type"": ""representatives"", ""confidence"": 0.94}}",1,expressives,no,IMP,CAG
+confessions,2022-03-26 18:24:02,i27psof,pistolpete827,"Got it, sorry I offered my advice. Again, I used to think the same until I read a book and learned intense breathing patterns that I assure you are different than “just breathing better”. Also, the way you responded is very telling.
+
+Learn to appreciate advice when asking for it and go educate yourself on ways to get better instead of lashing out at a stranger who took the time to answer a question you asked. You say you put a smile on but I’d say you’re being a dickhead and nothing will get better if you don’t adjust that first. If you’re looking for an easy fix on Reddit, there isn’t one and it won’t come if you’re not willing to experiment with changes.",i273bks,"{""1"": {""content"": ""The responder feels personally attacked and is defensive about their advice."", ""type"": ""expressives"", ""confidence"": 0.95}, ""2"": {""content"": ""The responder believes the author is ungrateful and unwilling to accept help."", ""type"": ""representatives"", ""confidence"": 0.93}, ""3"": {""content"": ""The responder implies that improvement requires openness to advice and self-change."", ""type"": ""directives"", ""confidence"": 0.92}}",3,directives,yes,IMP,CAG
+confessions,2022-03-26 22:49:57,i28pu5v,SignorTeddyRose,"So, I'm a useless asshole?
+
+Thank you for confirming exactly what I already knew. I'm a worthless twat and should just disappear.
+
+I've experimented so fucking much, nothing fucking works.
+
+I'm just so fucking tired of hearing the same routes others take to happiness that just don't work for me. 
+
+I just wanna stop waking up feeling like I should be gone and I'm so fucking tired of moving forward for others when no one can be fucking arsed to care about me.
+
+Sorry I got snippy, but I'm fucking drowning and I can't find a way out.",i27psof,"{""1"": {""content"": ""The author interprets the previous message as confirmation of their worthlessness."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author feels exhausted by repeated failed attempts to improve and unsupported by others."", ""type"": ""expressives"", ""confidence"": 0.96}, ""3"": {""content"": ""The author apologizes for their tone, indicating awareness of their emotional state."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,representatives,no,IMP,NAG
+confessions,2022-03-30 20:13:42,i2qturm,Brief_Hour_4690,"You had mentioned already going to a therapist, but maybe try going to a new one to hear a different perspective? I don't think he was calling you a useless asshole, just that you need to try viewing life from a more positive perspective. No one has the same route to happiness, it takes lots of experimentation. Even then, it is impossible to always be happy as thats just part of life. 
+
+Reddit is a support system to give you motivation, but happiness will ultimately come from trying to adopt a positive mindset and experimenting in life with hobbies and tasks that make you happy. I know you said you already experimented, but ask yourself what experimenting means. Look for things that make you happy, and do so from a positive mindset. Talk to your therapist about antidepressants as well perhaps- no shame in it at all. 
+
+When you think about yourself, you need to give yourself value. Calling yourself worthless will only spread inner negativity. Stop worrying about what others say or think. 
+
+Reach out and send a message if you'd like to talk. Outside of reddit, begin giving yourself value and dont worry about what others think. Life is a constant journey, and everyone is different, so don't compare yourself to others. There are ups and downs moments, but its all about moving forward, even when you may not want to. You are a wonderful person whos life has meaning!",i28pu5v,"{""1"": {""content"": ""The responder believes that changing perspective and continued experimentation are necessary for improvement."", ""type"": ""directives"", ""confidence"": 0.93}, ""2"": {""content"": ""The responder rejects the author's self-assessment as worthless and encourages self-value."", ""type"": ""representatives"", ""confidence"": 0.92}, ""3"": {""content"": ""The responder suggests practical steps (new therapist, antidepressants) and offers support."", ""type"": ""directives"", ""confidence"": 0.91}}",2,representatives,no,IMP,NAG
+confessions,2022-03-31 03:10:39,i2sh8kq,SignorTeddyRose,"Honestly? The more I think about it, the more he's right. 
+
+I can't do fucking anything right.
+
+I just keep burning bridges.
+
+I'm a fucking mistake and I should just be erased.",i2qturm,"{""1"": {""content"": ""The author internalizes negative feedback and believes they are fundamentally flawed."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author expresses deep self-loathing and hopelessness."", ""type"": ""expressives"", ""confidence"": 0.96}}",1,representatives,no,IMP,NAG
+confessions,2022-03-31 03:21:29,i2sio1b,Brief_Hour_4690,"He never said you can't do anything right, he just said you need to put on a more positive mentality. You responded to the comment I made with more negativity and putting yourself down. 
+
+You don't deserve to be erased and are not a mistake, and like I said, you need to learn to appreciate yourself more. Start doing that and there will be a difference. This difference won't come immediately, but your life will get better once you start appreciating yourself for who you are. Stop being afraid of making mistakes, its what makes us human.",i2sh8kq,"{""1"": {""content"": ""The responder attempts to reframe the author's negative self-perception and encourages self-acceptance."", ""type"": ""directives"", ""confidence"": 0.93}, ""2"": {""content"": ""The responder believes that making mistakes is a universal human experience."", ""type"": ""representatives"", ""confidence"": 0.91}}",1,directives,no,IMP,NAG
+confessions,2022-03-31 04:15:20,i2spqs8,SignorTeddyRose,"&gt;and are not a mistake
+
+Even my own mother disagrees with that one. My life is a comedy of tragedies and I don't even wanna bother listing them. Responding even feels too much like attention seeking.
+
+I feel like I keep faking it alright, but I honestly still call myself a dumbfuck even in my happier moments.
+
+I'd be less afraid of mistakes if I didn't make so fucking many of them. The only things I'm useful for is dishes, heat wrapping, and box making, and as evidenced above, I sometimes can't even get that right.
+
+I want to be positive and I try as hard as I can, it just feels impossible when all my life has taught me is that the things that make me happy will either be taken from me or mocked relentlessly by even my own family.
+
+I'm sorry I just keep being negative, I think I'm just kinda realizing I don't know anything different",i2sio1b,"{""1"": {""content"": ""The author feels invalidated by family and struggles to believe in their own worth."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author is aware of their negativity but feels unable to change due to lifelong experiences."", ""type"": ""expressives"", ""confidence"": 0.94}}",1,representatives,yes,IMP,NAG
+confessions,2022-04-01 20:07:57,i30gyym,Brief_Hour_4690,"There you go, you just pointed out the problem- you are worried about what your mother thinks about you or that your family will mock what you enjoy doing. Stop worrying about what others think about you, whether its family or friends, and do what you enjoy. 
+
+You said your life is a series of tragedies, but they don't define you. Ignore the past and focus on the present. 
+
+
+Everyone makes a lot of mistakes, but not many admit it. You are no different or worse than anyone else for making mistakes. It's life. Accept that you will make mistakes, and thats okay.",i2spqs8,"{""1"": {""content"": ""The responder believes that self-worth should not be determined by others' opinions, including family."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The responder encourages focusing on the present and accepting mistakes as normal."", ""type"": ""directives"", ""confidence"": 0.92}}",1,representatives,no,IMP,NAG
+confessions,2022-04-01 23:32:37,i31a9ji,SignorTeddyRose,I want to respond but I honestly feel like I'm just wasting your time.,i30gyym,"{""1"": {""content"": ""The author feels like a burden and doubts the value of their communication."", ""type"": ""expressives"", ""confidence"": 0.95}}",1,expressives,yes,IMP,NAG
+confessions,2022-04-02 18:53:57,i34jukw,Brief_Hour_4690,No worries you arent wasting my time at all- responding helps you get closer to identifying the problem.,i31a9ji,"{""1"": {""content"": ""The responder reassures the author that their communication is valued and helpful for self-understanding."", ""type"": ""expressives"", ""confidence"": 0.93}}",1,expressives,uncertain,IMP,NAG
