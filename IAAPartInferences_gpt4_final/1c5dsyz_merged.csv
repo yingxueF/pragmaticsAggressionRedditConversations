@@ -1,0 +1,206 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AmIOverreacting,,1c5dsyz,Apprehensive_Joke434,"""post_title"": AITA 
+
+""post_content"": For being kicked out of this group for simply having an opinion, I really liked this group and it seems over the slightest disagreement I’m banned can’t contact them can’t say anything wow it seems so silly to me ",,"{
+    ""1"": {
+        ""content"": ""The author perceives the group as intolerant of differing opinions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author feels unfairly treated and excluded for minor disagreements."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author assumes that being banned for a slight disagreement is unreasonable and not standard group behavior."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 13:43,kztdxui,Manfeelings777,"What was your opinion? 
+
+Put vaguely it's easy to see you as the rightful victim. 
+
+Details can change this.
+
+I refuse to decide until you give details 
+
+You are an indeterminate asshole. You can be, but you may not be
+
+Verdict for now: Schrödinger's asshole",1c5dsyz,"{
+    ""1"": {
+        ""content"": ""The responder is skeptical of the author's victim narrative without more details."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder refuses to judge without further information, implying that the author may be omitting important context."",
+        ""type"": ""directives"",
+        ""confidence"": 0.93
+    },
+    ""3"": {
+        ""content"": ""The responder uses humor and ambiguity to challenge the author's self-presentation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 13:50,kzterxw,Apprehensive_Joke434,"I’m kinda new to this site often my opinions were not agreed with but I’m ok with that, I put up a few of my own AITAH posts and they were all deemed unworthy again all good I didn’t really understand the context of how you need it to be so I constructed something making sure to follow all the rules and again my post was deemed not worthy and said it didn’t follow rules which it actually did I made sure of it yet I was kicked out and told I was in the wrong, seemed kinda harsh but ok can’t even talk to mods just straight up ban as though I was rude or nasty which I wasn’t at all either",kztdxui,"{
+    ""1"": {
+        ""content"": ""The author feels misunderstood and unfairly judged by the group moderators."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author believes they followed the rules but were still penalized, suggesting a perception of arbitrary or biased moderation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is frustrated but tries to appear accepting of the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",2,representatives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 14:32,kztk6jg,Apprehensive_Joke434,"On top of that they were telling me maybe you should go somewhere else maybe you should a different group and this is all before very conveniently finding a way to say I fucked up, yeah I’m annoyed but only cause they talk shit it was all very underhanded",1c5dsyz,"{
+    ""1"": {
+        ""content"": ""The author perceives the moderators as manipulative and hostile."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author feels personally targeted and insulted by the moderators' actions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author is annoyed and believes the process was unfair."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:36,kztkpl9,Apprehensive_Joke434,"I can talk to a dev about my situation in 28 days until then I’m banned and can’t talk to anyone about it, 28!days are you kidding the self importance of these people is crazy, I’m not coming back after 28 days of nog being heard or after being treated do poorly in disgusted",kzterxw,"{
+    ""1"": {
+        ""content"": ""The author feels the ban duration and lack of communication are excessive and disrespectful."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author perceives the moderators as self-important and unreasonable."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.91
+    },
+    ""3"": {
+        ""content"": ""The author intends not to return to the group after the ban."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    }
+}",3,commissives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:37,kztkr9u,Manfeelings777,"I feel you. these mods can be vicious little jobsworths. They get drunk on the small slice of power they have somehow managed to grasp. 
+
+I was permanently banned from the sex subreddit.",kzterxw,"{
+    ""1"": {
+        ""content"": ""The responder empathizes with the author and shares a similar negative experience with moderators."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.94
+    },
+    ""2"": {
+        ""content"": ""The responder stereotypes moderators as power-hungry and petty."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",2,representatives,uncertain,IMP,CAG,
+AmIOverreacting,4/16/2024 14:38,kztkyd6,Apprehensive_Joke434,Lol what is that,kztkr9u,"{
+    ""1"": {
+        ""content"": ""The responder is unfamiliar with the referenced subreddit and possibly skeptical of its relevance."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 14:53,kztn1lh,WholeSilent8317,oh my god grow up. you've made two posts in this sub whining about r/aitah.,kzterxw,"{
+    ""1"": {
+        ""content"": ""The responder is frustrated with the author's repeated complaints and perceives them as excessive."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder implies that the author should move on and stop complaining."",
+        ""type"": ""directives"",
+        ""confidence"": 0.92
+    }
+}",2,directives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 14:54,kztn6vc,WholeSilent8317,you act like they want you to come back. they don't. threatening to not come back "after being treated so poorly" is not the threat you think it is.,kztkpl9,"{
+    ""1"": {
+        ""content"": ""The responder believes the author's threat to not return is meaningless and that the group does not care."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder is dismissive of the author's feelings and intentions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 14:55,kztndqb,WholeSilent8317,"i'm sure being the victim is a common theme in your life.
+
+yes, overreacting. grow up, touch grass, socialize with human beings until you figure it out.",kztk6jg,"{
+    ""1"": {
+        ""content"": ""The responder accuses the author of habitually playing the victim."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The responder believes the author is overreacting and needs to mature."",
+        ""type"": ""directives"",
+        ""confidence"": 0.91
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:56,kztneze,Apprehensive_Joke434,I know they don’t want me back but I just feel it sucks that I never deserved to be booted in the first place,kztn6vc," {
+    ""1"": {
+        ""content"": ""The author acknowledges the group does not want them back but maintains they were treated unfairly."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 14:57,kztnl7m,Apprehensive_Joke434,Yeah ok srry it was just playing on my mind I’ll move on,kztn1lh,"{
+    ""1"": {
+        ""content"": ""The author apologizes and expresses intent to move on from the issue."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.93
+    }
+}","""1""",commissives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 14:58,kztnp90,Apprehensive_Joke434,"Wow your not real nice are you buddy, well fuck you too",kztndqb,"{
+    ""1"": {
+        ""content"": ""The author is offended by the previous message and responds with direct hostility."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,yes,IMP,OAG,
+AmIOverreacting,4/16/2024 15:00,kzto2gb,Apprehensive_Joke434,Imagine coming into a post just to badmouth someone if anyone needs to touch grass n get a life it’s you mate,kztnp90,"{
+    ""1"": {
+        ""content"": ""The author accuses the previous responder of being hypocritical and hostile."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 15:07,kztozru,Apprehensive_Joke434,"Being the victim is a common in my life ong where tf do you get off buddy, truth is I’m a grown ass man who won’t put up with peoples bs and feel no issues voicing my opinions you don’t like it so be it",kzto2gb,"{
+    ""1"": {
+        ""content"": ""The author rejects the victim label and asserts their independence and willingness to confront others."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,expressives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 15:24,kztrkds,Apprehensive_Joke434,I actually kinda fucked up just reread what was being said n yeah I misunderstood so I guess it is on me,kztndqb,"{
+    ""1"": {
+        ""content"": ""The author admits fault and acknowledges misunderstanding the situation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 15:25,kztrrvo,Apprehensive_Joke434,Just reread some of what devs said and maybe it was my fault I misunderstood the situation,kztkr9u,"{
+    ""1"": {
+        ""content"": ""The author reconsiders their position and admits possible misunderstanding of the moderators' actions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.94
+    }
+}",1,representatives,uncertain,IMP,NAG,

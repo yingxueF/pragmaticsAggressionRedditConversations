@@ -1,0 +1,61 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+behindthebastards,,rdbikp,outerdankness,"""post_title"": NGL I felt pretty validated as a programmer when I heard Robert accurately describe git/GitHub
+
+""post_content"": I’ve read so many articles that just roll git and GitHub together like they’re the same. Admittedly if I tried to explain the difference to my family their eyes would roll to the back of their head. It is a credit to Robert’s research skill that he mentioned both but I felt he did so in a way that’s accessible to anyone.",,"{""1"": {""content"": ""The author values accurate and accessible technical explanations, especially regarding commonly misunderstood tools like git and GitHub."", ""type"": ""expressives"", ""confidence"": 0.93}, ""2"": {""content"": ""There is a widespread misconception or conflation of git and GitHub in popular articles and among non-technical audiences."", ""type"": ""representatives"", ""confidence"": 0.91}, ""3"": {""content"": ""The author feels a sense of professional validation when technical topics are correctly represented in mainstream discussions."", ""type"": ""expressives"", ""confidence"": 0.89}}",2,representatives,no,PRE,NAG,
+behindthebastards,12/10/2021 21:54,ho18sxw,renesys,"Except version control, whether locally hosted or provided as a web service, have very little to do with cryptocurrency, functionally or in terms of social impact.",rdbikp,"{""1"": {""content"": ""The author rejects the equivalence or close association between version control systems and cryptocurrency, emphasizing their functional and social differences."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""There is an implicit critique of discussions or analogies that conflate version control with cryptocurrency."", ""type"": ""expressives"", ""confidence"": 0.87}}",1,representatives,yes,IMP,NAG,
+behindthebastards,12/10/2021 22:55,ho1hv6d,The-SARACEN,"The assertion in the episode was that git's version control system is functionally identical to ""blockchain"". Which it is: take a hash of the current state, then a hash of the changes combined with the old hash, then again, then again.
+
+""Blockchain"" is just a buzzword spray painted over the top of a Merkel tree.",ho18sxw,"{""1"": {""content"": ""The author asserts a technical similarity between git's version control and blockchain, focusing on their shared use of hash chaining (Merkle trees)."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The term 'blockchain' is viewed as a buzzword that overstates the novelty of the underlying technology."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,representatives,no,PRE,NAG,
+behindthebastards,12/11/2021 2:11,ho29973,renesys,"Except that functionality is a fraction of what cryptocurrency is, and a very small fraction of what version control software does.
+
+Internal combustion of fossil fuels in an engine cylinder is a defining feature of both a car and a lawnmower. A car is not a lawnmower. 
+
+Cryptocurrency is not git.",ho1hv6d,"{""1"": {""content"": ""The author believes that the technical overlap between cryptocurrency and version control is minimal and not sufficient to equate the two."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""Analogies that focus on a single shared feature (e.g., internal combustion) are misleading when comparing complex systems."", ""type"": ""expressives"", ""confidence"": 0.91}}",1,representatives,no,IMP,CAG,
+behindthebastards,12/11/2021 9:03,ho3ixm0,The-SARACEN,"&gt;Cryptocurrency is not git.
+
+Nobody said it was? The only thing being said is that git is blockchain.
+
+Are you okay?",ho29973,"{""1"": {""content"": ""The author perceives a miscommunication or strawman argument, clarifying that no one equated cryptocurrency with git."", ""type"": ""expressives"", ""confidence"": 0.92}, ""2"": {""content"": ""The rhetorical question 'Are you okay?' implies the author perceives the previous message as emotionally charged or irrational."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,expressives,no,IMP,CAG,
+behindthebastards,12/11/2021 12:51,ho40qqo,renesys,Yeah I'm fine. Point is git isn't blockchain. It's like saying car is engine cylinder. Or word processing software is a binary file save function.,ho3ixm0,"{""1"": {""content"": ""The author insists that git and blockchain are fundamentally different, using analogies to emphasize the distinction."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author is frustrated by what they perceive as oversimplified or misleading analogies."", ""type"": ""expressives"", ""confidence"": 0.86}}",1,representatives,yes,IMP,CAG,
+behindthebastards,12/11/2021 13:48,ho45w39,Albrew,"If someone said that a lawnmower engine worked kinda basically the same as a car engine, they'd be right tho.
+
+I imagine it's the same with the git/blockchain thing.
+
+They are certainly not the same, nobody ever said they were, but they seem to me broadly similar in structure.
+
+You seem very upset that the special uniqueness of crypto is being challenged",ho29973,"{""1"": {""content"": ""The author believes that analogies based on structural similarity are valid, even if the systems compared are not identical."", ""type"": ""representatives"", ""confidence"": 0.91}, ""2"": {""content"": ""The author perceives the other participant as emotionally invested in defending the uniqueness of cryptocurrency."", ""type"": ""expressives"", ""confidence"": 0.87}}",1,representatives,no,IMP,CAG,
+behindthebastards,12/11/2021 14:03,ho47c5x,renesys,"I'm not upset. 
+
+You would be wrong in assuming I'm defending crypto at all. To quote my own comment:
+
+&gt;Thank you for bringing this up. Git isn't decentralized, it's not burning through energy pointlessly calculating hashes to add value to your code push, forgetting your account password doesn't keep you from accessing your code forever, you would have to be really creative to use it to launder money, and competing projects can't gang up to change your code.
+
+Cryptographic verification of file integrity isn't what is unique or problematic about cryptocurrency, and git (or GitHub) wouldn't be useful if it was only that. 
+
+Saying lawnmower technology is the same as car technology because they share internal combustion is a huge stretch.
+
+Edit: Even saying car engine technology and lawnmower engine technology are the same is a huge stretch.",ho45w39,"{""1"": {""content"": ""The author clarifies they are not emotionally invested in defending cryptocurrency and lists key differences between git and cryptocurrency."", ""type"": ""representatives"", ""confidence"": 0.94}, ""2"": {""content"": ""The author finds analogies that focus on superficial similarities to be misleading or oversimplified."", ""type"": ""expressives"", ""confidence"": 0.89}}",1,representatives,yes,IMP,NAG,
+behindthebastards,12/11/2021 14:30,ho4a7pe,Albrew,"I....I don't even know what were fucking arguing about tbh.
+
+I just mean that internal combustion engines are all broadly similar (thus the category ""internal combustion engine""), so saying that a car engine works like a lawnmower engine is...entirely accurate..??
+
+The GitHub analogy (which was explicitly not exact) was to say that the blockchain is (not exclusively) a sort of ledger of all the shit that's happened on it, just like GitHub is sorta like a ledger of all the shit that happens on it 
+
+Ya, it's a crude analogy that doesn't get at the major differences that the layperson wouldn't understand 
+
+Because it's a rough analogy.",ho47c5x,"{""1"": {""content"": ""The author defends the use of rough analogies for lay audiences, acknowledging their limitations."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author is frustrated by the escalating argument and seeks to clarify the original intent of the analogy."", ""type"": ""expressives"", ""confidence"": 0.88}}",1,representatives,no,IMP,CAG,
+behindthebastards,12/11/2021 14:57,ho4d8al,renesys,"&gt;so saying that a car engine works like a lawnmower engine is...entirely accurate..??
+
+Anyone familiar with either is going to disagree with that, and that is probably the issue with making rough analogies. 
+
+If you're going to bitch about cryptocurrency, which is the context of the episode, claiming the technology isn't notable because it uses cryptography to verify file integrity is weird. It's a true statement that doesn't matter, because what is notable about it isn't like git. 
+
+It's like saying git is whatever technology because file systems and package managers use the same technology. Like, what?",ho4a7pe,"{""1"": {""content"": ""The author argues that rough analogies are problematic when used in technical discussions, as they can mislead those with relevant expertise."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author believes that focusing on superficial similarities distracts from what is truly notable or unique about technologies like cryptocurrency."", ""type"": ""expressives"", ""confidence"": 0.89}}",1,representatives,yes,IMP,CAG,
+behindthebastards,12/13/2021 14:00,hodh5nc,Albrew,"I mean the point of rough analogies is that they're for those who are NOT familiar.
+
+Like I don't know a ton about engines, so it makes sense to say that lawnmower and car engines are similar. You put fuel in, it burns with spark plugs and pistons and shit, you gotta oil it now and again, and it makes a mechanical rotation motion that can bee transferred to wheels. No shit the mechanics aren't the same, but they do broadly the same task, namely making petrol into motion. They even do that in a similar way, igniting it to push pistons.
+
+Is it accurate to say that the blockchain functions, at least partially, as/thru a list of interactions?
+
+Is it accurate to say that git contains or uses a list of interactions?",ho4d8al,"{""1"": {""content"": ""The author maintains that rough analogies are useful for non-experts, even if they are technically imprecise."", ""type"": ""representatives"", ""confidence"": 0.91}, ""2"": {""content"": ""The author seeks clarification on whether blockchain and git can both be described as lists of interactions, suggesting a focus on functional similarity."", ""type"": ""directives"", ""confidence"": 0.88}}",1,representatives,no,IMP,NAG,
+behindthebastards,12/14/2021 9:24,hohm9na,renesys,Most audio editors use a list of interactions. In any of the cases it's not defining.,hodh5nc,"{""1"": {""content"": ""The author argues that maintaining a list of interactions is a common feature in many software systems and is not a defining characteristic."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,uncertain,IMP,NAG,

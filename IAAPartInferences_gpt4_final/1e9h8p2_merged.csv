@@ -1,0 +1,241 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+Askpolitics,,1e9h8p2,ems777,"""post_title"": How safe is Kamala in the current political climate?
+
+""post_content"": Given the amount of political violence perpetrated by Republicans over the past 10 years and in the recent year especially, how safe is a black woman running for president and should additional security measures be taken to protect this candidate, considering that much of Trump's base have openly indicated they want a race war in the US?",," {
+    ""1"": {
+        ""content"": ""There is a significant threat of political violence against Kamala Harris due to her identity as a Black woman and the current political climate."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Republicans, especially Trump's base, are perceived as a primary source of political violence and racial animosity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""Extra security measures may be necessary to protect minority candidates in the US political system."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,NAG,
+Askpolitics,7/22/2024 17:50,leeb0zd,SpiceyMugwumpMomma,You can believe SS will be airtight for her.  She’s perfectly safe.,1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is fully capable of protecting Kamala Harris."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Concerns about her safety are exaggerated or unfounded."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 17:56,leec21t,ems777,"Yeah, they certainly proved it with Trump...",leeb0zd,"{
+    ""1"": {
+        ""content"": ""The Secret Service failed to protect Trump, casting doubt on their effectiveness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The previous statement's confidence in the Secret Service is questionable."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 18:44,leekxok,SpiceyMugwumpMomma,Harris is not Trump though.,leec21t,"{
+    ""1"": {
+        ""content"": ""Kamala Harris's situation is different from Trump's, so past failures may not apply."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/22/2024 18:55,leen2z1,ems777,"Im saying I dont think the SS is up to the task of protecting the VP. I think additional measures need to be taken, and hate groups in the US need much more scrutiny.  
+
+We fought wars and died to abolish some of the groups that are now rallying under Trump.",1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is not adequate to protect the Vice President."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Additional security and scrutiny of hate groups are necessary."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    },
+    ""3"": {
+        ""content"": ""Current hate groups are a resurgence of previously abolished groups."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/22/2024 19:32,leeu27y,GreatSoulLord,"*SIGH*. She'll be fine. I'd be much more worried about riots at the DNC, personally.",1e9h8p2,"{
+    ""1"": {
+        ""content"": ""Kamala Harris will be safe; concerns are overblown."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""Riots at the DNC are a more significant concern than threats to Harris."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 19:34,leeujyp,ems777,"I guess you've been asleep for the past decade but the US is in the middle of a very volatile political landscape at the moment. I think my question is valid, especially considering recent events.",leeu27y,"{
+    ""1"": {
+        ""content"": ""The US is currently experiencing high political volatility, making the original question about Harris's safety valid."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The previous reply downplays real and recent threats."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 19:50,leexgsc,GreatSoulLord,"No, I have not been asleep but I'm not worried about the right. The right didn't cause the BLM riots, or ANTIFA, burn down Catholic churches, or target conservative protesters.",leeujyp,"{
+    ""1"": {
+        ""content"": ""Right-wing groups are not responsible for recent major violent events; left-wing groups are."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The threat from the right is overstated."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 20:01,leezq2t,ems777,"The right led an insurrection of the capitol building, killing a police officer and assaulting many others in the process. The right attempted an assassination of their own candidate. The right shot Gabby Giffords in the face. The right has been responsible for increases in hate group recruitment across the country. The right has mailed pipe bombs to Democrats in office and shot up synagogues.  The number of attacks from right-wing extremists since 2014 has been greater than attacks from Islamic extremists.
+
+  
+I suggest you do some research and understand this is a real issue.",leexgsc,"{
+    ""1"": {
+        ""content"": ""Right-wing extremists have committed more violent attacks than left-wing or Islamic extremists in recent years."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The threat from the right is real and substantiated."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The previous message is misinformed and should be corrected through research."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 20:02,leezyiq,GreatSoulLord,I suggest you do some research and understand this is not a real issue.,leezq2t,"{
+    ""1"": {
+        ""content"": ""The threat from the right is not a real issue."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The previous message is exaggerating or misrepresenting the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/23/2024 17:04,lejxy9z,morphotomy,"The secret service can't be trusted to protect Biden or Trump right now.
+
+I'd be hiring my own security if I were her.",1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is currently unreliable for protecting high-profile politicians."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Kamala Harris should consider hiring private security."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/23/2024 17:05,lejy95a,morphotomy,"If it was an accident, that means someone can get too close, which is very bad, and means their trust is degraded.
+
+If it was done for political reasons, then any politician is subject to that treatment if they piss off the wrong person.
+
+There is no scenario where the secret service is ""safe"" or trustworthy right now.",leekxok,"{
+    ""1"": {
+        ""content"": ""The Secret Service is not trustworthy or safe for any politician at present."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,yes,IMP,NAG,
+Askpolitics,7/23/2024 18:11,lekao2r,SpiceyMugwumpMomma,"Think about DHS as the Praetorian Guard.  Roman emperors were completely secure as long as they did exactly what the Praetorian Guard wanted.
+
+The Praetorian guard was a “power” in Rome.  It existed in a power ecology alongside Roman politicians and foreign influences.  The Praetorian Guard, and the Emperor, both used and was used by these other powers to the mutual satisfaction of everyone’s lust for money and power.
+
+“Bad” Emperors were executed first covertly then later quite publicly.  So that the next Emperor would be a “good” Emperor and do as directed.   Note that the Praetorian guard et. Al for a very long time demonstrated considerable skill in convincing the Roman public that the new Emperor was someone the Roman public chose, supported, and in service to them.
+
+It should be noted that what got an Emperor executed speedily was trying to make real changes to alleviate the deep structural problems that plagued the Roman commoners.
+Sound familiar?",lejy95a,"{
+    ""1"": {
+        ""content"": ""Security agencies like DHS may act in their own interests, not just those of the politicians they protect."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""Political leaders who challenge entrenched power structures face greater risks from those meant to protect them."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/23/2024 21:31,lelctkl,fluffy_assassins,"While the SS was incompetent in protecting Trump, I still think they are more competent than hired security would be.  And more thorough.  And they have more resources.",leen2z1,"{
+    ""1"": {
+        ""content"": ""Despite past failures, the Secret Service is still more competent and better resourced than private security."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/23/2024 21:34,leldi0c,fluffy_assassins,"DUDE.  Not cool.  ""The right attempted an assassination of their own candidate.""  This is so wrong.  The dude had the schedules for BOTH candidates.  He didn't care which he shot, as long as he got one.  School shooter kinda thing.  He just wanted to go in a blaze of glory and get that tasty fame.  Look, I agree with you that the right is more violent, and that what violence IS perpetrated by the left is to PROTECT our rights, while violence perpetrated by the right is to REMOVE rights.  I've also never voted republican.  Ever.  But stick to points that aren't so speculative.  Remember, if someone asks you for sources, and you don't provide them, you accomplish nothing.",leezq2t,"{
+    ""1"": {
+        ""content"": ""The assassination attempt was not ideologically motivated but rather an act of personal notoriety."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""Violence from the right is more about removing rights, while violence from the left is about protecting rights."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    },
+    ""3"": {
+        ""content"": ""Arguments should be based on verifiable facts to be persuasive."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/23/2024 21:35,leldptd,fluffy_assassins,The far right commits violent acts to take a way the rights of others.  The far left holds protests that may turn violent in the hope of PRESERVING the rights of others.  They are not the same.,leezyiq,"{
+    ""1"": {
+        ""content"": ""Far-right violence aims to remove rights, while far-left violence aims to preserve rights."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Equating left and right violence is a false equivalence."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/24/2024 12:38,leoricd,ems777,I don't think the SS is prepared for what's coming,lelctkl,"{
+    ""1"": {
+        ""content"": ""The Secret Service is unprepared for future threats."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/24/2024 16:16,lepm92j,Ralph_Nacho,"Come again?  Look at his front yard. 
+
+My guess is he was one of those right wing nuts obsessed with triggering civil war.",leldi0c,"{
+    ""1"": {
+        ""content"": ""The perpetrator of the attack was likely a right-wing extremist motivated by civil war rhetoric."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,CAG,
+Askpolitics,7/24/2024 16:18,lepmhhl,Ralph_Nacho,Turned violent with the help of skinhead right wingers no doubt.  Let's play some jeopardy.  Who is umbrella man?,leldptd,"{
+    ""1"": {
+        ""content"": ""Right-wing extremists infiltrated and escalated violence at left-wing protests."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,CAG,

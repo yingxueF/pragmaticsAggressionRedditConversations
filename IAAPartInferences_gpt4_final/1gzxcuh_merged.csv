@@ -1,0 +1,257 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AmIOverreacting,,1gzxcuh,RedditAlwayTrue,"""post_title"": AIO for celebrating Trump's election victory on Reddit
+
+""post_content"": # It was a great victory. They didn't like it. Reddit was melting down. AIO?",,"{
+    ""1"": {
+        ""content"": ""The author perceives Trump's election as a significant and positive event, and believes that many on Reddit were upset by the outcome."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author assumes that celebrating Trump's victory on Reddit is provocative or controversial."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author seeks validation or camaraderie from like-minded users (AIO = 'all in one' or call for group participation)."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",2,representatives,no,PRE,NAG,
+AmIOverreacting,11/26/2024 0:31,lyzm39n,Wizard_of_Claus,"No, you're just a child for using your time to rub it in the faces of people you'll never even meet.",1gzxcuh,"{
+    ""1"": {
+        ""content"": ""The author disapproves of celebrating Trump's victory in a way that antagonizes others."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author characterizes the OP's behavior as immature and attention-seeking."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author assumes that online interactions with strangers should not involve gloating or provocation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",2,representatives,yes,IMP,CAG,
+AmIOverreacting,11/26/2024 0:32,lyzmaoa,RedditAlwayTrue,Celebrated in a subreddit that also doesn't like Trump so much but celebrated his victory for this year.,lyzm39n,"{
+    ""1"": {
+        ""content"": ""Celebration of Trump's victory can occur even in communities that are not supportive of him."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""There is a distinction between personal political preference and the act of celebrating an electoral outcome."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,uncertain,PRE,NAG,
+AmIOverreacting,11/26/2024 0:33,lyzmfuh,RedditAlwayTrue,And not the people who are throwing tantrums because Kamala didn't win?,lyzm39n,"{
+    ""1"": {
+        ""content"": ""The author implies that people upset about Kamala Harris not winning are also acting immaturely."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""There is a perceived double standard in criticizing Trump supporters for celebrating while ignoring similar behavior from the other side."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",2,representatives,uncertain,IMP,CAG,
+AmIOverreacting,11/26/2024 0:34,lyzmp77,Careless_Yellow_3218,Less than 3 million votes is far from a landslide.,1gzxcuh,"{
+    ""1"": {
+        ""content"": ""The author challenges the characterization of Trump's victory as a 'landslide', suggesting the margin was not large."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author implies that the OP is exaggerating the scale of the victory."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,NAG,
+AmIOverreacting,11/26/2024 0:35,lyzmps8,Scary_Ad4850,An attention seeker for sure.,1gzxcuh,"{
+    ""1"": {
+        ""content"": ""The OP is being labeled as someone who seeks attention through their actions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:35,lyzmquf,Wizard_of_Claus,There is no shortage on either side of people who acted and continue to act ridiculous.,lyzmfuh,"{
+    ""1"": {
+        ""content"": ""Both political sides are seen as having members who behave irrationally or excessively."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author is attempting to depersonalize the conflict and suggest equivalence in behavior."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,yes,PRE,NAG,
+AmIOverreacting,11/26/2024 0:37,lyzn286,RedditAlwayTrue,"In a landslide, they primarily look by electoral votes, not the total percentage who voted for that candidate. Since it's a 312-226 difference, it's safe to say it was a landslide.
+
+Sorry democrats, do better. That's all we can say.",lyzmp77,"{
+    ""1"": {
+        ""content"": ""The author defines 'landslide' in terms of electoral votes, not popular vote."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author expresses partisanship by addressing Democrats directly and telling them to improve."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,PRE,CAG,
+AmIOverreacting,11/26/2024 0:38,lyzn800,RedditAlwayTrue,Agreed. The subreddit it was celebrated with are usually moderate conservatives who don't like Trump but wanted him to win this election specifically.,lyzmquf,"{
+    ""1"": {
+        ""content"": ""Moderate conservatives may support Trump for pragmatic reasons rather than ideological alignment."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""There is diversity of opinion even within groups that are nominally on the same side."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,yes,PRE,NAG,
+AmIOverreacting,11/26/2024 0:38,lyzncyp,Careless_Yellow_3218,Look at Nixon ‘72 or Reagan ‘84. Those are landslides. Less than 3 million is in the range of probable or possible fraud.,lyzn286,"{
+    ""1"": {
+        ""content"": ""Historical landslides are defined by much larger margins than the current election."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""A small margin of victory is suspicious and could indicate fraud."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",2,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:39,lyzndr9,RedditAlwayTrue,Explain?,lyzmps8,"{
+    ""1"": {
+        ""content"": ""literal"",
+        ""type"": ""none"",
+        ""confidence"": 0.90
+    }
+}",1,none,uncertain,,NAG,
+AmIOverreacting,11/26/2024 0:40,lyznl40,RedditAlwayTrue,">Less than 3 million is in the range of probable or possible fraud.
+
+Don't be like the republicans in 2020.",lyzncyp,"{
+    ""1"": {
+        ""content"": ""The author warns against adopting the same unfounded fraud claims as Republicans did in 2020."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,directives,yes,IMP,CAG,
+AmIOverreacting,11/26/2024 0:42,lyznx1j,Scary_Ad4850,"Use just the tiniest bit of critical thinking, hon. I know you probably haven't done much self reflection in your life but there's no time like the present.",lyzndr9,"{
+    ""1"": {
+        ""content"": ""The author implies the other person lacks critical thinking and self-reflection."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author is condescending and dismissive toward the other participant."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:43,lyzo3zq,RedditAlwayTrue,I did. That's why we didn't support Kamala. Kamala didn't adequately answer a single question about policy.,lyznx1j,"{
+    ""1"": {
+        ""content"": ""The author claims to have engaged in self-reflection and bases their political stance on policy analysis."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""Kamala Harris is criticized for not providing substantive policy answers."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:43,lyzo4xu,Careless_Yellow_3218,Trump was already claiming 2024 was fraudulent. Should we not take him at his word?,lyznl40,"{
+    ""1"": {
+        ""content"": ""The author questions whether Trump's claims of fraud should be taken seriously."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,directives,no,IMP,NAG,
+AmIOverreacting,11/26/2024 0:44,lyzo8qj,Scary_Ad4850,That is not at all related to my comment. Try again.,lyzo3zq,"{
+    ""1"": {
+        ""content"": ""The author rejects the relevance of the previous comment and demands a more pertinent response."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,directives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:45,lyzohjc,Wizard_of_Claus,You haven't said anything that's possible to respond to.  All you did was tell OP that they are too stupid to think for themselves because they don't agree with you lol.  What could anyone say to that?,lyzo8qj,"{
+    ""1"": {
+        ""content"": ""The author accuses the other of making ad hominem attacks and not engaging in substantive discussion."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:45,lyzok0v,RedditAlwayTrue,"""There's no time like the present"" There's nothing unusual about this one.",lyzo8qj,"{
+    ""1"": {
+        ""content"": ""The author downplays the previous comment as unremarkable or not worthy of further discussion."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,no,IMP,NAG,
+AmIOverreacting,11/26/2024 0:46,lyzomup,Scary_Ad4850,I called them and attention seeker. I never shared any political opinions for them to disagree with. They asked how they are an attention seeker. It shouldn't be hard to figure out.,lyzohjc,"{
+    ""1"": {
+        ""content"": ""The author clarifies that their accusation of attention-seeking was not politically motivated."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author implies that the behavior in question is self-evidently attention-seeking."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",2,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:47,lyzor7b,RedditAlwayTrue,I only did it once. And it was in that subreddit only. So where is the attention seeking?,lyzomup,"{
+    ""1"": {
+        ""content"": ""The author disputes the label of attention-seeker by minimizing the frequency and scope of their actions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,NAG,
+AmIOverreacting,11/26/2024 0:47,lyzorxh,Scary_Ad4850,You seem confused. My comment wasn't political. It was calling you an attention seeker.,lyzok0v,"{
+    ""1"": {
+        ""content"": ""The author reiterates that their comment was a personal critique, not a political statement."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:47,lyzos2w,Wizard_of_Claus,"Exactly.  You've said literally nothing of value and refused to respond when asked to explain. 
+
+How do you think you're the one on top here lol?",lyzomup,"{
+    ""1"": {
+        ""content"": ""The author accuses the other of evading substantive discussion and contributing nothing valuable."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author questions the other's sense of superiority in the conversation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,11/26/2024 0:47,lyzovf8,RedditAlwayTrue,Nowhere does he say 2024 was fraudulent.,lyzo4xu,"{
+    ""1"": {
+        ""content"": ""The author corrects a factual error regarding Trump's statements about the 2024 election."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+AmIOverreacting,11/26/2024 0:51,lyzpi7w,Wizard_of_Claus,I wouldn't even say they are coping as much as just being walking advertisements for their side.  Whatever makes them look good and the other bad is what they are going to do or say.,lyzovf8,"{
+    ""1"": {
+        ""content"": ""The author suggests that political actors are more interested in image and partisanship than genuine coping."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author implies that both sides engage in performative behavior to make themselves look good."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,uncertain,IMP,CAG,

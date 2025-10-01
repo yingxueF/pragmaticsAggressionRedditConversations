@@ -1,0 +1,167 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskGermany,,1ea5o5f,AdStatus6615,"""post_title"": Tk health insurance outstanding bill for student ?
+
+""post_content"": So I was on break for 5 months and also out of Germany.The Tk is demanding me money for whole 5 months.As my financial condition is not so good being student,can Tk refund me the money or can I get a tax return?
+
+Actually already went to tk office and they told me I am already paying a reduced price for the student.",,"{
+    ""1"": {
+        ""content"": ""The author assumes that being outside Germany and on a semester break should exempt them from paying health insurance fees."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author is experiencing financial hardship and is seeking ways to reduce or recover costs related to health insurance."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author presupposes that health insurance fees for students can be refunded or offset through tax returns."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+AskGermany,7/23/2024 13:51,lej3bll,Gods_Shadow_mtg,just because you are on semester break doesn't mean you don't have to pay your health insurance. Pay up.,1ea5o5f,"{
+    ""1"": {
+        ""content"": ""The responder asserts that being on a semester break does not exempt students from mandatory health insurance payments."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.98
+    },
+    ""2"": {
+        ""content"": ""The responder expresses a lack of sympathy and adopts a directive tone, telling the author to pay up."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,CAG,
+AskGermany,7/23/2024 13:52,lej3frq,AdStatus6615,Hmm that was not helpful,lej3bll,"{
+    ""1"": {
+        ""content"": ""The responder is dissatisfied with the previous reply, indicating it was unhelpful."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder expects more informative or empathetic responses in the forum."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,yes,IMP,NAG,
+AskGermany,7/23/2024 13:53,lej3k6n,AdStatus6615,U didn't provided more insight and perspective apart from saying the same thing that health insurance was saying.,lej3bll,"{
+    ""1"": {
+        ""content"": ""The responder criticizes the previous reply for lacking new information or perspective beyond what the insurance company said."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder implies that forum replies should provide additional insight or support, not just repeat official statements."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,CAG,
+AskGermany,7/23/2024 13:57,lej424s,Gods_Shadow_mtg,"What type of insight do you want? As long as you are enrolled in german university, you have to have health insurance.",lej3k6n,"{
+    ""1"": {
+        ""content"": ""The responder asserts that health insurance is mandatory for all enrolled students in Germany, regardless of circumstances."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.98
+    },
+    ""2"": {
+        ""content"": ""The responder challenges the need for further 'insight' by implying the rule is clear and non-negotiable."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,CAG,
+AskGermany,7/23/2024 14:01,lej4kzt,Normal-Definition-81,Were you a registered student at the time?,1ea5o5f,"{
+    ""1"": {
+        ""content"": ""The responder presupposes that being a registered student is relevant to the obligation to pay health insurance."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    }
+}",1,representatives,yes,PRE,NAG,
+AskGermany,7/23/2024 14:46,lejas54,AdStatus6615,Yeah,lej4kzt,"{
+    ""1"": {
+        ""content"": ""The responder confirms their student status during the period in question."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+AskGermany,7/23/2024 14:49,lejb7wd,Normal-Definition-81,"Then you were obliged to have insurance. If you are unable to pay the outstanding amount directly, contact TK proactively as soon as possible and arrange payment in instalments. If you do not do this, customs will sooner or later collect the money by means of seizure.",lejas54,"{
+    ""1"": {
+        ""content"": ""The responder asserts that insurance is obligatory for registered students."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.98
+    },
+    ""2"": {
+        ""content"": ""The responder advises proactive communication with TK to arrange payment in instalments."",
+        ""type"": ""directives"",
+        ""confidence"": 0.95
+    },
+    ""3"": {
+        ""content"": ""The responder warns of legal consequences (seizure) if payment is not arranged."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",2,directives,yes,IMP,NAG,
+AskGermany,7/23/2024 15:04,lejdgyc,AdStatus6615,How would they take money by seizure when I am broke?Or do I have to sell my body parts to pay them?,lejb7wd,"{
+    ""1"": {
+        ""content"": ""The responder expresses disbelief and frustration at the threat of seizure, highlighting their financial desperation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder uses hyperbole (selling body parts) to emphasize the perceived severity and absurdity of the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+AskGermany,7/23/2024 15:05,lejdm16,Normal-Definition-81,They will block your bank account.,lejdgyc,"{
+    ""1"": {
+        ""content"": ""The responder claims that the authorities will block the bank account as a consequence of non-payment."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    }
+}",1,representatives,no,PRE,NAG,
+AskGermany,7/23/2024 15:08,leje0y0,AdStatus6615,"They didn't blocked my bank account,the only thing they did is block my enrollment letter.
+
+Your bank account gets blocked when You don't pay radio tax.
+
+You don't know jackshit about German administration and bureaucracy.Stop commenting half ass confirmed information out here.",lejdm16,"{
+    ""1"": {
+        ""content"": ""The responder corrects the previous claim, stating that only the enrollment letter was blocked, not the bank account."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder asserts that bank account blocking is associated with unpaid radio tax, not health insurance."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The responder accuses the previous commenter of spreading misinformation and lacking knowledge about German bureaucracy."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",3,expressives,no,IMP,OAG,
+AskGermany,7/23/2024 15:09,leje9tv,Normal-Definition-81,"Good luck finding out how wrong you are…
+
+As you are apparently an international student, this could have a very drastic effect on your residence status because you will no longer be able to fulfil various visa conditions.",leje0y0,"{
+    ""1"": {
+        ""content"": ""The responder warns that non-compliance with health insurance requirements can jeopardize the student's visa and residence status."",
+        ""type"": ""directives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder implies that the previous commenter is misinformed and underestimates the seriousness of the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,directives,no,IMP,CAG,
+AskGermany,7/23/2024 15:11,lejekn5,AdStatus6615,"I don't want to live in this stupid country,I would be here maximum 1 more year lmao",leje9tv,"{
+    ""1"": {
+        ""content"": ""The responder expresses strong dissatisfaction with living in Germany and intends to leave soon."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder's frustration may be a reaction to the perceived bureaucratic difficulties and lack of support."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,uncertain,IMP,NAG,

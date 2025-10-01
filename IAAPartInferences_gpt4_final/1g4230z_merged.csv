@@ -1,0 +1,145 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskLesbians,,1g4230z,cumwash11,"""post_title"": Is it homophobic for me as a straight man to watch lesbian porn? 
+
+""post_content"": As someone who wants to be an ally of the LGBT community, I figured it was best to ask people who are actually part of that community. I love you all, I vote Democrat every election, I'm always advocating for inclusion. With that said I do watch and enjoy lesbian porn. Is that disrespectful? Should I stop? The comfort of the good people in this community matters a lot to me so I will gladly do what I must. Thank you for hearing my question. ",,"{
+    ""1"": {
+        ""content"": ""The author believes that consuming lesbian porn as a straight man may be perceived as homophobic or disrespectful by the LGBT community."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author values the opinions and comfort of the LGBT community and is willing to change his behavior to align with their expectations."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author assumes that being a political ally (voting Democrat, advocating for inclusion) is relevant to his question about sexual consumption habits."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+AskLesbians,10/15/2024 9:28,ls07pyf,AchingAmy,"More misogynistic imo. Most lesbian porn is made for the male gaze, which I'd presume that's the type you're viewing",1g4230z,"{
+    ""1"": {
+        ""content"": ""The respondent believes that watching lesbian porn as a straight man is more misogynistic than homophobic, due to its production for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The respondent presumes the original poster is consuming mainstream lesbian porn targeted at men."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+AskLesbians,10/15/2024 9:31,ls07xt7,cumwash11,"I'm really sorry. It's hard for me being a virgin and someone addicted to porn to stop, but if that's the community views then that's more important. Maybe something like an accountability partner would help me to stop.",ls07pyf,"{
+    ""1"": {
+        ""content"": ""The author feels guilt and shame about their porn consumption and is willing to change if the community disapproves."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author struggles with porn addiction and virginity, which they see as personal shortcomings."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""3"": {
+        ""content"": ""The author is open to seeking help (e.g., accountability partner) to change their behavior."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:32,ls082vz,Additional-Chair7294,lol… this has to be fake. Get a life dude.,1g4230z,"{
+    ""1"": {
+        ""content"": ""The respondent believes the original post is insincere or trolling."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent expresses contempt and dismissiveness toward the original poster."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:33,ls084cm,AchingAmy,"Whatever you do, don't check the his profile",ls082vz,"{
+    ""1"": {
+        ""content"": ""The respondent implies that the original poster's profile contains embarrassing or incriminating information."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The respondent is warning others not to engage further with the original poster."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",2,directives,yes,IMP,CAG,
+AskLesbians,10/15/2024 9:34,ls08792,cumwash11,Oh and one more question if I may. You said the porn I was watching was made for the male gaze (it was) but does that mean there's types of porn that would be more respectful?,ls07pyf,"{
+    ""1"": {
+        ""content"": ""The author is seeking clarification on whether there are more respectful types of lesbian porn."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author accepts the criticism that mainstream lesbian porn is made for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,directives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:35,ls08azj,Additional-Chair7294,"Holy shit… this guy isn’t anyone’s ally, he’s a sexual deviant",ls084cm,"{
+    ""1"": {
+        ""content"": ""The respondent believes the original poster is not a genuine ally and is instead a sexual deviant."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The respondent is expressing strong moral condemnation and hostility."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:41,ls08t6h,AchingAmy,"Yes, there is lesbian porn actually made for lesbians. And before you ask, no I don't have any inclination on helping you find some",ls08792,"{
+    ""1"": {
+        ""content"": ""There exists lesbian porn made for lesbians, distinct from that made for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent refuses to assist the original poster in finding such content."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.85
+    }
+}",2,commissives,yes,IMP,CAG,
+AskLesbians,10/15/2024 9:44,ls092qs,AchingAmy,"Did you ever consider maybe you're a virgin because of... oh idk, your weird obsessions with a lot of fetishes??",ls07xt7,"{
+    ""1"": {
+        ""content"": ""The respondent suggests the original poster's virginity is due to their sexual interests, which are seen as abnormal."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent is mocking and shaming the original poster for their sexual preferences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:45,ls093vf,cumwash11,I can see I've upset people so I deleted the post I am so sorry.,ls08t6h,"{
+    ""1"": {
+        ""content"": ""The author recognizes their post has upset others and expresses remorse."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author deleted their post as a response to community disapproval."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:47,ls09bbg,cumwash11,Yes I have and you're probably right. But what can I do when that's what I like?,ls092qs,"{
+    ""1"": {
+        ""content"": ""The author acknowledges the criticism that their sexual preferences may contribute to their virginity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author feels resigned or helpless about changing their sexual preferences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,

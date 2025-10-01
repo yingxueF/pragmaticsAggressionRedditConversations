@@ -1,0 +1,158 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskIndia,,1hokyc4,multrix51,"""post_title"": Is there any NGO or groups organizing beach cleaning ?
+
+""post_content"": I’m amazed by all the trash at mahabalipuram on the beach, while thousands of people come here as part of their pilgrim.
+
+No one ever felt like it would be a good idea to make a group action and beach will be clean after 10 minutes of common effort ? As a foreigner I don’t feel like I should organize that. I hope that some locals sometimes do that. All India beaches and nature are just dump sites…",,"{
+    ""1"": {
+        ""content"": ""There is a perceived lack of local initiative or responsibility for cleaning beaches, especially in pilgrimage areas."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author believes that foreigners should not be expected to organize local clean-up efforts."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""There is an implicit criticism of Indian society for treating beaches and nature as dump sites."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:51,m4ae7m0,AnuNimasa,"If your beaches are trashy and you’re genuinely concerned, contact local municipality, grab a jhaadu and get to work. NGOs are basically money laundering fronts, they dont know how to do any social work.",1hokyc4,"{
+    ""1"": {
+        ""content"": ""NGOs are distrusted and perceived as corrupt or ineffective in India."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responsibility for cleaning lies with individuals and local authorities, not external organizations."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author is frustrated with people complaining rather than taking action themselves."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:52,m4aebwz,multrix51,"So your point is, I, as a tourist, should do it, because locals don’t care ?",m4ae7m0,"{
+    ""1"": {
+        ""content"": ""The author feels that the previous message implies tourists should take responsibility for cleaning."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""There is a perceived lack of local concern for cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:58,m4afaqy,AnuNimasa,My point is it should happen with our tax money. Thats why we pay exorbitant taxes without complaining. And if its a serotonin based activity you want to perform you should do it yourself theres no harm in that. NGOs are just another way to perform scam like money laundering etc so i dont think that is going to cut it. Its okay reddit is full of naive questions like you asked.,m4aebwz,"{
+    ""1"": {
+        ""content"": ""The author believes public cleanliness should be managed by the government using tax money."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Volunteering for beach cleaning is only justified if it brings personal satisfaction."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""3"": {
+        ""content"": ""NGOs are viewed as scams or ineffective."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,no,IMP,CAG,
+AskIndia,12/29/2024 2:59,m4affq1,multrix51,"That should not happen with your tax, that should happen by educating people and not throwing trash wherever they go.",m4afaqy,"{
+    ""1"": {
+        ""content"": ""The author believes education and personal responsibility are more effective than government intervention for cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    }
+}",1,representatives,no,IMP,CAG,
+AskIndia,12/29/2024 3:01,m4afteo,AnuNimasa,Swatch bharat abhiyan is exactly that. Its also run by our tax money. Everything needs money. Expecting people to show up for free in a country that pays minimum wages like to labourers 50-100 rs a day is just gross entitlement.,m4affq1,"{
+    ""1"": {
+        ""content"": ""Government initiatives like Swatch Bharat Abhiyan are funded by taxes and are necessary for public cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""Expecting voluntary labor in a low-wage economy is unrealistic and entitled."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",2,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:02,m4afzix,multrix51,Ok then I guess you’re right. Nothing should be done and dump sites is fine. Thanks for your feedback 🙏,m4afteo,"{
+    ""1"": {
+        ""content"": ""The author is expressing resignation and sarcasm about the lack of solutions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:04,m4ag9xo,AnuNimasa,Lol… you are hurt i just told you contact local municipality. They are actually nice people there and will help. Who else do you think would do it.. Mr beast?,m4afzix,"{
+    ""1"": {
+        ""content"": ""The author is mocking the previous poster for being upset and not contacting local authorities."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""Local municipalities are seen as the appropriate channel for addressing cleanliness issues."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:05,m4agf7p,multrix51,"I’m just a tourist for 2 nights here, just wondering how everyone don’t give a fuck about all those. No wonder why no tourism here.",m4ag9xo,"{
+    ""1"": {
+        ""content"": ""The author feels alienated and disappointed by the local community's indifference to cleanliness."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The lack of cleanliness is seen as a reason for poor tourism."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:09,m4ah092,AnuNimasa,Aaahh… So you are just a tourist that would rather complain on reddit than local bodies… got it.,m4agf7p,"{
+    ""1"": {
+        ""content"": ""The author is accusing the tourist of preferring to complain online rather than take action."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:12,m4ahjk8,multrix51,"That’s your country, your education system, your trash (I don’t see much foreign tourists throwing away trash on the beach) and at the end your country’s attractively, but at the end foreign tourists should be the ones asking local authorities? Ok. I’m done with this valuable interaction.",m4ah092,"{
+    ""1"": {
+        ""content"": ""The author is frustrated by being expected to take responsibility for local issues as a foreigner."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.94
+    },
+    ""2"": {
+        ""content"": ""There is an implicit criticism of the local education system and societal norms regarding cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:14,m4ahum5,AnuNimasa,Okay now i got it you are foreigner. Yes we are at blame here. You may roast us. We have done it all and stop caring now because nothing has worked.,m4ahjk8,"{
+    ""1"": {
+        ""content"": ""The author admits local responsibility for the problem and expresses resignation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 5:50,m4b5b8a,Tangential-Thoughts,Quite unclear as to when foreign tourists signed up for sweeping India.,m4ae7m0,"{
+    ""1"": {
+        ""content"": ""There is skepticism about the expectation that foreign tourists should clean up local areas."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,uncertain,IMP,CAG,
+AskIndia,12/29/2024 5:52,m4b5jfp,Tangential-Thoughts,Some people do put in an effort to maintain cleaner public spaces but they are heavily outnumbered by those who litter freely.,1hokyc4,"{
+    ""1"": {
+        ""content"": ""A minority of people care about cleanliness, but the majority do not, leading to persistent littering."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    }
+}",1,representatives,uncertain,IMP,NAG,

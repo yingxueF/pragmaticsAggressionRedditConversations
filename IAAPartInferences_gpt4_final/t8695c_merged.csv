@@ -1,0 +1,71 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+worldpolitics2,,t8695c,AntiMaJosi,"""post_title"": Ukraine war
+
+""post_content"": I bet Putin regrets not having invaded while Trump was the president. That was a huge mistake on his part. Why do you guys think he waited until after Trump was gone?",,"{""1"": {""content"": ""The author assumes that Putin's decision to invade Ukraine was influenced by the change in US presidential administrations."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author implies that Trump was less likely to oppose a Russian invasion of Ukraine than Biden."", ""type"": ""representatives"", ""confidence"": 0.92}, ""3"": {""content"": ""The author presupposes that Putin made a strategic error by not invading during Trump's presidency."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,PRE,NAG,
+worldpolitics2,3/6/2022 20:55,hzm4edc,Middle-Kind,I think Trump told him to do it.,t8695c,"{""1"": {""content"": ""The author suggests Trump had direct influence over Putin's actions regarding Ukraine."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author implies a belief in collusion or secret communication between Trump and Putin."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG,
+worldpolitics2,3/6/2022 21:24,hzm8fcx,AntiMaJosi,Why,hzm4edc,"{""1"": {""content"": ""The author is skeptical of the previous claim and requests justification."", ""type"": ""directives"", ""confidence"": 0.88}}",1,directives,yes,IMP,NAG,
+worldpolitics2,3/6/2022 21:32,hzm9m4s,Middle-Kind,Because he wants to make Biden look bad. I honestly wouldn't doubt him telling Putin to do it but who knows.,hzm8fcx,"{""1"": {""content"": ""The author believes Trump would act to undermine Biden's reputation, even through foreign policy manipulation."", ""type"": ""representatives"", ""confidence"": 0.92}, ""2"": {""content"": ""The author expresses distrust in Trump, suggesting he is capable of unethical international actions."", ""type"": ""expressives"", ""confidence"": 0.89}}",1,representatives,yes,IMP,NAG,
+worldpolitics2,3/6/2022 21:34,hzm9v9h,AntiMaJosi,"Putin wouldn't do that for trump without something in return, and I don't know what trump would have to offer without being the president anymore.",hzm9m4s,"{""1"": {""content"": ""The author doubts Putin would act on Trump's behalf without a clear incentive."", ""type"": ""representatives"", ""confidence"": 0.91}, ""2"": {""content"": ""The author questions Trump's ability to influence Putin after leaving office."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG,
+worldpolitics2,3/6/2022 22:35,hzmihbc,IntnsRed,"&gt; I bet Putin regrets not having invaded while Trump was the president.
+
+Trump made the change okaying the sale of more weapons to Ukraine. In Dec. 2017 Trump made that change and it riled Russia.
+
+This war has nothing to do with Trump or any other president. This war has to do with NATO expansion.
+
+In 2008 Russia bluntly warned the US that NATO expansion could lead to military conflict. They've been saying the same thing since then.
+
+**This war is all about NATO expansion!**
+
+When we announced Ukraine was going to join our offensive military alliance Russia strenuously objected. When we started arming Ukraine Russia then set its ""red line.""
+
+Russia then sought a treaty to prevent NATO expansion but Biden rejected that before the diplomats even met. The US then started flooding weapons and NATO military trainers into Ukraine. That left Russia with no choice but war.
+
+Russia sees Ukraine joining NATO as an *existential threat* -- they'll go nuclear over this issue.
+
+The US doesn't learn. We provoked Russia into launching a war and now we're talking about sending Ukraine weapons from Poland and advanced jets. This has a serious potential to develop into WWIII.",t8695c,"{""1"": {""content"": ""The author asserts that NATO expansion, not US presidential politics, is the primary cause of the war."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author presupposes that Russia views NATO expansion as an existential threat, justifying extreme responses."", ""type"": ""representatives"", ""confidence"": 0.95}, ""3"": {""content"": ""The author implies that US actions provoked Russia into war, shifting blame from Russia to the US and NATO."", ""type"": ""representatives"", ""confidence"": 0.94}}",1,representatives,no,IMP,NAG,
+worldpolitics2,3/6/2022 22:37,hzmiszd,AntiMaJosi,I know. But I'm saying that Trump wouldn't have been as aggressive against Russia as Biden currently is. It would have been more strategic to attack Ukraine during trumps presidency.,hzmihbc,"{""1"": {""content"": ""The author believes Trump would have been less confrontational with Russia than Biden."", ""type"": ""representatives"", ""confidence"": 0.93}, ""2"": {""content"": ""The author implies that Russia missed a strategic opportunity by not invading during Trump's presidency."", ""type"": ""representatives"", ""confidence"": 0.91}}",1,representatives,yes,IMP,NAG,
+worldpolitics2,3/6/2022 22:55,hzml9xg,IntnsRed,"&gt;  But I'm saying that Trump wouldn't have been as aggressive against Russia as Biden currently is.
+
+Correct. Biden is being a friggin' idiot.
+
+IMO the US deliberately sought to provoke Russia into a war. It's just like our secret plan to provoke the USSR into sending troops to defend a friendly gov't in Afghanistan decades ago. That was a deliberate US strategy *to provoke* action and to trap them in a guerrilla war.
+
+Obama threatened to trap Russia in a guerrilla war in Syria but the Russians won that one.
+
+Now the US is doing that using Ukraine. Logic would state there are 2 options in play, that:
+
+* If the US wanted a war -- say because Washington decided to turn Ukraine into Syria and trap the Russians in a guerrilla war -- then Biden got his war.  Mission accomplished!
+
+* If the US did not want a war then this has to be classified as a complete and total blunder by Biden.  
+
+  The US attitude through the entire run-up before the war was to treat the Russians like a minor country instead of the dominant power in eastern Europe. What would have happened if the US tact towards negotiations were softer and more different? What if the US had proposed a 10 year delay on Ukrainian NATO membership or some such thing? Either way, this was a big Biden screw-up.",hzmiszd,"{""1"": {""content"": ""The author claims the US deliberately provoked Russia into war for strategic reasons."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author blames Biden for a major foreign policy failure or, alternatively, credits him for achieving a strategic goal."", ""type"": ""representatives"", ""confidence"": 0.94}, ""3"": {""content"": ""The author draws historical parallels to previous US strategies to entrap adversaries in conflict."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,yes,IMP,CAG,
+worldpolitics2,3/6/2022 23:16,hzmo81j,chicofaraby,"&gt;This war has to do with NATO expansion.
+
+Bullshit.
+
+This invasion happened because Putin is still fighting the Cold War and thinks he can put the Soviet Union back together. He's insane. 
+
+It's not NATO, it's not Nazis, it's not the Donbas region. Those are shitty Russian propaganda claims.
+
+Russia invaded Ukraine. The US is not involved.",hzmihbc,"{""1"": {""content"": ""The author rejects the idea that NATO expansion caused the war, attributing it solely to Putin's ambitions and mental state."", ""type"": ""representatives"", ""confidence"": 0.97}, ""2"": {""content"": ""The author accuses Russia of using propaganda to justify the invasion."", ""type"": ""representatives"", ""confidence"": 0.95}, ""3"": {""content"": ""The author absolves the US of responsibility for the invasion."", ""type"": ""representatives"", ""confidence"": 0.94}}",1,representatives,no,IMP,OAG,
+worldpolitics2,3/7/2022 1:19,hzn4hna,IntnsRed,"You're spouting US propaganda.
+
+In the big reveal of US State Dept cables given to Wikileaks by Bradley/Chelsea Manning, in 2008 the Russians sent the US a bluntly worded statement that incorporating Georgia and Ukraine would lead to military conflict. That was **2008**.
+
+In the years since Russia has been consistent: they oppose NATO expansion.
+
+They've tolerated US-funded colored revolutions but they oppose expanding NATO.
+
+We see this in the past year. They asked for a treaty about stopping NATO expansion. Biden's administration rejected that before diplomats even met. Then the US started flooding Ukraine with weapons and NATO military trainers. With the US position already set, diplomacy went nowhere so Russia was left with no other option except war.
+
+US propaganda like you spout wants to paint Putin as crazy or trying to recreate the USSR -- all to hide Russia's real objection which is NATO expansion.",hzmo81j,"{""1"": {""content"": ""The author claims that Russia's opposition to NATO expansion has been consistent and well-communicated to the US."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author accuses the previous poster of spreading US propaganda that misrepresents Russia's motives."", ""type"": ""expressives"", ""confidence"": 0.93}, ""3"": {""content"": ""The author implies that the US ignored diplomatic opportunities, leaving Russia with no alternative but war."", ""type"": ""representatives"", ""confidence"": 0.92}}",1,representatives,no,IMP,CAG,
+worldpolitics2,3/7/2022 1:34,hzn6e32,chicofaraby,"Russia's invasions of Georgia and Ukraine are making it very clear to every other former Soviet colony that they need to defend themselves from Russia's criminal mafia operating as a government.
+
+If Russia wants to stop nations from joining NATO, they should stop invading their neighbors.",hzn4hna,"{""1"": {""content"": ""The author believes Russia's invasions have increased other former Soviet states' desire for self-defense and NATO membership."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""The author suggests that Russia's aggressive actions are counterproductive to its stated goal of stopping NATO expansion."", ""type"": ""representatives"", ""confidence"": 0.94}}",1,representatives,yes,IMP,NAG,
+worldpolitics2,3/7/2022 1:46,hzn7yi5,IntnsRed,"As I mentioned, the US pushed and made the announcement about wanting Ukraine and Georgia into NATO Russia responded with a cable saying that would lead to military conflict.
+
+The war with Georgia was not initiated by Russia. There was a peace agreement in place agreed to by Georgia, Russia and Europe's OSCE. Georgia had its army trained by US Marines and with their new training and US supplied weapons they attacked the mostly-Russian peacekeepers and launched an offensive to retake the disputed areas.
+
+Russia counter attacked, kicked the Georgian army's ass and drive deep into Georgia. After firmly sending the message ""we can come back"" Russia then withdrew.
+
+Not surprisingly, Georgia has chilled out on their ""join NATO"" talk.",hzn6e32,"{""1"": {""content"": ""The author claims the US provoked Russia by pushing for NATO expansion and that Russia's military actions were reactive."", ""type"": ""representatives"", ""confidence"": 0.96}, ""2"": {""content"": ""The author disputes the narrative that Russia was the aggressor in the Georgia conflict, blaming Georgia and US involvement."", ""type"": ""representatives"", ""confidence"": 0.94}, ""3"": {""content"": ""The author implies that Russia's military interventions serve as warnings to deter further NATO expansion."", ""type"": ""representatives"", ""confidence"": 0.93}}",1,representatives,no,IMP,CAG,

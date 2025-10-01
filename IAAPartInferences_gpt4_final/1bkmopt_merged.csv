@@ -1,0 +1,170 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AfterMidnight,,1bkmopt,Pin-Last,"""post_title"": I’d post about the Jeff Probst episode…
+
+""post_content"": …but I can only take so many downvotes before I get the hint. 
+I literally can’t find a bigger Taylor fan than me. 
+It’s true love. 
+Now that we’ve established that…
+Can we talk about the ONE episode where Taylor maybe wasn’t perfect?",,"{
+    ""1"": {
+        ""content"": ""The author feels discouraged from posting critical opinions about Taylor due to fear of community backlash (downvotes)."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author is a devoted fan of Taylor, possibly to the point of bias."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""Despite their admiration, the author believes Taylor was not perfect in the Jeff Probst episode and wants to discuss it."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",3,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 1:55,kvz7sr0,spuje4000,What was wrong with the Jeff Probst episode? Seemed OK to me.,1bkmopt,"{
+    ""1"": {
+        ""content"": ""The responder did not perceive any issues with the Jeff Probst episode and is seeking clarification."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder may implicitly challenge the original poster's negative view."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:00,kvz8ps6,Pin-Last,"I don’t want to yuck anyone’s yum. I love TT so much it’s tough to discuss. She became insecure late in the episode, implied she wasn’t a “real host” compared to Jeff, and that’s just what made the edit. I got VERY emotional. Maybe I’m nuts.",kvz7sr0,"
+{
+    ""1"": {
+        ""content"": ""The author is emotionally invested in Taylor and finds it difficult to discuss her flaws."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Taylor's insecurity and self-doubt during the episode were significant enough to affect the author emotionally."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is concerned about being perceived as overly critical or negative."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:00,kvz8pwy,wjmacguffin,"Agreed. I wasn't bored and I laughed a good amount. What's the problem, OP?",kvz7sr0,"{
+    ""1"": {
+        ""content"": ""The responder did not find any problems with the episode and questions the original poster's criticism."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder aligns with the previous message's positive sentiment about the episode."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:06,kvz9kr9,Pin-Last,"Please read the first comment’s reply. I’m not the guy who wants to upset Taylor. I’m a nuts fan, I know her career exhaustively, plus I used to be a producer, so I see everything on AM. I love her enough to be honest.",kvz8pwy,"{
+    ""1"": {
+        ""content"": ""The author wants to clarify that their criticism comes from a place of deep fandom and expertise."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author feels misunderstood and wants to distance themselves from being seen as a hater."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:11,kvzaa6b,Pin-Last,"I’m the OP. I worship Taylor. So it made me emotional when she implied she wasn’t a “real host” compared to Jeff Whatshisname and started putting herself down. As someone who struggles, it was triggering.",1bkmopt,"{
+    ""1"": {
+        ""content"": ""The author identifies as a devoted fan and is emotionally affected by Taylor's self-doubt."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author relates personally to Taylor's struggles and finds them triggering."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    }
+}",2,expressives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:17,kvzba91,spuje4000,"It wasn't great hosting if you're expecting complete polish, but she seemed to have a real human reaction. Which is why I like watching her. She brings both  chaos and authenticity to the job.",kvz8ps6,"{
+    ""1"": {
+        ""content"": ""Taylor's lack of polish is offset by her authenticity and unpredictability, which the author values."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author prefers authenticity over perfection in hosting."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:27,kvzcsxy,wjmacguffin,"Taylor is doing great, but Probst has been a show host for 24 straight years. She's been doing this for a couple of months. It's entirely normal for her to feel intimidated or what have you.
+
+There's a lot to love about her, but to be completely frank, you're starting to sound a bit creepy with just how much you're into her. Please dial it back some, and promise yourself that you'll never try to find her IRL.
+
+Again, she's awesome! Just be cool.",kvz8ps6,"{
+    ""1"": {
+        ""content"": ""Taylor's inexperience compared to Probst justifies her insecurity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author perceives the original poster's intense fandom as potentially unhealthy or obsessive."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is warning the original poster to moderate their behavior and not seek out Taylor in real life."",
+        ""type"": ""directives"",
+        ""confidence"": 0.95
+    }
+}",3,directives,yes,IMP,OAG,
+AfterMidnight,3/22/2024 2:45,kvzfkem,Pin-Last,"Interesting, mature take. Thanks for not refuting the premise. I don’t want Taylor to literally broadcast weakness because I think she’s so great, because she might regret it, and that it might hurt her show. I got upset seeing her put herself down so I posted about it. Ce la vive.",kvzba91,"{
+    ""1"": {
+        ""content"": ""The author is concerned that Taylor's public self-doubt could harm her reputation or show."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author appreciates mature, non-confrontational discussion."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 3:14,kvzk126,Pin-Last,You get 500 down-votes for being remotely critical and you’ll wax effusively about how much you actually love the person ur criticizing too.,kvzcsxy,"{
+    ""1"": {
+        ""content"": ""The author believes that expressing even mild criticism leads to excessive negative feedback in the community."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author is skeptical of the sincerity of those who claim to love Taylor while criticizing her."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,CAG,
+AfterMidnight,3/22/2024 21:04,kw3i0u5,wjmacguffin,"Nope, just your down vote. 
+
+Even better, I never criticized her. I just said I can see why she felt intimidated. I literally defended her. But you're overly obsessed so you need to declare me a problem so you can feel good ""defending"" her.
+
+That's concerning, never mind incorrect.",kvzk126,"{
+    ""1"": {
+        ""content"": ""The author feels wrongly accused of being critical and asserts their defense of Taylor."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author perceives the other as overly defensive and obsessed with Taylor."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AfterMidnight,3/22/2024 22:21,kw3ving,Pin-Last,When/how did I “declare you a problem”??,kw3i0u5,"{
+    ""1"": {
+        ""content"": ""The author is challenging the accusation that they declared the other person a problem."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,directives,uncertain,IMP,NAG,

@@ -1,0 +1,273 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskLGBT,,14i6qeb,gingimcghee,"""post_title"": I'm a bit confused
+
+""post_content"": If gender isn't based on biological sex and you can be a male while still being a biological female, then shouldn't someone who gets a sex change be called Trans-sex (or Transex), instead of Transgender?
+
+Secondary question: how do you tell the difference between someone who identifies with a gender that isn't their biological sex and someone who is pretending/lying?",,"{
+  ""1"": {
+    ""content"": ""The author presupposes that gender and biological sex are distinct concepts, and questions the terminology used for people who transition."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.95
+  },
+  ""2"": {
+    ""content"": ""The author implies skepticism about the ability to distinguish between genuine and non-genuine gender identity claims."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author presupposes that some people might pretend or lie about their gender identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.88
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:31,jpemvy5,ActualPegasus,"As a disclaimer, I consider biological sex and gender to be two sides of the same coin. The only difference to me is using the former as an adjective and the latter as a noun. However, assigned sex/gender can be different from biological sex/gender.
+
+Some trans people do consider themselves to be transsexual (as opposed to transgender) but it's fairly uncommon. The reason most prefer transgender is because -sexual tends to be heavily associated with sexualities, and by extension, intercourse.
+
+I always take someone at face value when they tell me their gender and pronouns. If they're lying as a queerphobic ""gotcha"", they'll eventually get frustrated with me always referring to them as such and reveal their true gender and pronouns. Cissexists don't like to acknowledge it, but misgendering really upsets them too.",14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author believes in a close relationship between sex and gender, but acknowledges that assigned sex/gender can differ from biological sex/gender."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author implies that the term 'transgender' is preferred over 'transsexual' due to associations with sexuality and intercourse."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author expresses a stance of trust towards people's stated gender and pronouns, and suggests that those who lie will eventually reveal themselves."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",3,expressives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:38,jpennv5,WildInsights,Why would someone lie about their gender?,14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author questions the plausibility or motivation for someone to lie about their gender, implying skepticism toward the idea."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  }
+}",1,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:42,jpeo21y,justbrowsing759,You are off on your history on the term transsexual. I recommend doing more research,jpemvy5,"{
+  ""1"": {
+    ""content"": ""The author challenges the accuracy of the previous message's historical account of the term 'transsexual', implying the other person is misinformed."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author directs the previous poster to do more research, implying a lack of sufficient knowledge."",
+    ""type"": ""directives"",
+    ""confidence"": 0.88
+  }
+}",2,directives,yes,IMP,CAG,
+AskLGBT,6/25/2023 1:48,jpeotfc,ActualPegasus,What part is off? Could you share it here?,jpeo21y,"{
+  ""1"": {
+    ""content"": ""The author requests clarification on what was incorrect, implying a willingness to engage and learn."",
+    ""type"": ""directives"",
+    ""confidence"": 0.85
+  }
+}",1,directives,no,IMP,NAG,
+AskLGBT,6/25/2023 1:51,jpep7d7,justbrowsing759,"It's not as uncommon or rare as you portrayed. Additionally, you are incorrect about why it's not as common as transgender.",jpeotfc,"{
+  ""1"": {
+    ""content"": ""The author disputes the rarity of the term 'transsexual' and the reason for its uncommonness, implying the previous explanation was inaccurate."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:06,jpequpb,gingimcghee,Why does anyone lie about anything? The fact is that there will be at least someone out there who is lying and then that leads to the questions; how many are there who are lying and how could you tell if they are lying or not?,jpennv5,"{
+  ""1"": {
+    ""content"": ""The author implies that lying is a general human behavior and that it is possible in the context of gender identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author raises the issue of quantifying and detecting deception in gender identity, suggesting skepticism or concern about authenticity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.88
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:08,jper1t3,ActualPegasus,"I mean, I didn't give a specific number because I don't think it's measurable but I also wouldn't say more trans people consider themselves to be transsexual than transgender.
+
+If you'd like to share a different reason that transsexual is uncommon though, I'm all ears.",jpep7d7,"{
+  ""1"": {
+    ""content"": ""The author clarifies their previous statement, maintaining that 'transgender' is more common than 'transsexual'."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.85
+  },
+  ""2"": {
+    ""content"": ""The author invites alternative explanations, showing openness to discussion."",
+    ""type"": ""directives"",
+    ""confidence"": 0.80
+  }
+}",2,directives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:08,jper5k8,WildInsights,"How do you know if someone is a Sagittarius when they're actually a Libra if you haven't seen their birth certificate? Are you concerned about that too, because ""there will be at least someone out there who is lying""? Or are you only this investigatory about trans people? Why do YOU care?",jpequpb,"{
+  ""1"": {
+    ""content"": ""The author uses analogy to question the focus on verifying trans people's identities, implying that such scrutiny is unusual and possibly discriminatory."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author challenges the motivation behind the concern, suggesting it is unwarranted or biased."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:13,jperpcy,justbrowsing759,"I didn't assert that more people ID as transsexuals over transgender, but it's not as uncommon as you initially said. 
+
+There are a few factors, but a driving factor is that the term transsexual which was the dominant term was then taken by cis people and used as a sort of slur. Many interviews with trans people from the 90s and before used the term transsexual. The transition did not have to do with sexuality but instead with cis people using the term as a slur and the community having to adapt. 
+
+I recommend doing more research on trans history. If you haven't already, Paris is Burning is a documentary made during the aids crisis that featured tons of trans women and I highly recommend watching it to learn more.",jper1t3,"{
+  ""1"": {
+    ""content"": ""The author clarifies that they did not claim transsexual is more common, but maintains it is not as rare as previously stated."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.85
+  },
+  ""2"": {
+    ""content"": ""The author provides historical context, suggesting that the term 'transsexual' became less common due to its use as a slur by cis people."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author recommends educational resources, implying the previous poster lacks sufficient knowledge."",
+    ""type"": ""directives"",
+    ""confidence"": 0.85
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:25,jpet0cc,gingimcghee,You're not answering my question,jper5k8,"{
+  ""1"": {
+    ""content"": ""The author expresses frustration at not receiving a direct answer to their question."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:25,jpet1x2,IrrationalPanda55782,"First, “biological sex” is not a term used in the scientific or medical communities. It’s used by anti-LGBTQ activists.
+
+Second, gender isn’t based on physical characteristics because it’s an intuitive identity. But when a baby is born, we claim a gender for it based on physical characteristics. It’s a guess, since most people’s gender is consistent with their body. Sometimes the gender and sex don’t line up, and that person is trans.
+
+You can’t tell if someone is lying about their gender any more than you can tell when someone is lying about anything. Nobody except right wing anti-LGBTQ propagandists pretends to be trans.",14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author challenges the scientific validity of 'biological sex', suggesting it is a term used by anti-LGBTQ activists."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author asserts that gender is an intuitive identity, not based on physical characteristics."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author claims that only anti-LGBTQ propagandists pretend to be trans, implying that deception about gender identity is extremely rare."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  }
+}",3,representatives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:28,jpetbi8,WildInsights,"What question? How do you know if someone's lying? You probably don't, just like you don't know if someone's lying about their star sign/occupation/relationship status/literally anything. Although being an openly trans person is quite risky, so I see very little incentive to pretend to be trans. 
+
+So answer my question: why does it matter to you? You, personally. How does it impact you?",jpet0cc,"{
+  ""1"": {
+    ""content"": ""The author suggests that it is generally difficult to know if someone is lying about personal attributes, and that pretending to be trans is unlikely due to social risks."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author questions the personal relevance of the issue to the interlocutor, implying skepticism about their motives."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",2,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:43,jpev2i6,gingimcghee,"To all those other examples that you brought up, you can find out whether or not they are lying, such as; birth certificate, driver's license, passport, employment records, marriage records, etc. They are based upon things that can be proven with evidence.
+
+Again, you didn't answer my question. If someone were lying about their gender identity, what evidence could you use to prove that they are lying?
+
+Personally, I'd like to know the truth, to understand and not be confused, which I'd hope you would want the same thing for yourself.",jpetbi8,"{
+  ""1"": {
+    ""content"": ""The author argues that most personal claims can be verified with evidence, implying that gender identity should also be verifiable."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author expresses a desire for truth and understanding, implying confusion or frustration with the lack of clear answers."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:50,jpevqnd,WildInsights,"When you meet someone new, do in you check their birth certificate (how are you getting into the safe in their house bro), their ID, their passport, their employment records, to check if they're lying about anything? That's stalker behavior and probably illegal. 
+
+I don't have an answer to that question because I don't go around trying to disprove people when they tell me who they are. I'm not that paranoid that everyone's lying to me. If you are, you may need some help from a therapist.",jpev2i6,"{
+  ""1"": {
+    ""content"": ""The author implies that verifying personal claims through official documents is intrusive and socially unacceptable."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author suggests that excessive suspicion about people's identities is a sign of paranoia and may require therapy."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",2,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:54,jpewafl,General_Ad7381,">If gender isn't based on biological sex and you can be a male while still being a biological female, then shouldn't someone who gets a sex change be called Trans-sex (or Transex), instead of Transgender?
+
+There are actually multiple components that go into being a ""biological"" male or female. It's entirely possible that you could be assigned female at birth, your body can produce estrogen naturally, you can appear and *feel* like a woman -- but if you take a kareotype test, it could show you actually have XY chromosomes.
+
+I'm not going to pretend that I am *especially* knowledgeable on the intricacies of this issue, but I encourage you to look into intersex educators to learn more about all the ways that ""biological sex"" doesn't equate to gender.
+
+>how do you tell the difference between someone who identifies with a gender that isn't their biological sex and someone who is pretending/lying?
+
+There has been an epidemic of trans women of color being murdered for years now in the United States, and for the past few that and accompanied hate crimes along with legislation have gotten MUCH worse. To come out as trans means that there is a greater risk of being physically or sexually attacked, kicked out, or killed than what LGB+s face.
+
+In other words, virtually no one is dumb enough to lie or pretend.
+
+If someone is *actively transitioning*, that is **ALWAYS** a good indicator that they aren't lying, for the sheer fact of how much vitriol they tend to face / be at threat of. Cis people who *know* they're cis are not ever going to be happy transitioning, and if they are pretending, it's not going to last long.",14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author asserts that biological sex is complex and not strictly binary, challenging common assumptions."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  },
+  ""2"": {
+    ""content"": ""The author highlights the risks and violence faced by trans people, implying that pretending to be trans is highly unlikely."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.95
+  },
+  ""3"": {
+    ""content"": ""The author suggests that active transitioning is strong evidence of genuine trans identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:56,jpewgu1,General_Ad7381,">Nobody except right wing anti-LGBTQ propagandists pretends to be trans.
+
+Highlighting this because it's true.",jpet1x2,"{
+  ""1"": {
+    ""content"": ""The author affirms the claim that only anti-LGBTQ propagandists pretend to be trans, reinforcing the idea that deception is rare."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  }
+}",1,expressives,yes,IMP,NAG,
+AskLGBT,6/25/2023 3:04,jpexc0d,gingimcghee,Username checks out,jpet1x2,"{
+  ""1"": {
+    ""content"": ""The author makes a sarcastic remark, possibly implying that the previous comment aligns with the user's identity or reputation."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.80
+  }
+}",1,expressives,no,IMP,CAG,
+AskLGBT,6/25/2023 3:31,jpf08ve,IrrationalPanda55782,What about my comment makes you say that?,jpexc0d,"{
+  ""1"": {
+    ""content"": ""The author requests clarification, implying confusion or a desire to understand the previous sarcastic remark."",
+    ""type"": ""directives"",
+    ""confidence"": 0.80
+  }
+}",1,directives,no,IMP,NAG,
+AskLGBT,6/25/2023 3:38,jpf0zni,gingimcghee,Everything you said is wrong,jpf08ve,"{
+  ""1"": {
+    ""content"": ""The author dismisses the previous message entirely, implying strong disagreement and possibly hostility."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,no,IMP,OAG,
+AskLGBT,6/25/2023 4:13,jpf4uyv,IrrationalPanda55782,"It’s not, actually. You’re the one who posted, saying you were confused.",jpf0zni,"{
+  ""1"": {
+    ""content"": ""The author refutes the previous claim, pointing out that the original poster admitted confusion."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,yes,IMP,CAG,
