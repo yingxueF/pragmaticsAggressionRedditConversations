@@ -1,0 +1,51 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+AskARussian,,t7599e,palmerstoneroad,"""post_title"": Ukrainians are less afraid of the Russian army than Russians are of the Russian police
+
+""post_content"": Basically what in the title. Opinions?",,"{""1"": {""content"": ""Ukrainians are less afraid of the Russian army than Russians are of the Russian police."", ""type"": ""representatives"", ""confidence"": 0.95}, ""2"": {""content"": ""Opinions are being sought on the topic."", ""type"": ""directives"", ""confidence"": 0.85}, ""3"": {""content"": ""There is a comparison being made between Ukrainian and Russian perceptions of fear towards military and police forces."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,uncertain,IMP,NAG
+AskARussian,2022-03-05 10:11:09,hzfm58e,osti221179,Where are you from?,t7599e,"{""1"": {""content"": ""Inquiring about the origin of the interlocutor."", ""type"": ""directives"", ""confidence"": 0.9}}",1,directives,yes,IMP,NAG
+AskARussian,2022-03-05 10:57:25,hzfpn6d,palmerstoneroad,why is it important?,hzfm58e,"{""1"": {""content"": ""Questioning the importance of the previous statement."", ""type"": ""directives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+AskARussian,2022-03-05 12:01:08,hzfuce1,osti221179,Well it’s a lot easier for people the other side of the world telling Russian people to do this and do that from the comfort of their home.,hzfpn6d,"{""1"": {""content"": ""Highlighting the ease of giving advice from a distance."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,representatives,yes,IMP,NAG
+AskARussian,2022-03-05 13:43:01,hzg2cqs,StrongManPera,They are not being targeted right now. And russian police didn't hesitate against russian population. You can see how Ukrainian are freely protesting in Kherson. Not something you can do in Russia easily.,t7599e,"{""1"": {""content"": ""Comparing the situations in Ukraine and Russia regarding protests and freedom."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskARussian,2022-03-05 13:47:26,hzg2qx7,StrongManPera,"Oh, and I have a joke for you:
+
+\- Quickly! Stop the train!
+
+\- But how?!
+
+\- Jump in front of it!
+
+\- But I will die!
+
+\- Oh, so you are with the train all along!",t7599e,"{""1"": {""content"": ""Sharing a joke."", ""type"": ""expressives"", ""confidence"": 0.75}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 13:59:29,hzg3uz9,palmerstoneroad,"Unfortunately for you, I don't live in Russia and I can have full coverage about what it is going in Ukraine. Even Press people (UK Sky News) have been target of Russian shots, go figure civilians. That's dirty playing. Not sure whether Putin told you that on TV. 
+
+Ukrainians are withstanding it and in my opinion are going to win the war. The impression I have is that Russians are weak and wobbly",hzg2cqs,"{""1"": {""content"": ""Expressing support for Ukrainians and criticism towards Russians."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""Implying that Ukrainians are stronger than Russians in the conflict."", ""type"": ""implicatures"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 14:10:02,hzg4v8x,StrongManPera,Unfortunately for you I have a lot more information since i'm monitoring Ukrainian tg channels as well and can actually hear and undestand what they are saying and showing. Your are ignorante.,hzg3uz9,"{""1"": {""content"": ""Asserting access to more information and knowledge."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskARussian,2022-03-05 14:18:11,hzg5nzn,palmerstoneroad,"Ohhhhh really, lucky you!!!
+
+Well, there are Apps that translate in real time from language to language. Pretty soon all these technologies won't be available in Mother Russia.Have you seen the video of the interrogation of the Russian pilot who shelled the residential areas of Chernihiv ? (Probably banned by the dictator's cheap propaganda ? ).
+
+Look at it, and you'll see why I am telling you Russian are weak and are going to lose this war",hzg4v8x,"{""1"": {""content"": ""Mocking the situation in Russia and predicting their defeat."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""Referencing a specific video and challenging the opponent to watch it."", ""type"": ""directives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 14:20:15,hzg5vex,StrongManPera,Yes I saw it. As well as many more Russian and Ukrainian POWs.,hzg5nzn,"{""1"": {""content"": ""Confirming having seen the mentioned video."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskARussian,2022-03-05 14:28:47,hzg6qw8,palmerstoneroad,"ok, so determined that Ukraine civilians are highly targeted, do you have an answer to my original question, which was:
+
+Ukrainians are less afraid of the Russian army than Russians are of the Russian police?",hzg5vex,"{""1"": {""content"": ""Seeking an answer to the initial question about fear towards the Russian army and police."", ""type"": ""directives"", ""confidence"": 0.9}}",1,directives,yes,IMP,NAG
+AskARussian,2022-03-05 14:30:08,hzg6vuh,StrongManPera,"No, they are not. If they were highly targeted they wouldn't be able to protest and ride along Russian columns.",hzg6qw8,"{""1"": {""content"": ""Disagreeing with the assertion of Ukrainians being less afraid of the Russian army."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 14:33:30,hzg786w,palmerstoneroad,"I highly disagree. They are standing still against invaders with rifles and guns with bare hands and WITH NO FEAR. Your Ukrainian cousins are giving you a lesson about how to act.
+
+You guys are afraid of your own police. Spineless",hzg6vuh,"{""1"": {""content"": ""Accusing the opponent of being spineless and afraid of their own police."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,CAG
+AskARussian,2022-03-05 14:35:03,hzg7dz4,StrongManPera,"Bare hands wouldn't do much against a bullet. If it was campaing of terror as you describing it Russian army would just level Kiev in the first day of conflict.
+
+And would also hit critical infrastructure. Would target heat plants first and water facilities.",hzg786w,"{""1"": {""content"": ""Challenging the effectiveness of bare-handed resistance against bullets."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskARussian,2022-03-05 14:40:24,hzg7xyh,palmerstoneroad,"They smelled what FREEDOM is, something that you guys under a dictatorship cannot feel how it feels, there is no bullets and terror they can fear.
+
+&amp;#x200B;
+
+In any case it's day 8 of conflict and you are holding this dick in your hand",hzg7dz4,"{""1"": {""content"": ""Mocking the opponent's lack of freedom and courage."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,CAG
+AskARussian,2022-03-05 14:45:07,hzg8fu2,StrongManPera,"Sure, whatever so they will win with sticks and stones I guess. Nothing to worry about. 
+
+It's clear to me that you hadn't been threatened with the gun to your face and I hope it stays the same.",hzg7xyh,"{""1"": {""content"": ""Expressing concern for the opponent's safety and lack of experience with threats."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 14:50:45,hzg91xq,palmerstoneroad,"If someone would treat my freedom I would DIE FOR IT. Now, since I guess your freedom is highly limited in the country I suggest you spend your time thinking how to take it back (and go protesting in the streets is not the only option), instead of losing time discussing it with me on Reddit.
+
+Please let me know how it goes and thanks for your contribution",hzg8fu2,"{""1"": {""content"": ""Stating willingness to sacrifice for freedom."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
+AskARussian,2022-03-05 14:54:24,hzg9g9h,StrongManPera,You wouldn't know until there is real threat to your life. That one I'm certain.,hzg91xq,"{""1"": {""content"": ""Asserting certainty about the opponent's reaction to a real threat."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG

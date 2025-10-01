@@ -1,0 +1,92 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+antinatalism,,18bygmy,vibrantverdure,"""post_title"": Arguments against suicide as a oppositional against anti-natalism,
+
+""post_content"": I am interested in learning about AN arguments that state that being anti-suicide does not support the opposition argument that a sentient entity is better to be existent than not. If MAID were non-suffering, why would they not do it to minimize suffering? I believe such argument would give me a better understanding of AN and potentially agree with it. ",,"{""1"": {""content"": ""The author is exploring arguments against suicide in the context of anti-natalism."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""The author is seeking to understand anti-natalism and potentially agree with it."", ""type"": ""expressives"", ""confidence"": 0.85}, ""3"": {""content"": ""The author is questioning why a non-suffering entity would not choose to minimize suffering through Medical Aid in Dying (MAID)."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,representatives,no,IMP,NAG
+antinatalism,2023-12-06 10:01:46,kc7g0vc,Acroabstract,…huh?,18bygmy,"{""1"": {""content"": ""Confusion or lack of understanding regarding the initial message."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
+antinatalism,2023-12-06 10:06:15,kc7gc4v,Acroabstract,"This requires a rewrite, it’s too confusing.
+
+For example “if MAID were non-suffering, why would they not do it to minimize suffering?” Is internally inconsistent (there’s a semantic contradiction—a non-suffering entity has no suffering to minimize), thus meaningless.
+
+There’s no way to rationally reply to nonsense.",18bygmy,"{""1"": {""content"": ""Criticism of the initial message for being confusing and internally inconsistent."", ""type"": ""expressives"", ""confidence"": 0.85}, ""2"": {""content"": ""Assertion that there is no rational reply to the perceived nonsense."", ""type"": ""expressives"", ""confidence"": 0.8}}",1,expressives,yes,IMP,CAG
+antinatalism,2023-12-06 10:51:29,kc7jgrw,Cubusphere,"First of all, antinatalism is limited to the event of coming into existence. Coming into existence, existing, and leaving existence are all fundamentally different.
+
+So, how can an argument against suicide, someone who does exist and want to leave existence, be an argument against not bring new people into existence?
+
+Once a person exists, much more things have to be considered than just prevention of suffering. Active consent and self-determination for example.
+
+It seems to me you take one motivation of antinatalism, prevention of suffering, and try to universally apply it to something else.",18bygmy,"{""1"": {""content"": ""Distinguishing between antinatalism and arguments against suicide."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Highlighting the complexity of considerations beyond suffering in the context of existence and self-determination."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 10:58:23,kc7jy20,Ilalotha,"The argument I have seen is that
+
+>active consent and self-determination
+
+are socio-evolutionary mechanisms which should be superseded by a suffering reduction framework *if* the desire to bring new people into existence is superseded by it in the Antinatalist argument.",kc7jgrw,"{""1"": {""content"": ""Discussing the socio-evolutionary mechanisms and suffering reduction framework in antinatalist arguments."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 11:27:36,kc7m0ym,Cubusphere,"Are you saying that if antinatalism is right, so would a hypothetical philosophy advocating for the murder of any suffering person?
+
+How can we supersede consent of a different person because we superseded our own desire? That seems like a total non sequitur to me.",kc7jy20,"{""1"": {""content"": ""Questioning the implications of antinatalism on advocating for the murder of suffering individuals."", ""type"": ""representatives"", ""confidence"": 0.85}, ""2"": {""content"": ""Challenging the idea of superseding consent based on antinatalist arguments."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 11:54:42,kc7o0nv,Ilalotha,">Are you saying that if antinatalism is right, so would a hypothetical philosophy advocating for the murder of any suffering person?
+
+No, and I am an Antinatalist, I'm just recounting the argument as I have seen it.
+
+Antinatalists usually argue that the desire to procreate isn't a good enough reason to actually procreate, and that people should willingly choose to give up that desire in order to reduce suffering because suffering reduction is more important than the desire is.
+
+This argument is then used to say that the desire to remain alive should also be superseded by a person willingly, and that they should *consent* to the ending of their own lives - either for the suffering in their own lives, or for the suffering that their lives cause.
+
+We can probably remove 'consent' from the picture here because we are ultimately talking about whether people should willingly accept that suffering reduction is more important than *X* desire, not about the choice being forced onto them. The Antinatalist argument isn't generally that people should be forced into not procreating, and necessarily the ""why don't you kill yourself?"" crowd aren't saying that Antinatalists should be forcefully euthanised either, so consent is a bit of a red herring here it seems.
+
+The question ultimately is this:
+
+>Once a person exists, much more things have to be considered than just prevention of suffering.
+
+What *X* should be considered by an existing person when deciding whether or not to take their own life is of more importance than suffering reduction if the desire to procreate is not of more importance than suffering reduction?
+
+Why is *X* a better justification for remaining alive than the desire to procreate is for procreating?",kc7m0ym,"{""1"": {""content"": ""Clarifying that being an antinatalist does not equate to advocating for the murder of suffering individuals."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Explaining the antinatalist argument regarding consent and suffering reduction."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 12:03:46,kc7op92,ApostateAdjurist,"I would add that whatever X is, procreation ultimately is/was a prerequisite to attaining X.",kc7o0nv,"{""1"": {""content"": ""Emphasizing that personal choice in existence and suicide is not equivalent."", ""type"": ""expressives"", ""confidence"": 0.85}, ""2"": {""content"": ""Challenging the equivalence between personal suffering and the suffering of others in the context of existence."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,expressives,yes,IMP,NAG
+antinatalism,2023-12-06 12:15:12,kc7plf1,Cubusphere,"My pro-suicide stance doesn't require any prevention of suffering. A person that exists can decide for ANY reason that they don't want to exist anymore. (Measures to ensure that the decision is indeed made consciously aside).
+
+The two decisions are just not equivalent. Even if suffering is the motivator for both, in one case it's one's own suffering and in the other the suffering of someone else.
+
+>Why is *X* a better justification for remaining alive than the desire to procreate is for procreating?
+
+The premise is unsound in the first place. Only if the suffering of the SAME person was the ONLY justification would that begin to make sense.",kc7o0nv,,,,,,
+antinatalism,2023-12-06 12:30:16,kc7qtdl,Ilalotha,">A person that exists can decide for ANY reason that they don't want to exist anymore
+
+Of course, but in this hypothetical the argument is just the suffering reduction Antinatalist argument flipped on its head.
+
+>The two decisions are just not equivalent. Even if suffering is the motivator for both, in one case it's one's own suffering and in the other the suffering of someone else.
+
+Yes, but what is the fundamental difference between suffering caused to another by procreation and the suffering caused to others by remaining alive in a world where one's continued existence causes suffering?",kc7plf1,"{""1"": {""content"": ""Comparing the morality of causing suffering to oneself versus causing suffering to others."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 12:33:34,kc7r382,Cubusphere,"Suffering caused to oneself is amoral, to others immoral. That's pretty fundamental.",kc7qtdl,"{""1"": {""content"": ""Reiterating the immorality of procreation and continued existence based on causing suffering."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 12:41:08,kc7rq4c,Ilalotha,"I think you have misunderstood my point.
+
+Procreation causes suffering to the sentient being that is brought into existence, therefore it is immoral to bring that sentient being into existence.
+
+Continuing to exist causes suffering to other sentient beings, therefore it is immoral to continue to exist.
+
+Unless there is a fundamental difference between these acts of causing suffering where the first is *unacceptable* in spite of the desire to procreate, and the second is *acceptable* due to *X* desire being used as a reason to remain alive.",kc7r382,,,,,,
+antinatalism,2023-12-06 13:00:53,kc7thyk,Cubusphere,"That's spicy!
+
+>Continuing to exist causes suffering to other sentient beings, therefore it is immoral to continue to exist.
+
+Does stopping to exist alleviate that suffering or maybe even cause more? What about the joy continued existence causes? Remember, you can't equate the hypothetical joy of a non-existent person to the joy of existing persons.
+
+I get your argument now, but there seems to be some trickery of words in there. Different meanings of ""cause"" and ""non-existence"" for example.",kc7rq4c,"{""1"": {""content"": ""Questioning the implications of ceasing existence on alleviating or causing suffering."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 13:04:29,kc7ttqz,ApostateAdjurist,Not really that spicy if you've already come across the misanthropic and environmentalist types of ANs. (The two types aren't always a necessary overlap though),kc7thyk,"{""1"": {""content"": ""Mentioning different types of antinatalists and their perspectives on suffering and existence."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 13:14:44,kc7ut1z,Cubusphere,"Absolute and single issue utilitarianism leads to some absurd propositions. If reduction of suffering was indeed the only utility, blowing up the earth becomes moral.",kc7ttqz,"{""1"": {""content"": ""Critiquing absolute utilitarianism and its implications on moral decisions."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 13:18:05,kc7v4n3,Ilalotha,"I think my main point here is only to get across that this is more complicated of an issue than Antinatalists tend to give it credit for.
+
+>Does stopping to exist alleviate that suffering or maybe even cause more? What about the joy continued existence causes?
+
+Bringing joy into this equation begins to move us away from a purely suffering reduction framework. Doing so at least eliminates the views of people like Benatar, where even minor sufferings are not made less important to prevent by the presence of great joys.
+
+These kinds of joys could be contrasted with the joys that procreation gives to the person through the satisfaction of their desire to procreate, or to the joy of the family and community around that person.
+
+Either way there is the acceptance of one being's suffering in order that joy may be created in the lives of other people.
+
+>I get your argument now, but there seems to be some trickery of words in there. Different meanings of ""cause"" and ""non-existence"" for example.
+
+I don't see that there is any trickery or misuse of words. 
+
+To cause something is, broadly, to bring it about through a course of action. Procreating is a course of action which may or may not be taken that causes the suffering of another, just as remaining alive is a course of action which may or may not be taken that causes the suffering of another.",kc7thyk,"{""1"": {""content"": ""Arguing for the complexity of the issue beyond suffering reduction in antinatalist discussions."", ""type"": ""representatives"", ""confidence"": 0.9}}",1,representatives,yes,IMP,NAG
+antinatalism,2023-12-06 13:30:02,kc7wbr2,Cubusphere,"I disagree that prevention/reduction of suffering is the only utility to be maximized in ALL decisions. If someone really believed that they had to exterminate as much sentient life as possible.
+
+I see some utility in continued existence that simply doesn't apply to antinatalism because it is concerned with the non-existent. I refute the premise that it has to be the exact same framework to justify both suicide and non-procreation.",kc7v4n3,,,,,,

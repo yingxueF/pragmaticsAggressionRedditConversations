@@ -1,0 +1,75 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+canadahousing,,12u91dp,Ok_Pen608,"""post_title"": property sold buy power of sale
+
+""post_content"": I've found 2 properties sold buy power of sale.
+One from creditors
+The other I have not had a response yet.
+
+
+Am I allowed to ask Tennant's bank drafts to check for payement history? 
+
+
+How does one go to do the verifications on these kind of property.
+
+Noob investor here",,"{""1"": {""content"": ""The author is a novice investor seeking advice on verifying properties sold by power of sale."", ""type"": ""representatives"", ""confidence"": 0.85}, ""2"": {""content"": ""The author is concerned about the payment history of the properties."", ""type"": ""representatives"", ""confidence"": 0.8}, ""3"": {""content"": ""The author is unsure about how to proceed with property verifications."", ""type"": ""representatives"", ""confidence"": 0.75}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-22 00:12:24,jh78oh1,BandidoDesconocido,"You could ask for the landlords. That'd be the smart move so you don't get yourself in a money pit situation.
+
+That said, becoming a landlord is a pretty vile way to get ahead. Just invest your money in dividend stocks and ETFs. It's less work and pays pretty good.",12u91dp,"{""1"": {""content"": ""The responder suggests asking for landlords' information to avoid potential financial pitfalls."", ""type"": ""directives"", ""confidence"": 0.85}, ""2"": {""content"": ""The responder criticizes the idea of becoming a landlord and recommends investing in dividend stocks and ETFs instead."", ""type"": ""expressives"", ""confidence"": 0.8}}",1,directives,yes,IMP,CAG
+canadahousing,2023-04-22 00:27:43,jh7an2j,amcman125,I have had multiple non-vile landlords. The act of being a landlord in of itself isn't vile.,jh78oh1,"{""1"": {""content"": ""The responder defends landlords, stating not all landlords are vile."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-22 00:29:22,jh7aush,Ok_Pen608,"You want to work with banks it's your choice , I have my reasons to invest in brick.
+
+I'm also already ahead,  I don't need to build capital I already have it, I'm looking to diversity.
+
+I don't know if you understand what I ment by sold by creditors, the landlord is in default payement and it's not being sold by him.",jh78oh1,"{""1"": {""content"": ""The responder prefers investing in real estate over working with banks."", ""type"": ""representatives"", ""confidence"": 0.8}, ""2"": {""content"": ""The responder clarifies the concept of properties sold by creditors and the default payment situation."", ""type"": ""representatives"", ""confidence"": 0.75}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-22 00:48:49,jh7davc,BandidoDesconocido,Leeching off working people's paycheques is pretty vile if you ask me. It's a vile institution that puts way too much power over people's lives in the hands of the wrong people for the wrong reasons.,jh7an2j,"{""1"": {""content"": ""The responder criticizes the concept of being a landlord as leeching off working people's paycheques."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,CAG
+canadahousing,2023-04-22 00:49:47,jh7dfad,BandidoDesconocido,Presumably the creditors are collecting rent.,jh7aush,,,,,,
+canadahousing,2023-04-22 01:01:08,jh7eulk,amcman125,"My good landlords charged me a fair rent, maintained the apartment/house and property, and responded to complaints promptly.
+
+Even if I theoretically owned a house, I did not have the time to do upkeep/maintenance on it or the property. Furthermore, the taxes and inevitable surprise costs of home ownership would have been very unwelcome early on in my career.
+
+My bad landlord sucked massive donkey balls and if I had the time and knowledge that I fo now I absolutely could have gone to the LTB about it.
+
+Key thing being that being a landlord and being shitty do not have to go hand in hand.",jh7davc,,,,,,
+canadahousing,2023-04-22 01:32:07,jh7ipq1,JohnnyManu40,"By your logic displayed here, all services rendered and all products purchased are just a leeching of ones paycheck.
+
+I give it to you that when people take things to an extreme and turn property ownership into a game of monopoly that it becomes toxic, and that they certainly are taking more than is fair for what they are contributing to society.
+
+But whether you like it or not; your opinion as to what is or is not fair is not valid. Even if you were to somehow come up with the most perfectly correct opinion; the chances of that occurring are slim to none. And no, your current displayed opinion is not the winning one.
+
+What is closer to a winning opinion, is that maybe perhaps we put some regulations in motion that limit how many properties a person can own and rent out at the same time; whilst also creating a new measure of oversight to ensure compliance. This combined with a minimum and maximum threshold for what is considered 'fair rent', should mostly make this problem a thing of the past.
+
+But even what I just said isn't perfect. It can still be abused if we allow it to be. Which is the real fault at hand here.
+
+None of this would be as bad as it is, if people weren't so damn complacent for decades on end. All of you complaining today are literally the boiled frogs in the water. You could have ribbited a long time before; but you took too long and now your croaked.
+
+And if you think you are the 'right people' with the 'right reasons' just wait til you find out how wrong you are.  
+
+
+Edit: It appears this user has blocked me, because I suddenly went from being able to reply to them, to not. All their comments stated deleted user and comment; but looking up their profile brings up an active profile.   
+
+
+That's how pathetic people are in Canada lately when it comes to being tested on their rhetoric.",jh7davc,"{""1"": {""content"": ""The responder discusses the concept of fairness in property ownership and proposes regulatory measures."", ""type"": ""representatives"", ""confidence"": 0.8}, ""2"": {""content"": ""The responder criticizes societal complacency regarding property ownership issues."", ""type"": ""expressives"", ""confidence"": 0.75}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-22 01:35:39,jh7j5i1,JohnnyManu40,">That said, becoming a landlord is a pretty vile way to get ahead. Just invest your money in dividend stocks and ETFs. It's less work and pays pretty good.
+
+Are you cognitively dissonant or something?
+
+No seriously, really. It's an honest question. You push the idea that earning something for having done nothing or leeching from society is vile; but then push dividend stocks and ETF's?
+
+Do you follow as to why this does not compute? Personally I don't see either as vile, but if you are going to be coherent in your displayed virtues; perhaps don't preach hypocrisy?
+
+Edit: User replied then blocked me so I can't respond. Wow. And people wonder why we can't have nice things? This is why.",jh78oh1,"{""1"": {""content"": ""The responder questions the coherence of advocating against being a landlord while promoting dividend stocks and ETFs."", ""type"": ""directives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+canadahousing,2023-04-22 01:38:04,jh7jgka,BandidoDesconocido,"You seem to be confused as to the difference between earning dividends on an investment in a company that brings value to society, and being a parasite landlord.
+
+Housing would continue to exist without the institution of landlordism.",jh7j5i1,"{""1"": {""content"": ""The responder distinguishes between earning dividends and being a landlord, highlighting the societal value of investments."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-23 07:12:47,jhcz1my,qaz436,Your logic is flawed. All products are not shelter. Only shelter is shelter.,jh7ipq1,,,,,,
+canadahousing,2023-04-23 07:16:45,jhczdt3,qaz436,"It should be obvious to you, that there is a difference between stocks and housing. Housing is a zero sum game. Every additional property you buy is a home someone was priced out of. A stock doesn’t occupy a piece of finite land, and the number of stocks and their value expands with the economy. If people needed stocks to live in, and there was a finite number of them, and people started hoarding them because of sociopathic greed, then you could consider them the same.",jh7j5i1,,,,,,
+canadahousing,2023-04-23 07:27:48,jhd0c2i,qaz436,"The lender forcing the power of sale isn’t going to have access to the landlord’s finances, nor could they provide them to you even if they did. They only way you could see the history of rent payments is if the landlord provided them to you voluntarily. You will also inherit and be bound by whatever leases the current tenants have signed, and I don’t know how you would be able to see those leases without the landlord showing them to you. Very likely you would buy this property and then pick up where the previous owner left off evicting the tenants for non-payment.",jh7aush,"{""1"": {""content"": ""The responder explains the limitations in accessing the landlord's financial information and tenant leases in a power of sale situation."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-23 07:34:40,jhd0w5d,Ok_Pen608,"It's what I thought , either the previous owner sucked in math and now is in negative and defaulted on payements.
+Or a few tenants have been not paying which comes to the same conclusion.
+
+May I not ask tenants for their current lease contract, it doesn't seem like asking much specially if I'm the future owner.
+
+I'd see any tenant that refuses as a red flag.",jhd0c2i,"{""1"": {""content"": ""The responder speculates on reasons for the property's default payments and suggests requesting tenant lease contracts."", ""type"": ""representatives"", ""confidence"": 0.8}, ""2"": {""content"": ""The responder views tenant cooperation in providing lease contracts as a positive sign."", ""type"": ""directives"", ""confidence"": 0.75}}",1,representatives,yes,IMP,NAG
+canadahousing,2023-04-23 07:40:23,jhd1d76,qaz436,"Hopefully the listing agent would be able to get a copy of the leases. I would definitely speak with the current tenants, if any of them slam the door in your face you know there is a problem.",jhd0w5d,,,,,,
+canadahousing,2023-04-23 19:09:40,jhewl4g,[deleted],"Unless you you have already purchased you have no right to speak to the tenants directly.   If I were the tenant I wouldn't talk you even if the rent is paid up.  The seller must know that the property is occupied.  Ask them what is happening with the tenants.  If they can't tell you, that's a problem.  Then theirs 'everything else' they aren't telling you about this massive purchase.  Tenant's may be the least of your worried in the long-term.",jhd0w5d,"{""1"": {""content"": ""The responder advises caution in directly contacting tenants before purchasing the property."", ""type"": ""directives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+canadahousing,2023-04-23 19:11:27,jhewukp,[deleted],r/realestateinvesting,12u91dp,,,,,,

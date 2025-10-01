@@ -1,0 +1,36 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+worldpolitics,,p8ssnv,Ariege123,"""post_title"": And there I was...........thinking.
+
+""post_content"": No US president in history could be worse than Trump.  Shit! You've excelled yourselves USA.",,"{""1"": {""content"": ""Strong negative sentiment towards Trump as a US president."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""Author believes Trump is the worst US president in history."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,CAG
+worldpolitics,2021-08-21 17:09:38,h9soe04,SpaceManWP,"Apologies, but this is no longer a dedicated world politics sub. If you’re looking for actual world politics, it’s over at r/anime_titties and r/worldpolitics2",p8ssnv,"{""1"": {""content"": ""Redirecting the conversation to a different subreddit."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Dismissive attitude towards discussing world politics."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+worldpolitics,2021-08-21 17:12:30,h9sor7i,Ariege123,Funny.,h9soe04,"{""1"": {""content"": ""Acknowledgment of humor in the redirection."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+worldpolitics,2021-08-21 17:20:43,h9sptfv,Ariege123,Are anime titties worth a look?,h9soe04,"{""1"": {""content"": ""Curiosity about the content of the mentioned subreddit."", ""type"": ""representatives"", ""confidence"": 0.8}}",1,representatives,yes,IMP,NAG
+worldpolitics,2021-08-21 17:21:09,h9spvgm,SpaceManWP,Go to the sub and find out,h9sptfv,"{""1"": {""content"": ""Encouraging exploration of the subreddit."", ""type"": ""directives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+worldpolitics,2021-08-21 17:25:16,h9sqemq,Ariege123,"Oh! 
+Was not expecting that.
+Thanks for the tip ( genuinely).
+
+Will look for  outrageous cartoon breasts elsewhere.
+
+Reddit always surprises.",h9spvgm,"{""1"": {""content"": ""Surprise and gratitude for the advice."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""Intention to explore other content."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+worldpolitics,2021-08-21 17:25:39,h9sqgfe,SpaceManWP,Happy to help,h9sqemq,"{""1"": {""content"": ""Expressing willingness to assist."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,NAG
+worldpolitics,2021-08-22 17:00:19,h9wzb4y,DarthDonnytheWise,"Were you born yesterday? Or just never payed attention in history class?
+
+Woodrow Wilson, Warren G Harding, Richard Nixon, HW Bush, W Bush, Trump, Biden. This ain't a new thing really.",p8ssnv,"{""1"": {""content"": ""Challenging the notion that Trump is the worst US president."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Listing other US presidents for comparison."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+worldpolitics,2021-08-22 20:15:19,h9xqffb,Ariege123,"Okay, calm down pilgrim.  
+
+Wilson / Harding no idea , I'm a Brit. The rest I have lived through ... You missed Clinton  and the prick after JFK.
+
+My point is exactly what I said, I refer you back to that.",h9wzb4y,"{""1"": {""content"": ""Clarifying lack of knowledge on certain US presidents."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Stating personal experience with US presidents."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+worldpolitics,2021-08-23 04:21:27,h9zh7ef,DarthDonnytheWise,"Lyndon Johnson was after JFK and he didn't handle the war in vietnam well at all, but he gave black people in the US civil rights. Woodrow Wilson was the president that said the US wouldn't be involed in world war 1, then when he got elected he got into the war anyway.  
+
+
+Harding l stated: : ""I suppose so, but I am not fit for this office and should never have been here.""
+
+
+
+If your point was to say Biden is the worst the US can make president, then pick up a history book. And spoiler warning: it's just going to keep getting worse lol",h9xqffb,"{""1"": {""content"": ""Providing historical context on past US presidents."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Challenging the assertion about Biden being the worst president."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+worldpolitics,2021-08-23 21:29:25,ha2il0j,Ariege123,"Goodbye now , you're quite tedious and missing the point. If he hasn't resigned by the end of the year , come back and mock me.",h9zh7ef,"{""1"": {""content"": ""Expressing frustration and ending the conversation."", ""type"": ""expressives"", ""confidence"": 0.9}, ""2"": {""content"": ""Challenging the other person's engagement."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,expressives,yes,IMP,CAG
+worldpolitics,2021-08-23 21:32:14,ha2izpc,DarthDonnytheWise,"Ok just keep being ignorant of history. There's youtube too if you have some reading impairment. I'm not disagreeing that Biden shouldn't be left to take care of a pet rock, but *so far* he's not the worst president the USA has to offer (yet)",ha2il0j,"{""1"": {""content"": ""Calling out ignorance and suggesting alternative sources."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Acknowledging Biden's performance so far."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,directives,yes,IMP,CAG
+worldpolitics,2021-08-23 22:00:02,ha2n3by,Ariege123,It's not January yet.,ha2izpc,"{""1"": {""content"": ""Pointing out the timing of events."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+worldpolitics,2021-08-23 22:01:27,ha2nb3k,DarthDonnytheWise,I for one welcome our Taliban overlords!,ha2n3by,,,,,,

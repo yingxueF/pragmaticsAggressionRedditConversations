@@ -1,0 +1,51 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive
+AskAGerman,,16b8v4k,Significant-Taro-940,"""post_title"": Why are German state officials tend to behave friendly to uneducated/unlawful immigrants while being hostile against people who visit the country for business purposes?…
+
+""post_content"": I am not saying that they should behave hostile against “the immigrants” but I wonder why they are so hostile against the second group?",,"{""1"": {""content"": ""Questioning the behavior of German state officials towards different groups of people."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Expressing curiosity about the reasons behind the perceived hostility towards business visitors."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,representatives,uncertain,IMP,NAG
+AskAGerman,2023-09-06 05:12:40,jzbx0gu,HoJSimpson953,"Who are they?
+How often did it happen?
+How many people where involved?
+Are you sure this wasn't a singular incident?
+Did you ask yourself if you might have done something wrong?
+
+There are a fuck ton of reasons for this.
+
+Racism is probably the last one...",16b8v4k,"{""1"": {""content"": ""Challenging the original poster to provide more details and context."", ""type"": ""directives"", ""confidence"": 0.92}, ""2"": {""content"": ""Suggesting multiple reasons for the behavior described."", ""type"": ""representatives"", ""confidence"": 0.88}}",1,directives,yes,IMP,CAG
+AskAGerman,2023-09-06 05:14:54,jzbxal9,h00man8008,He sounds exactly like a german himself..,16b8v4k,"{""1"": {""content"": ""Making a comment on the perceived similarity between the original poster and a German person."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:28:32,jzbz0je,Significant-Taro-940,"Who said anything about racism? 😄 and why this is the first thing came over your head?
+
+Maybe it is a singular event, I do not know.
+
+Wrong? If I did something “wrong” after such an invasive process, do you really belive they would let me go?",jzbx0gu,"{""1"": {""content"": ""Questioning the focus on racism in the discussion."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Expressing doubt about the likelihood of being let go if something wrong was done."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:32:38,jzbzicy,Significant-Taro-940,"Yeah I like German people, my question was mostly about the state, not the people…",jzbxal9,"{""1"": {""content"": ""Distinguishing between the state and the people in the context of the discussion."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:39:59,jzc0ehe,h00man8008,What did they do to you and why do you think poor people are treated better here? I thought u were a right wing german coming up with old cliches.,jzbzicy,"{""1"": {""content"": ""Challenging the original poster's perspective on the treatment of poor people."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Implying skepticism towards the original poster's identity and intentions."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,directives,yes,IMP,CAG
+AskAGerman,2023-09-06 05:44:00,jzc0vdw,Significant-Taro-940,"Nope, I am foreigner, 40 years old, first time in Germany… 
+
+Poor is a wrong term. Correct term would be “illegally enter Germany”
+
+I wrote what happened.",jzc0ehe,"{""1"": {""content"": ""Clarifying personal details and the situation in Germany."", ""type"": ""representatives"", ""confidence"": 0.9}, ""2"": {""content"": ""Reframing the terminology used to describe the situation."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,representatives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:47:04,jzc18fs,HoJSimpson953,"Then stop beeing a vague fuck and tell us what happened instead of trying to throw shade at other people.
+
+And why did I think you where implying racism?
+Look at your post.
+You literally claim to be treated worse because you are a foreigner, while other lesser valuable people( according to your skewed ranking system) are treated better by state officials.
+Don't play dumb..you came here to cry us a river.
+
+If you really want an opinion, tell us what the fuck happened...",jzbz0je,"{""1"": {""content"": ""Demanding a clear explanation of the situation and events."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Accusing the original poster of playing the victim and being vague."", ""type"": ""representatives"", ""confidence"": 0.85}}",1,directives,yes,IMP,CAG
+AskAGerman,2023-09-06 05:50:25,jzc1n0b,Significant-Taro-940,"Maybe you should read again, everything you asked is written down there. 
+
+And be polite please, why are you so angry and disrespectful?",jzc18fs,"{""1"": {""content"": ""Encouraging the original poster to review the provided information."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Questioning the tone and politeness of the conversation."", ""type"": ""directives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:56:22,jzc2bxn,HoJSimpson953,"You ask a German if it is normal that ""state officials"" treat people you consider unlawfully better than you have been treated as a business Traveller.
+
+And again you never told us which officials did this.
+You didn't tell us where it happened.
+You didn't tell us what exactly happened.
+
+How are we supposed to give you an honest answer without all these informations. Because yes maybe you did something wrong or suspicious?
+Something you weren't aware of? Something someone could answer if you actually would tell us the INFORMATION.
+
+This is AskAGerman.
+And not the "" I had a shitty day at the airport let's complain to Germans"" sub reddit.",jzc1n0b,"{""1"": {""content"": ""Highlighting the need for specific details to provide a meaningful response."", ""type"": ""directives"", ""confidence"": 0.9}, ""2"": {""content"": ""Expressing frustration with the lack of information provided."", ""type"": ""expressives"", ""confidence"": 0.85}}",1,directives,yes,IMP,NAG
+AskAGerman,2023-09-06 05:58:51,jzc2mj2,Significant-Taro-940,"Ok, thank you",jzc2bxn,"{""1"": {""content"": ""Acknowledging the response received."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
+AskAGerman,2023-09-06 06:00:20,jzc2si0,HoJSimpson953,"Ok. You don't want answers then.
+Have a good day sir.",jzc2mj2,"{""1"": {""content"": ""Expressing resignation or frustration with the conversation."", ""type"": ""expressives"", ""confidence"": 0.9}}",1,expressives,yes,IMP,NAG
