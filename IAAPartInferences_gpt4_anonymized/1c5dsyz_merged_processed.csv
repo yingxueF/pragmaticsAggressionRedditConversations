@@ -1,0 +1,190 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AmIOverreacting,,1c5dsyz,ceeb116afb,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""The author perceives the group as intolerant of differing opinions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author feels unfairly treated and excluded for minor disagreements."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author assumes that being banned for a slight disagreement is unreasonable and not standard group behavior."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 13:43,kztdxui,ab51c7cedd,Please retrieve message content using message id from Reddit repositories,1c5dsyz,"{
+    ""1"": {
+        ""content"": ""The responder is skeptical of the author's victim narrative without more details."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder refuses to judge without further information, implying that the author may be omitting important context."",
+        ""type"": ""directives"",
+        ""confidence"": 0.93
+    },
+    ""3"": {
+        ""content"": ""The responder uses humor and ambiguity to challenge the author's self-presentation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 13:50,kzterxw,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztdxui,"{
+    ""1"": {
+        ""content"": ""The author feels misunderstood and unfairly judged by the group moderators."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author believes they followed the rules but were still penalized, suggesting a perception of arbitrary or biased moderation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is frustrated but tries to appear accepting of the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",2,representatives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 14:32,kztk6jg,ceeb116afb,Please retrieve message content using message id from Reddit repositories,1c5dsyz,"{
+    ""1"": {
+        ""content"": ""The author perceives the moderators as manipulative and hostile."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author feels personally targeted and insulted by the moderators' actions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author is annoyed and believes the process was unfair."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:36,kztkpl9,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kzterxw,"{
+    ""1"": {
+        ""content"": ""The author feels the ban duration and lack of communication are excessive and disrespectful."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author perceives the moderators as self-important and unreasonable."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.91
+    },
+    ""3"": {
+        ""content"": ""The author intends not to return to the group after the ban."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    }
+}",3,commissives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:37,kztkr9u,ab51c7cedd,Please retrieve message content using message id from Reddit repositories,kzterxw,"{
+    ""1"": {
+        ""content"": ""The responder empathizes with the author and shares a similar negative experience with moderators."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.94
+    },
+    ""2"": {
+        ""content"": ""The responder stereotypes moderators as power-hungry and petty."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",2,representatives,uncertain,IMP,CAG,
+AmIOverreacting,4/16/2024 14:38,kztkyd6,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztkr9u,"{
+    ""1"": {
+        ""content"": ""The responder is unfamiliar with the referenced subreddit and possibly skeptical of its relevance."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 14:53,kztn1lh,253c90de0a,Please retrieve message content using message id from Reddit repositories,kzterxw,"{
+    ""1"": {
+        ""content"": ""The responder is frustrated with the author's repeated complaints and perceives them as excessive."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder implies that the author should move on and stop complaining."",
+        ""type"": ""directives"",
+        ""confidence"": 0.92
+    }
+}",2,directives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 14:54,kztn6vc,253c90de0a,Please retrieve message content using message id from Reddit repositories,kztkpl9,"{
+    ""1"": {
+        ""content"": ""The responder believes the author's threat to not return is meaningless and that the group does not care."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder is dismissive of the author's feelings and intentions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 14:55,kztndqb,253c90de0a,Please retrieve message content using message id from Reddit repositories,kztk6jg,"{
+    ""1"": {
+        ""content"": ""The responder accuses the author of habitually playing the victim."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The responder believes the author is overreacting and needs to mature."",
+        ""type"": ""directives"",
+        ""confidence"": 0.91
+    }
+}",1,representatives,no,IMP,CAG,
+AmIOverreacting,4/16/2024 14:56,kztneze,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztn6vc," {
+    ""1"": {
+        ""content"": ""The author acknowledges the group does not want them back but maintains they were treated unfairly."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 14:57,kztnl7m,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztn1lh,"{
+    ""1"": {
+        ""content"": ""The author apologizes and expresses intent to move on from the issue."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.93
+    }
+}","""1""",commissives,yes,IMP,NAG,
+AmIOverreacting,4/16/2024 14:58,kztnp90,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztndqb,"{
+    ""1"": {
+        ""content"": ""The author is offended by the previous message and responds with direct hostility."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,yes,IMP,OAG,
+AmIOverreacting,4/16/2024 15:00,kzto2gb,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztnp90,"{
+    ""1"": {
+        ""content"": ""The author accuses the previous responder of being hypocritical and hostile."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 15:07,kztozru,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kzto2gb,"{
+    ""1"": {
+        ""content"": ""The author rejects the victim label and asserts their independence and willingness to confront others."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,expressives,yes,IMP,CAG,
+AmIOverreacting,4/16/2024 15:24,kztrkds,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztndqb,"{
+    ""1"": {
+        ""content"": ""The author admits fault and acknowledges misunderstanding the situation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    }
+}",1,representatives,uncertain,IMP,NAG,
+AmIOverreacting,4/16/2024 15:25,kztrrvo,ceeb116afb,Please retrieve message content using message id from Reddit repositories,kztkr9u,"{
+    ""1"": {
+        ""content"": ""The author reconsiders their position and admits possible misunderstanding of the moderators' actions."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.94
+    }
+}",1,representatives,uncertain,IMP,NAG,

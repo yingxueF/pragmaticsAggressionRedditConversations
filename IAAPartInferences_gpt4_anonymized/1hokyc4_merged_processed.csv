@@ -1,0 +1,154 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskIndia,,1hokyc4,31a9f140d5,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""There is a perceived lack of local initiative or responsibility for cleaning beaches, especially in pilgrimage areas."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author believes that foreigners should not be expected to organize local clean-up efforts."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""There is an implicit criticism of Indian society for treating beaches and nature as dump sites."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:51,m4ae7m0,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,1hokyc4,"{
+    ""1"": {
+        ""content"": ""NGOs are distrusted and perceived as corrupt or ineffective in India."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responsibility for cleaning lies with individuals and local authorities, not external organizations."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author is frustrated with people complaining rather than taking action themselves."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:52,m4aebwz,31a9f140d5,Please retrieve message content using message id from Reddit repositories,m4ae7m0,"{
+    ""1"": {
+        ""content"": ""The author feels that the previous message implies tourists should take responsibility for cleaning."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""There is a perceived lack of local concern for cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskIndia,12/29/2024 2:58,m4afaqy,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,m4aebwz,"{
+    ""1"": {
+        ""content"": ""The author believes public cleanliness should be managed by the government using tax money."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Volunteering for beach cleaning is only justified if it brings personal satisfaction."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""3"": {
+        ""content"": ""NGOs are viewed as scams or ineffective."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,no,IMP,CAG,
+AskIndia,12/29/2024 2:59,m4affq1,31a9f140d5,Please retrieve message content using message id from Reddit repositories,m4afaqy,"{
+    ""1"": {
+        ""content"": ""The author believes education and personal responsibility are more effective than government intervention for cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    }
+}",1,representatives,no,IMP,CAG,
+AskIndia,12/29/2024 3:01,m4afteo,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,m4affq1,"{
+    ""1"": {
+        ""content"": ""Government initiatives like Swatch Bharat Abhiyan are funded by taxes and are necessary for public cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""Expecting voluntary labor in a low-wage economy is unrealistic and entitled."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",2,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:02,m4afzix,31a9f140d5,Please retrieve message content using message id from Reddit repositories,m4afteo,"{
+    ""1"": {
+        ""content"": ""The author is expressing resignation and sarcasm about the lack of solutions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:04,m4ag9xo,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,m4afzix,"{
+    ""1"": {
+        ""content"": ""The author is mocking the previous poster for being upset and not contacting local authorities."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""Local municipalities are seen as the appropriate channel for addressing cleanliness issues."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:05,m4agf7p,31a9f140d5,Please retrieve message content using message id from Reddit repositories,m4ag9xo,"{
+    ""1"": {
+        ""content"": ""The author feels alienated and disappointed by the local community's indifference to cleanliness."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The lack of cleanliness is seen as a reason for poor tourism."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:09,m4ah092,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,m4agf7p,"{
+    ""1"": {
+        ""content"": ""The author is accusing the tourist of preferring to complain online rather than take action."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:12,m4ahjk8,31a9f140d5,Please retrieve message content using message id from Reddit repositories,m4ah092,"{
+    ""1"": {
+        ""content"": ""The author is frustrated by being expected to take responsibility for local issues as a foreigner."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.94
+    },
+    ""2"": {
+        ""content"": ""There is an implicit criticism of the local education system and societal norms regarding cleanliness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 3:14,m4ahum5,03ed8c75a7,Please retrieve message content using message id from Reddit repositories,m4ahjk8,"{
+    ""1"": {
+        ""content"": ""The author admits local responsibility for the problem and expresses resignation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    }
+}",1,expressives,no,IMP,CAG,
+AskIndia,12/29/2024 5:50,m4b5b8a,a04d6ba3bc,Please retrieve message content using message id from Reddit repositories,m4ae7m0,"{
+    ""1"": {
+        ""content"": ""There is skepticism about the expectation that foreign tourists should clean up local areas."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,uncertain,IMP,CAG,
+AskIndia,12/29/2024 5:52,m4b5jfp,a04d6ba3bc,Please retrieve message content using message id from Reddit repositories,1hokyc4,"{
+    ""1"": {
+        ""content"": ""A minority of people care about cleanliness, but the majority do not, leading to persistent littering."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    }
+}",1,representatives,uncertain,IMP,NAG,

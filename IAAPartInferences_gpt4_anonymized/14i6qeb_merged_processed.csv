@@ -1,0 +1,233 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskLGBT,,14i6qeb,6d26a089d2,Please retrieve message content using message id from Reddit repositories,,"{
+  ""1"": {
+    ""content"": ""The author presupposes that gender and biological sex are distinct concepts, and questions the terminology used for people who transition."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.95
+  },
+  ""2"": {
+    ""content"": ""The author implies skepticism about the ability to distinguish between genuine and non-genuine gender identity claims."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author presupposes that some people might pretend or lie about their gender identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.88
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:31,jpemvy5,03b0d7ea96,Please retrieve message content using message id from Reddit repositories,14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author believes in a close relationship between sex and gender, but acknowledges that assigned sex/gender can differ from biological sex/gender."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author implies that the term 'transgender' is preferred over 'transsexual' due to associations with sexuality and intercourse."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author expresses a stance of trust towards people's stated gender and pronouns, and suggests that those who lie will eventually reveal themselves."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",3,expressives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:38,jpennv5,b215d3a9c6,Please retrieve message content using message id from Reddit repositories,14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author questions the plausibility or motivation for someone to lie about their gender, implying skepticism toward the idea."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  }
+}",1,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 1:42,jpeo21y,fcd4dc4812,Please retrieve message content using message id from Reddit repositories,jpemvy5,"{
+  ""1"": {
+    ""content"": ""The author challenges the accuracy of the previous message's historical account of the term 'transsexual', implying the other person is misinformed."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author directs the previous poster to do more research, implying a lack of sufficient knowledge."",
+    ""type"": ""directives"",
+    ""confidence"": 0.88
+  }
+}",2,directives,yes,IMP,CAG,
+AskLGBT,6/25/2023 1:48,jpeotfc,03b0d7ea96,Please retrieve message content using message id from Reddit repositories,jpeo21y,"{
+  ""1"": {
+    ""content"": ""The author requests clarification on what was incorrect, implying a willingness to engage and learn."",
+    ""type"": ""directives"",
+    ""confidence"": 0.85
+  }
+}",1,directives,no,IMP,NAG,
+AskLGBT,6/25/2023 1:51,jpep7d7,fcd4dc4812,Please retrieve message content using message id from Reddit repositories,jpeotfc,"{
+  ""1"": {
+    ""content"": ""The author disputes the rarity of the term 'transsexual' and the reason for its uncommonness, implying the previous explanation was inaccurate."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:06,jpequpb,6d26a089d2,Please retrieve message content using message id from Reddit repositories,jpennv5,"{
+  ""1"": {
+    ""content"": ""The author implies that lying is a general human behavior and that it is possible in the context of gender identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author raises the issue of quantifying and detecting deception in gender identity, suggesting skepticism or concern about authenticity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.88
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:08,jper1t3,03b0d7ea96,Please retrieve message content using message id from Reddit repositories,jpep7d7,"{
+  ""1"": {
+    ""content"": ""The author clarifies their previous statement, maintaining that 'transgender' is more common than 'transsexual'."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.85
+  },
+  ""2"": {
+    ""content"": ""The author invites alternative explanations, showing openness to discussion."",
+    ""type"": ""directives"",
+    ""confidence"": 0.80
+  }
+}",2,directives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:08,jper5k8,b215d3a9c6,Please retrieve message content using message id from Reddit repositories,jpequpb,"{
+  ""1"": {
+    ""content"": ""The author uses analogy to question the focus on verifying trans people's identities, implying that such scrutiny is unusual and possibly discriminatory."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author challenges the motivation behind the concern, suggesting it is unwarranted or biased."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:13,jperpcy,fcd4dc4812,Please retrieve message content using message id from Reddit repositories,jper1t3,"{
+  ""1"": {
+    ""content"": ""The author clarifies that they did not claim transsexual is more common, but maintains it is not as rare as previously stated."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.85
+  },
+  ""2"": {
+    ""content"": ""The author provides historical context, suggesting that the term 'transsexual' became less common due to its use as a slur by cis people."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author recommends educational resources, implying the previous poster lacks sufficient knowledge."",
+    ""type"": ""directives"",
+    ""confidence"": 0.85
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:25,jpet0cc,6d26a089d2,Please retrieve message content using message id from Reddit repositories,jper5k8,"{
+  ""1"": {
+    ""content"": ""The author expresses frustration at not receiving a direct answer to their question."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:25,jpet1x2,c36e944ad9,Please retrieve message content using message id from Reddit repositories,14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author challenges the scientific validity of 'biological sex', suggesting it is a term used by anti-LGBTQ activists."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.92
+  },
+  ""2"": {
+    ""content"": ""The author asserts that gender is an intuitive identity, not based on physical characteristics."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""3"": {
+    ""content"": ""The author claims that only anti-LGBTQ propagandists pretend to be trans, implying that deception about gender identity is extremely rare."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  }
+}",3,representatives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:28,jpetbi8,b215d3a9c6,Please retrieve message content using message id from Reddit repositories,jpet0cc,"{
+  ""1"": {
+    ""content"": ""The author suggests that it is generally difficult to know if someone is lying about personal attributes, and that pretending to be trans is unlikely due to social risks."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author questions the personal relevance of the issue to the interlocutor, implying skepticism about their motives."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",2,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:43,jpev2i6,6d26a089d2,Please retrieve message content using message id from Reddit repositories,jpetbi8,"{
+  ""1"": {
+    ""content"": ""The author argues that most personal claims can be verified with evidence, implying that gender identity should also be verifiable."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author expresses a desire for truth and understanding, implying confusion or frustration with the lack of clear answers."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:50,jpevqnd,b215d3a9c6,Please retrieve message content using message id from Reddit repositories,jpev2i6,"{
+  ""1"": {
+    ""content"": ""The author implies that verifying personal claims through official documents is intrusive and socially unacceptable."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  },
+  ""2"": {
+    ""content"": ""The author suggests that excessive suspicion about people's identities is a sign of paranoia and may require therapy."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.88
+  }
+}",2,expressives,yes,IMP,CAG,
+AskLGBT,6/25/2023 2:54,jpewafl,c52a0a4105,Please retrieve message content using message id from Reddit repositories,14i6qeb,"{
+  ""1"": {
+    ""content"": ""The author asserts that biological sex is complex and not strictly binary, challenging common assumptions."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.93
+  },
+  ""2"": {
+    ""content"": ""The author highlights the risks and violence faced by trans people, implying that pretending to be trans is highly unlikely."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.95
+  },
+  ""3"": {
+    ""content"": ""The author suggests that active transitioning is strong evidence of genuine trans identity."",
+    ""type"": ""representatives"",
+    ""confidence"": 0.90
+  }
+}",2,representatives,yes,IMP,NAG,
+AskLGBT,6/25/2023 2:56,jpewgu1,c52a0a4105,Please retrieve message content using message id from Reddit repositories,jpet1x2,"{
+  ""1"": {
+    ""content"": ""The author affirms the claim that only anti-LGBTQ propagandists pretend to be trans, reinforcing the idea that deception is rare."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.90
+  }
+}",1,expressives,yes,IMP,NAG,
+AskLGBT,6/25/2023 3:04,jpexc0d,6d26a089d2,Please retrieve message content using message id from Reddit repositories,jpet1x2,"{
+  ""1"": {
+    ""content"": ""The author makes a sarcastic remark, possibly implying that the previous comment aligns with the user's identity or reputation."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.80
+  }
+}",1,expressives,no,IMP,CAG,
+AskLGBT,6/25/2023 3:31,jpf08ve,c36e944ad9,Please retrieve message content using message id from Reddit repositories,jpexc0d,"{
+  ""1"": {
+    ""content"": ""The author requests clarification, implying confusion or a desire to understand the previous sarcastic remark."",
+    ""type"": ""directives"",
+    ""confidence"": 0.80
+  }
+}",1,directives,no,IMP,NAG,
+AskLGBT,6/25/2023 3:38,jpf0zni,6d26a089d2,Please retrieve message content using message id from Reddit repositories,jpf08ve,"{
+  ""1"": {
+    ""content"": ""The author dismisses the previous message entirely, implying strong disagreement and possibly hostility."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,no,IMP,OAG,
+AskLGBT,6/25/2023 4:13,jpf4uyv,c36e944ad9,Please retrieve message content using message id from Reddit repositories,jpf0zni,"{
+  ""1"": {
+    ""content"": ""The author refutes the previous claim, pointing out that the original poster admitted confusion."",
+    ""type"": ""expressives"",
+    ""confidence"": 0.85
+  }
+}",1,expressives,yes,IMP,CAG,

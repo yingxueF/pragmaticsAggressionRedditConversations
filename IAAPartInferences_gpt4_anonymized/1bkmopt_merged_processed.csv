@@ -1,0 +1,156 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AfterMidnight,,1bkmopt,c4896762c2,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""The author feels discouraged from posting critical opinions about Taylor due to fear of community backlash (downvotes)."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author is a devoted fan of Taylor, possibly to the point of bias."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""Despite their admiration, the author believes Taylor was not perfect in the Jeff Probst episode and wants to discuss it."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",3,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 1:55,kvz7sr0,37d63ddbdf,Please retrieve message content using message id from Reddit repositories,1bkmopt,"{
+    ""1"": {
+        ""content"": ""The responder did not perceive any issues with the Jeff Probst episode and is seeking clarification."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder may implicitly challenge the original poster's negative view."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:00,kvz8ps6,c4896762c2,Please retrieve message content using message id from Reddit repositories,kvz7sr0,"
+{
+    ""1"": {
+        ""content"": ""The author is emotionally invested in Taylor and finds it difficult to discuss her flaws."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Taylor's insecurity and self-doubt during the episode were significant enough to affect the author emotionally."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is concerned about being perceived as overly critical or negative."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:00,kvz8pwy,bebf441911,Please retrieve message content using message id from Reddit repositories,kvz7sr0,"{
+    ""1"": {
+        ""content"": ""The responder did not find any problems with the episode and questions the original poster's criticism."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The responder aligns with the previous message's positive sentiment about the episode."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:06,kvz9kr9,c4896762c2,Please retrieve message content using message id from Reddit repositories,kvz8pwy,"{
+    ""1"": {
+        ""content"": ""The author wants to clarify that their criticism comes from a place of deep fandom and expertise."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author feels misunderstood and wants to distance themselves from being seen as a hater."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:11,kvzaa6b,c4896762c2,Please retrieve message content using message id from Reddit repositories,1bkmopt,"{
+    ""1"": {
+        ""content"": ""The author identifies as a devoted fan and is emotionally affected by Taylor's self-doubt."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author relates personally to Taylor's struggles and finds them triggering."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.93
+    }
+}",2,expressives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:17,kvzba91,37d63ddbdf,Please retrieve message content using message id from Reddit repositories,kvz8ps6,"{
+    ""1"": {
+        ""content"": ""Taylor's lack of polish is offset by her authenticity and unpredictability, which the author values."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author prefers authenticity over perfection in hosting."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 2:27,kvzcsxy,bebf441911,Please retrieve message content using message id from Reddit repositories,kvz8ps6,"{
+    ""1"": {
+        ""content"": ""Taylor's inexperience compared to Probst justifies her insecurity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author perceives the original poster's intense fandom as potentially unhealthy or obsessive."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author is warning the original poster to moderate their behavior and not seek out Taylor in real life."",
+        ""type"": ""directives"",
+        ""confidence"": 0.95
+    }
+}",3,directives,yes,IMP,OAG,
+AfterMidnight,3/22/2024 2:45,kvzfkem,c4896762c2,Please retrieve message content using message id from Reddit repositories,kvzba91,"{
+    ""1"": {
+        ""content"": ""The author is concerned that Taylor's public self-doubt could harm her reputation or show."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author appreciates mature, non-confrontational discussion."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+AfterMidnight,3/22/2024 3:14,kvzk126,c4896762c2,Please retrieve message content using message id from Reddit repositories,kvzcsxy,"{
+    ""1"": {
+        ""content"": ""The author believes that expressing even mild criticism leads to excessive negative feedback in the community."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author is skeptical of the sincerity of those who claim to love Taylor while criticizing her."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,CAG,
+AfterMidnight,3/22/2024 21:04,kw3i0u5,bebf441911,Please retrieve message content using message id from Reddit repositories,kvzk126,"{
+    ""1"": {
+        ""content"": ""The author feels wrongly accused of being critical and asserts their defense of Taylor."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author perceives the other as overly defensive and obsessed with Taylor."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,no,IMP,CAG,
+AfterMidnight,3/22/2024 22:21,kw3ving,c4896762c2,Please retrieve message content using message id from Reddit repositories,kw3i0u5,"{
+    ""1"": {
+        ""content"": ""The author is challenging the accusation that they declared the other person a problem."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,directives,uncertain,IMP,NAG,

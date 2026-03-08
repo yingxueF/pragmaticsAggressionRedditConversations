@@ -1,0 +1,162 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+Bumble,,10acvfb,c4bd090aa6,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""The user believes that accidental swipes can result in missing potential matches, which may not be recoverable without payment."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The user values the potential match highly and is disappointed by the possibility of losing it."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The user assumes that the app's matching system is not transparent or forgiving for mistakes."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+Bumble,1/12/2023 23:31,j43i2xn,8917bba81f,Please retrieve message content using message id from Reddit repositories,10acvfb,"{
+    ""1"": {
+        ""content"": ""The responder assumes that the original poster is anxious and insecure about online dating."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder believes that attractive women receive a large volume of attention and that the original poster's chances were low."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The responder is advising the original poster to adopt an 'abundance mindset' and to research attachment styles."",
+        ""type"": ""directives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,no,IMP,CAG,
+Bumble,1/13/2023 2:23,j447ip9,f919d75976,Please retrieve message content using message id from Reddit repositories,j43i2xn,"{
+    ""1"": {
+        ""content"": ""The responder perceives the previous message as unnecessarily rude or harsh."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,yes,IMP,NAG,
+Bumble,1/13/2023 3:50,j44joo2,8917bba81f,Please retrieve message content using message id from Reddit repositories,j447ip9,"{
+    ""1"": {
+        ""content"": ""The responder justifies their previous harshness as being for the original poster's benefit."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The responder believes that learning about attachment styles is crucial for long-term relationship success."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Bumble,1/13/2023 3:53,j44jzw4,f919d75976,Please retrieve message content using message id from Reddit repositories,j44joo2,"{
+    ""1"": {
+        ""content"": ""The responder challenges the assumption that asking a question is a sign of neediness or desperation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The responder suggests that the previous interpretation was incorrect or unfair."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,
+Bumble,1/13/2023 3:59,j44kum1,f919d75976,Please retrieve message content using message id from Reddit repositories,j44joo2,"{
+    ""1"": {
+        ""content"": ""The responder accuses the previous poster of arrogance and being condescending."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    }
+}",1,expressives,yes,IMP,OAG,
+Bumble,1/14/2023 2:14,j4989vv,c4bd090aa6,Please retrieve message content using message id from Reddit repositories,j43i2xn,"{
+    ""1"": {
+        ""content"": ""The user is not overly concerned about the lost match and is moving on."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The user is open to different types of relationships (e.g., wlw) and is learning from experience."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,yes,IMP,NAG,
+Bumble,1/14/2023 2:17,j498nil,c4bd090aa6,Please retrieve message content using message id from Reddit repositories,j44joo2,"{
+    ""1"": {
+        ""content"": ""The user rejects the label of 'anxious attachment' and asserts a different self-understanding."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The user clarifies that their question was due to unfamiliarity with the app, not emotional neediness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+Bumble,1/14/2023 2:19,j498wr6,8917bba81f,Please retrieve message content using message id from Reddit repositories,j4989vv,"{
+    ""1"": {
+        ""content"": ""The responder believes that online dating is a numbers game and that users should have low expectations."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The responder assumes that women receive more attention and experience decision paralysis."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The responder advises the user to improve their own attractiveness and mindset."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+Bumble,1/14/2023 2:21,j49963m,8917bba81f,Please retrieve message content using message id from Reddit repositories,j498nil,"{
+    ""1"": {
+        ""content"": ""The responder admits to making assumptions and believes that expressing excitement over a match can appear desperate."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The responder wants to help the original poster adjust their expectations to avoid disappointment."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,
+Bumble,1/14/2023 2:31,j49ahoo,c4bd090aa6,Please retrieve message content using message id from Reddit repositories,j498wr6," {
+    ""1"": {
+        ""content"": ""The user is taking a casual approach to dating apps and does not have high expectations."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The user is frustrated by the like limit on the app."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,yes,IMP,NAG,
+Bumble,1/14/2023 2:40,j49bq0q,8917bba81f,Please retrieve message content using message id from Reddit repositories,j49ahoo,"{
+    ""1"": {
+        ""content"": ""The responder believes that dating apps manipulate user engagement through boosts and premium features."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The responder assumes that women are less likely to initiate contact and that men must be proactive."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The responder advises being timely and proactive in messaging to maximize success."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,IMP,NAG,
+Bumble,1/14/2023 2:49,j49csgy,c4bd090aa6,Please retrieve message content using message id from Reddit repositories,j49bq0q,"{
+    ""1"": {
+        ""content"": ""literal"",
+        ""type"": ""none"",
+        ""confidence"": 0.85
+    }
+}",1,none,yes,,NAG,

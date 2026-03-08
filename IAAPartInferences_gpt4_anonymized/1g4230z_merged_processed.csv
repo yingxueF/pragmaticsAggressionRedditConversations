@@ -1,0 +1,143 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskLesbians,,1g4230z,4e45f1e00c,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""The author believes that consuming lesbian porn as a straight man may be perceived as homophobic or disrespectful by the LGBT community."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author values the opinions and comfort of the LGBT community and is willing to change his behavior to align with their expectations."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author assumes that being a political ally (voting Democrat, advocating for inclusion) is relevant to his question about sexual consumption habits."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+AskLesbians,10/15/2024 9:28,ls07pyf,35446319d9,Please retrieve message content using message id from Reddit repositories,1g4230z,"{
+    ""1"": {
+        ""content"": ""The respondent believes that watching lesbian porn as a straight man is more misogynistic than homophobic, due to its production for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The respondent presumes the original poster is consuming mainstream lesbian porn targeted at men."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+AskLesbians,10/15/2024 9:31,ls07xt7,4e45f1e00c,Please retrieve message content using message id from Reddit repositories,ls07pyf,"{
+    ""1"": {
+        ""content"": ""The author feels guilt and shame about their porn consumption and is willing to change if the community disapproves."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author struggles with porn addiction and virginity, which they see as personal shortcomings."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""3"": {
+        ""content"": ""The author is open to seeking help (e.g., accountability partner) to change their behavior."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:32,ls082vz,eb12ab7d32,Please retrieve message content using message id from Reddit repositories,1g4230z,"{
+    ""1"": {
+        ""content"": ""The respondent believes the original post is insincere or trolling."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent expresses contempt and dismissiveness toward the original poster."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:33,ls084cm,35446319d9,Please retrieve message content using message id from Reddit repositories,ls082vz,"{
+    ""1"": {
+        ""content"": ""The respondent implies that the original poster's profile contains embarrassing or incriminating information."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The respondent is warning others not to engage further with the original poster."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",2,directives,yes,IMP,CAG,
+AskLesbians,10/15/2024 9:34,ls08792,4e45f1e00c,Please retrieve message content using message id from Reddit repositories,ls07pyf,"{
+    ""1"": {
+        ""content"": ""The author is seeking clarification on whether there are more respectful types of lesbian porn."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author accepts the criticism that mainstream lesbian porn is made for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,directives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:35,ls08azj,eb12ab7d32,Please retrieve message content using message id from Reddit repositories,ls084cm,"{
+    ""1"": {
+        ""content"": ""The respondent believes the original poster is not a genuine ally and is instead a sexual deviant."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The respondent is expressing strong moral condemnation and hostility."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:41,ls08t6h,35446319d9,Please retrieve message content using message id from Reddit repositories,ls08792,"{
+    ""1"": {
+        ""content"": ""There exists lesbian porn made for lesbians, distinct from that made for the male gaze."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent refuses to assist the original poster in finding such content."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.85
+    }
+}",2,commissives,yes,IMP,CAG,
+AskLesbians,10/15/2024 9:44,ls092qs,35446319d9,Please retrieve message content using message id from Reddit repositories,ls07xt7,"{
+    ""1"": {
+        ""content"": ""The respondent suggests the original poster's virginity is due to their sexual interests, which are seen as abnormal."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The respondent is mocking and shaming the original poster for their sexual preferences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",2,expressives,yes,IMP,OAG,
+AskLesbians,10/15/2024 9:45,ls093vf,4e45f1e00c,Please retrieve message content using message id from Reddit repositories,ls08t6h,"{
+    ""1"": {
+        ""content"": ""The author recognizes their post has upset others and expresses remorse."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author deleted their post as a response to community disapproval."",
+        ""type"": ""commissives"",
+        ""confidence"": 0.90
+    }
+}",1,expressives,yes,IMP,NAG,
+AskLesbians,10/15/2024 9:47,ls09bbg,4e45f1e00c,Please retrieve message content using message id from Reddit repositories,ls092qs,"{
+    ""1"": {
+        ""content"": ""The author acknowledges the criticism that their sexual preferences may contribute to their virginity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author feels resigned or helpless about changing their sexual preferences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,NAG,

@@ -1,0 +1,219 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+Askpolitics,,1e9h8p2,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,," {
+    ""1"": {
+        ""content"": ""There is a significant threat of political violence against Kamala Harris due to her identity as a Black woman and the current political climate."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Republicans, especially Trump's base, are perceived as a primary source of political violence and racial animosity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""Extra security measures may be necessary to protect minority candidates in the US political system."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,NAG,
+Askpolitics,7/22/2024 17:50,leeb0zd,8de3358eec,Please retrieve message content using message id from Reddit repositories,1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is fully capable of protecting Kamala Harris."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Concerns about her safety are exaggerated or unfounded."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 17:56,leec21t,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,leeb0zd,"{
+    ""1"": {
+        ""content"": ""The Secret Service failed to protect Trump, casting doubt on their effectiveness."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The previous statement's confidence in the Secret Service is questionable."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 18:44,leekxok,8de3358eec,Please retrieve message content using message id from Reddit repositories,leec21t,"{
+    ""1"": {
+        ""content"": ""Kamala Harris's situation is different from Trump's, so past failures may not apply."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/22/2024 18:55,leen2z1,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is not adequate to protect the Vice President."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Additional security and scrutiny of hate groups are necessary."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    },
+    ""3"": {
+        ""content"": ""Current hate groups are a resurgence of previously abolished groups."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/22/2024 19:32,leeu27y,6e8404986f,Please retrieve message content using message id from Reddit repositories,1e9h8p2,"{
+    ""1"": {
+        ""content"": ""Kamala Harris will be safe; concerns are overblown."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""Riots at the DNC are a more significant concern than threats to Harris."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 19:34,leeujyp,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,leeu27y,"{
+    ""1"": {
+        ""content"": ""The US is currently experiencing high political volatility, making the original question about Harris's safety valid."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The previous reply downplays real and recent threats."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 19:50,leexgsc,6e8404986f,Please retrieve message content using message id from Reddit repositories,leeujyp,"{
+    ""1"": {
+        ""content"": ""Right-wing groups are not responsible for recent major violent events; left-wing groups are."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The threat from the right is overstated."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 20:01,leezq2t,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,leexgsc,"{
+    ""1"": {
+        ""content"": ""Right-wing extremists have committed more violent attacks than left-wing or Islamic extremists in recent years."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The threat from the right is real and substantiated."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The previous message is misinformed and should be corrected through research."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/22/2024 20:02,leezyiq,6e8404986f,Please retrieve message content using message id from Reddit repositories,leezq2t,"{
+    ""1"": {
+        ""content"": ""The threat from the right is not a real issue."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The previous message is exaggerating or misrepresenting the situation."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/23/2024 17:04,lejxy9z,f32c971325,Please retrieve message content using message id from Reddit repositories,1e9h8p2,"{
+    ""1"": {
+        ""content"": ""The Secret Service is currently unreliable for protecting high-profile politicians."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Kamala Harris should consider hiring private security."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/23/2024 17:05,lejy95a,f32c971325,Please retrieve message content using message id from Reddit repositories,leekxok,"{
+    ""1"": {
+        ""content"": ""The Secret Service is not trustworthy or safe for any politician at present."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    }
+}",1,representatives,yes,IMP,NAG,
+Askpolitics,7/23/2024 18:11,lekao2r,8de3358eec,Please retrieve message content using message id from Reddit repositories,lejy95a,"{
+    ""1"": {
+        ""content"": ""Security agencies like DHS may act in their own interests, not just those of the politicians they protect."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""Political leaders who challenge entrenched power structures face greater risks from those meant to protect them."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/23/2024 21:31,lelctkl,6948af05a5,Please retrieve message content using message id from Reddit repositories,leen2z1,"{
+    ""1"": {
+        ""content"": ""Despite past failures, the Secret Service is still more competent and better resourced than private security."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,no,IMP,NAG,
+Askpolitics,7/23/2024 21:34,leldi0c,6948af05a5,Please retrieve message content using message id from Reddit repositories,leezq2t,"{
+    ""1"": {
+        ""content"": ""The assassination attempt was not ideologically motivated but rather an act of personal notoriety."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""Violence from the right is more about removing rights, while violence from the left is about protecting rights."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    },
+    ""3"": {
+        ""content"": ""Arguments should be based on verifiable facts to be persuasive."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/23/2024 21:35,leldptd,6948af05a5,Please retrieve message content using message id from Reddit repositories,leezyiq,"{
+    ""1"": {
+        ""content"": ""Far-right violence aims to remove rights, while far-left violence aims to preserve rights."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""Equating left and right violence is a false equivalence."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+Askpolitics,7/24/2024 12:38,leoricd,a842ed8cc1,Please retrieve message content using message id from Reddit repositories,lelctkl,"{
+    ""1"": {
+        ""content"": ""The Secret Service is unprepared for future threats."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,uncertain,IMP,NAG,
+Askpolitics,7/24/2024 16:16,lepm92j,98124f83a3,Please retrieve message content using message id from Reddit repositories,leldi0c,"{
+    ""1"": {
+        ""content"": ""The perpetrator of the attack was likely a right-wing extremist motivated by civil war rhetoric."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,CAG,
+Askpolitics,7/24/2024 16:18,lepmhhl,98124f83a3,Please retrieve message content using message id from Reddit repositories,leldptd,"{
+    ""1"": {
+        ""content"": ""Right-wing extremists infiltrated and escalated violence at left-wing protests."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,uncertain,IMP,CAG,

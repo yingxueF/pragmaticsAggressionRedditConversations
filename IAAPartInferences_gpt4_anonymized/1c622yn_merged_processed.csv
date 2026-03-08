@@ -1,0 +1,273 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+AskAnAustralian,,1c622yn,62fbf1463e,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""There is a recent trend of digital fake IDs among university students."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author is uncertain about the correct legal/procedural response to digital fake IDs."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author assumes that other bouncers or bar staff may have encountered similar issues and can offer advice."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",2,expressives,yes,IMP,NAG,
+AskAnAustralian,4/17/2024 8:04,kzy6nqh,ffa9f6207b,Please retrieve message content using message id from Reddit repositories,1c622yn,"{
+    ""1"": {
+        ""content"": ""Confiscating a phone could be considered theft or a criminal offence."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Attempting to access someone’s digital device without permission is illegal and risky."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The only safe and legal action is to report the incident to the police."",
+        ""type"": ""directives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,IMP,NAG,
+AskAnAustralian,4/17/2024 14:18,kzz557s,98980a1c5d,Please retrieve message content using message id from Reddit repositories,1c622yn,"{
+    ""1"": {
+        ""content"": ""Bouncers have no legal right to confiscate property from patrons."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author hopes that bouncers who confiscate property will face legal consequences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AskAnAustralian,4/17/2024 14:58,kzzav82,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,kzz557s,"{
+    ""1"": {
+        ""content"": ""The author believes minors breaking the law (using fake IDs) deserve consequences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author questions the legality of charging bouncers for confiscating illegal items."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/17/2024 15:08,kzzc9z7,98980a1c5d,Please retrieve message content using message id from Reddit repositories,kzzav82,"{
+    ""1"": {
+        ""content"": ""Taking someone’s phone is considered theft, regardless of the context."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Security staff are not authorized to act as law enforcement."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/17/2024 15:16,kzzdihg,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,kzzc9z7,"{
+    ""1"": {
+        ""content"": ""The author believes police will not take theft claims seriously if the item was used for illegal activity."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author expresses contempt for those who would report such thefts."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AskAnAustralian,4/17/2024 15:33,kzzfylh,ffa9f6207b,Please retrieve message content using message id from Reddit repositories,kzzdihg,"{
+    ""1"": {
+        ""content"": ""Confiscating a phone could lead to serious legal consequences for the bouncer and employer."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""There is a risk of being accused of more serious crimes if the phone contains sensitive material."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author wishes for bouncers who confiscate phones to face consequences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/17/2024 16:09,kzzltcn,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,kzzfylh,"{
+    ""1"": {
+        ""content"": ""The author downplays the seriousness of confiscating a phone, equating it to a minor issue."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author suggests an alternative (taking a photo) to confiscation."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    },
+    ""3"": {
+        ""content"": ""The author believes police are generally uninterested in theft cases."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 5:40,l03eoa7,82389ff59e,Please retrieve message content using message id from Reddit repositories,kzzltcn,"{
+    ""1"": {
+        ""content"": ""Bouncers have no legal right to confiscate phones; doing so is theft."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""Theft by bouncers is easily provable and exposes the establishment to legal risk."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author criticizes those who justify theft because the victim is underage."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/18/2024 5:46,l03fh3n,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,l03eoa7,"{
+    ""1"": {
+        ""content"": ""The author expresses little sympathy for those who face consequences after breaking rules."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author advises people to act honestly to avoid trouble."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 6:22,l03jpef,82389ff59e,Please retrieve message content using message id from Reddit repositories,l03fh3n,"{
+    ""1"": {
+        ""content"": ""Stealing property is illegal and will result in legal consequences."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author mocks the idea that theft is justified by the victim’s actions."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/18/2024 8:07,l03udxo,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,l03jpef,"{
+    ""1"": {
+        ""content"": ""The author believes confiscating is not stealing if the item is returned."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author claims to be savvy enough to avoid legal trouble."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 11:13,l049s6k,98980a1c5d,Please retrieve message content using message id from Reddit repositories,kzzdihg,"{
+    ""1"": {
+        ""content"": ""The author believes the law protects their property rights, even if the item is illegal."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author criticizes those who take the law into their own hands."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/18/2024 11:14,l049vck,98980a1c5d,Please retrieve message content using message id from Reddit repositories,l03udxo,"{
+    ""1"": {
+        ""content"": ""The author believes the previous poster is naive about legal matters."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    },
+    ""2"": {
+        ""content"": ""The author expresses disdain and urges the other to mature."",
+        ""type"": ""directives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 11:26,l04avc8,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,l049s6k,"{
+    ""1"": {
+        ""content"": ""The author believes police do not help those who lose illegal property."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author claims personal experience with law enforcement without consequences."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 11:34,l04bhtc,98980a1c5d,Please retrieve message content using message id from Reddit repositories,l04avc8,"{
+    ""1"": {
+        ""content"": ""Security guards are not authorized to confiscate phones and defend theft in court."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author believes the previous poster is delusional."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,representatives,yes,IMP,CAG,
+AskAnAustralian,4/18/2024 12:03,l04dz1j,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,l04bhtc,"{
+    ""1"": {
+        ""content"": ""Not all crimes are prosecuted; police resources are limited."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author mocks those who would involve police over minor property disputes."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 13:51,l04pb5w,82389ff59e,Please retrieve message content using message id from Reddit repositories,l03udxo,"{
+    ""1"": {
+        ""content"": ""The author uses sarcasm to highlight the absurdity of justifying confiscation as borrowing."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author insults the previous poster, implying drug use impairs judgment."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 14:01,l04qk5f,98980a1c5d,Please retrieve message content using message id from Reddit repositories,l04dz1j,"{
+    ""1"": {
+        ""content"": ""The author is mocking or dismissing the bravado of the previous poster."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    }
+}",1,expressives,uncertain,IMP,CAG,
+AskAnAustralian,4/18/2024 15:01,l04ysip,6cd7f1c2f0,Please retrieve message content using message id from Reddit repositories,l04pb5w,"{
+    ""1"": {
+        ""content"": ""The author accepts a challenge to take their property, implying a belief in might-makes-right."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.80
+    },
+    ""2"": {
+        ""content"": ""The author downplays the harm of drug use, specifically marijuana."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.75
+    }
+}",1,expressives,no,IMP,CAG,
+AskAnAustralian,4/18/2024 15:37,l054bey,82389ff59e,Please retrieve message content using message id from Reddit repositories,l04ysip,"{
+    ""1"": {
+        ""content"": ""The author uses sarcasm to mock the idea that property can be taken at will."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    },
+    ""2"": {
+        ""content"": ""The author expresses concern about the other’s drug use and future prospects."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,expressives,uncertain,IMP,CAG,

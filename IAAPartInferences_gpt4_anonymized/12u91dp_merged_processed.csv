@@ -1,0 +1,215 @@
+Subreddit,Time,Message_ID,Message_Author,Message_Content,Reply_To,Pragmatic_Inferences,most_salient_inference,inference_type,as_intended,PRE/IMP,aggressive,note
+canadahousing,,12u91dp,aa8732daa2,Please retrieve message content using message id from Reddit repositories,,"{
+    ""1"": {
+        ""content"": ""The author assumes that verifying tenant payment history is important for assessing the value or risk of purchasing a property sold by power of sale."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that it may be possible or permissible to request bank drafts or payment history from tenants."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""3"": {
+        ""content"": ""The author is inexperienced in real estate investment and is seeking guidance on due diligence procedures."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/22/2023 0:12,jh78oh1,90b434b172,Please retrieve message content using message id from Reddit repositories,12u91dp,"{
+    ""1"": {
+        ""content"": ""The author believes that being a landlord is morally questionable and socially harmful."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.95
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that investing in stocks and ETFs is a more ethical and practical way to build wealth than property ownership."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    },
+    ""3"": {
+        ""content"": ""The author is attempting to dissuade the original poster from becoming a landlord."",
+        ""type"": ""directives"",
+        ""confidence"": 0.93
+    }
+}",1,expressives,yes,IMP,CAG,
+canadahousing,4/22/2023 0:27,jh7an2j,30ed5e986d,Please retrieve message content using message id from Reddit repositories,jh78oh1,"{
+    ""1"": {
+        ""content"": ""The author rejects the stereotype that all landlords are 'vile' and asserts that being a landlord is not inherently immoral."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author has personal experience with landlords who were not exploitative."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/22/2023 0:29,jh7aush,aa8732daa2,Please retrieve message content using message id from Reddit repositories,jh78oh1,"{
+    ""1"": {
+        ""content"": ""The author prefers real estate investment over financial products and feels misunderstood by the previous commenter."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that the property is being sold by creditors due to landlord default, not by the landlord directly."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""3"": {
+        ""content"": ""The author asserts financial independence and is seeking diversification, not capital accumulation."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.87
+    }
+}",2,representatives,yes,PRE,CAG,
+canadahousing,4/22/2023 0:48,jh7davc,90b434b172,Please retrieve message content using message id from Reddit repositories,jh7an2j,"{
+    ""1"": {
+        ""content"": ""The author believes that landlordism is exploitative and gives undue power to landlords over tenants."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.96
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that the current system of property rental is fundamentally unjust."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.91
+    }
+}",1,expressives,yes,IMP,CAG,
+canadahousing,4/22/2023 0:49,jh7dfad,90b434b172,Please retrieve message content using message id from Reddit repositories,jh7aush,"{
+    ""1"": {
+        ""content"": ""The author assumes that creditors, not landlords, are now collecting rent due to the default."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/22/2023 1:01,jh7eulk,30ed5e986d,Please retrieve message content using message id from Reddit repositories,jh7davc,"{
+    ""1"": {
+        ""content"": ""The author believes that the quality of a landlord is determined by their actions, not the institution itself."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that home ownership comes with significant hidden costs and responsibilities."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""3"": {
+        ""content"": ""The author has had both positive and negative experiences with landlords, suggesting variability in landlord behavior."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.85
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/22/2023 1:32,jh7ipq1,813cf0fc6e,Please retrieve message content using message id from Reddit repositories,jh7davc,"{
+    ""1"": {
+        ""content"": ""The author challenges the notion that landlordism is uniquely exploitative, equating it with other forms of commerce."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author suggests that regulation, not abolition, is the solution to perceived abuses in property ownership."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    },
+    ""3"": {
+        ""content"": ""The author expresses frustration with complacency and rhetorical inconsistency in the debate."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.87
+    }
+}",1,representatives,no,IMP,CAG,
+canadahousing,4/22/2023 1:35,jh7j5i1,813cf0fc6e,Please retrieve message content using message id from Reddit repositories,jh78oh1,"{
+    ""1"": {
+        ""content"": ""The author accuses the previous commenter of hypocrisy for condemning landlordism while endorsing dividend investing."",
+        ""type"": ""expressives"",
+        ""confidence"": 0.94
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that both landlordism and dividend investing involve earning money without direct labor."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.91
+    }
+}",1,expressives,no,IMP,CAG,
+canadahousing,4/22/2023 1:38,jh7jgka,90b434b172,Please retrieve message content using message id from Reddit repositories,jh7j5i1,"{
+    ""1"": {
+        ""content"": ""The author distinguishes between investing in productive companies and being a landlord, viewing the latter as parasitic."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that housing would exist without landlords, implying landlordism is unnecessary."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.89
+    }
+}",1,representatives,yes,IMP,CAG,
+canadahousing,4/23/2023 7:12,jhcz1my,48d3c5f658,Please retrieve message content using message id from Reddit repositories,jh7ipq1,"{
+    ""1"": {
+        ""content"": ""The author rejects the analogy between shelter and other products, asserting the unique necessity of housing."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 7:16,jhczdt3,48d3c5f658,Please retrieve message content using message id from Reddit repositories,jh7j5i1,"{
+    ""1"": {
+        ""content"": ""The author believes that housing is a zero-sum game and that property investment directly reduces housing availability for others."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.93
+    },
+    ""2"": {
+        ""content"": ""The author presupposes that stock investment is fundamentally different from property investment due to its non-rivalrous nature."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.90
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 7:27,jhd0c2i,48d3c5f658,Please retrieve message content using message id from Reddit repositories,jh7aush,"{
+    ""1"": {
+        ""content"": ""The author presupposes that legal and privacy constraints prevent access to tenant payment history unless voluntarily provided."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.92
+    },
+    ""2"": {
+        ""content"": ""The author warns that the buyer will inherit existing leases and potential eviction issues."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 7:34,jhd0w5d,aa8732daa2,Please retrieve message content using message id from Reddit repositories,jhd0c2i,"{
+    ""1"": {
+        ""content"": ""The author presupposes that tenant cooperation in providing lease contracts is a reasonable expectation for a prospective owner."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.89
+    },
+    ""2"": {
+        ""content"": ""The author implies that tenants who refuse to provide information are likely problematic."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.87
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 7:40,jhd1d76,48d3c5f658,Please retrieve message content using message id from Reddit repositories,jhd0w5d,"{
+    ""1"": {
+        ""content"": ""The author presupposes that obtaining lease copies and speaking with tenants is part of due diligence."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.88
+    },
+    ""2"": {
+        ""content"": ""The author implies that uncooperative tenants signal underlying problems with the property."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.86
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 19:09,jhewl4g,dd5f43ed53,Please retrieve message content using message id from Reddit repositories,jhd0w5d,"{
+    ""1"": {
+        ""content"": ""The author presupposes that prospective buyers have no legal right to contact tenants before purchase."",
+        ""type"": ""representatives"",
+        ""confidence"": 0.91
+    },
+    ""2"": {
+        ""content"": ""The author warns that lack of transparency from the seller is a red flag for the transaction."",
+        ""type"": ""directives"",
+        ""confidence"": 0.88
+    }
+}",1,representatives,yes,PRE,NAG,
+canadahousing,4/23/2023 19:11,jhewukp,dd5f43ed53,Please retrieve message content using message id from Reddit repositories,12u91dp,"{
+    ""1"": {
+        ""content"": ""The author suggests that the original poster should seek advice from a specialized real estate investing community."",
+        ""type"": ""directives"",
+        ""confidence"": 0.85
+    }
+}",1,directives,uncertain,IMP,NAG,
